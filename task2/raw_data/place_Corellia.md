@@ -1,1 +1,590 @@
-`\t \t\t \n\n\t\n\nContent approaching.\n\nParts of this article are no longer up to date. This article needs updating from multiple sources. Click the dropdown below to see the full list.\n\n[Show] Sources\n\nPlease update the article to include missing information, and remove this template when finished.\n\n\t\n\nCorellia\nAstrographical information\nRegion\nCore Worlds[1]\nSector\nCorellian sector[2]\nSystem\nCorellian system[2]\nGrid square\nM-11[3]\nSuns\n1:[4] Corell[5]\nMoons\n3:[6]\nCorellia's nearest moon[5]\nGus[7]\nGus Talon[7]\nTrade routes\nCorellian Run[3]\nCorellian Trade Spine[3]\nRotation period\n25 standard hours[8]\nOrbital period\n329 standard days[8]\nPhysical information\nClass\nTerrestrial[8]\nDiameter\n11,000 kilometers (6,835 miles)[6]\nAtmosphere\nBreathable[9]\nClimate\nTemperate[1]\nTerrain\nForests[1]\nJungles[1]\nOceans[10]\nIndustrial urban[1]\nPoints of interest\nBottoms[5]\nGilded Descent Casino[11]\nImperial training center[12]\nNavigation institute[12]\nSanthe Shipyards[13]\nFacility 301G[14]\nUnbroken Clan Palace[15]\nYT-Series Warranty and Repair Shipyard B33[16]\nFlora\nTree[1]\nFauna\nBay squid[17]\nBluevev glider[18]\nCorellian gluttonbug[17]\nCorellian hound[1]\nCorellian sand panther[19]\nGarsmelt[18]\nNeedlegawp[18]\nPulsar skate[20]\nScreerat[10]\nSnomat[7]\nSpukami[19]\nStarlow[17]\nSocietal information\nNative species\nHuman[21]\nCorellian[21]\nOther species\nArcona[7]\nBesalisk[21]\nBonbrak[7]\nDowutin[7]\nGrindalid[10]\nKel Dor[5]\nKubaz[7]\nLasat[7]\nMantellian Savrip[7]\nPa'lowick[5]\nRodian[5]\nSullustan[5]\nTwi'lek[10]\nUgor[10]\nWeequay[7]\nWookiee[7]\nPopulation\n3 billion[8]\nDemonym\nCorellian[22]\nMajor cities\nCoronet City (capital)[7]\nKor Vella[5]\nTyrena[23]\nBela Vistal[20]\nDoaba Guerfel[20]\nMajor exports\nStarships[1]\nAffiliation\nGalactic Republic[8]\nGalactic Empire[1]\nNew Republic[9]\nFirst Order (occupation)[24]\n[Source]\n\n"Well, I admire anyone who can crawl their way out of the sewer. Especially a sewer as putrid as Corellia."\n―Dryden Vos, to Han Solo[10]\n\nCorellia was a planet located in the galaxy's Core Worlds known for its ace pilots and large starships. The planet's vast shipyards produced many vessels over hundreds of years, including starfighters and Star Destroyers for the Galactic Empire as well as other famous models, such as the YT-1300 light freighter.\n\nIt was the homeworld of Han Solo, Qi'ra,[5] Wedge Antilles, Crix Madine, BoShek,[25] the Besalisk Gadren,[21] the Executive Records Officer Winshur Bratt,[20] the bounty hunters Dengar[26] and Mercurial Swift,[27] and the Jedi younglings Kalifa[28] and Petro.[29]\n\nContents\n1\tDescription\n2\tHistory\n2.1\tEarly history\n2.2\tHigh Republic Era\n2.3\tTwilight of the Republic\n2.4\tAge of the Empire\n2.5\tRise of the New Republic\n2.6\tFirst Order\n3\tBehind the scenes\n4\tAppearances\n4.1\tNon-canon appearances\n5\tSources\n5.1\tNon-canon sources\n6\tNotes and references\n7\tExternal links\nDescription\n\nFlag of Corellia\n\nCorellia was located in the Corellian sector[2] in the Core Worlds. It had a temperate climate and was covered in forests, jungles, and urban centers.[1] The official planetary colors of Corellia were blue and gold.[7] One major city was Coronet City (also the planet's capital), which was home to shipyards that, during the Imperial Era, produced TIE fighters and Star Destroyers for the Galactic Empire.[10] The shipyards were one of Corellia's most prominent characteristics in addition to being known for producing capable pilots.[30] Corellia also manufactured the YT-1300 light freighter, including the Millennium Falcon.[31]\n\nThe planet's human inhabitants were called Corellians[21] and were known for their wanderlust.[1] Besides humans, Corellia was also inhabited by several alien species including Barbadelans,[10] Besalisks,[21] Czerialans, Grindalids,[10] Kel Dor, Pa'lowicks, Rodians, Sullustans,[5] Twi'leks, and Ugors.[10] In addition, Corellia was also home to several native creatures including Corellian hounds[1] and fleek eels.[18] The politics of Corellia were often dangerous and sometimes drew blood, with different politicians vying for new positions and engaging in shady deals.[7]\n\nHistory\nEarly history\n"There's so much history on Corellia! Too bad it's such an awful place."\n―DK-RA-43 in the Galactic Explorer's Guide[8]\n\nAn ancient Core World,[1] Corellia was the homeworld of natives known for their wanderlust. In the time before they explored the stars, Corellians embarked on ocean voyages to satisfy that wanderlust,[18] traversing the seas to discover new continents and catch vast quantities of fish.[2] After the advent of space travel, Corellian royalty sponsored exploration and colonization efforts that helped expand galactic civilization by furthering the frontiers of the Old Republic in its youth.[18] Corellian colonists settled on thousands of worlds, and its hyperspace scouts paved many of the galaxy's major hyperspace routes, making Corellia an important planet in the Galactic Republic.[8]\n\nThe planet became known through the galaxy for the Corellian people's wanderlust and its massive shipyards.[1] Eventually, the ancient Corellian royalty, which included Prince-Admiral Jonashe Solo, faded away and the throne stood vacant for many years.[4] In the millennia leading up to the Imperial Era, Corellia's key role in the expansion of galactic civilization[1] decreased and power shifted to younger, more vibrant planets. The once influential world gained a reputation as a polluted planet with extensive poverty and crime.[8] With its importance in galactic affairs reduced, Corellia was nonetheless recognized for its historic significance.[18]\n\nHigh Republic Era\n"Help us stop the Nihil. Help us save Corellia. If this planet falls to the Nihil, who knows what planet will be next, and you may have your gripes with the Republic, but that's nothing compared to the brutality and horror that life will become under the Nihil. Come to the shipyard! Come now! Fight for Corellia! Fight for the galaxy! Fight for light and life!"\n―Alys Ongwa[7]\n\nThe population came to show isolationist tendencies during the High Republic Era, leading to the creation of the satirical song Corellia for Corellians. The Nihil launched an infiltration of the Corellian government to help with the destruction of Starlight Beacon, but the infiltrators were defeated by a force of Jedi.[7] Nevertheless, the infiltration set the stage for a Corellian civil war in 229 BBY.[32] A hostage situation in Coronet City dragged on for several weeks.[33] The massacre at the Greens effectively wiped out the Nihil presence on Corellia.[34]\n\nTwilight of the Republic\n\nThe bounty hunter Cad Bane was involved in an incident on Corellia that he later said was humiliating.[35] Senator Garm Bel Iblis represented Corellia in the Galactic Senate by the end of the Clone Wars, but he was one of several senators who grew opposed to Supreme Chancellor Sheev Palpatine's governance.[36] The obscure Republic Group allegedly had ties to holding companies on Corellia, as well as some on Coruscant.[37]\n\nAge of the Empire\n"I don't like the Empire […] because it's what I ran away from on Corellia. It's a machine that turns people and places into credits, leaving the grass dead and the air polluted and the sea empty."\n―Midnight, on the Galactic Empire's effect on Corellia[4]\n\nCoronet City in 13 BBY\n\nWhen the Galactic Empire came to power, Corellia's shipyards were transformed into Imperial facilities,[18] and though Corellia was a faded industrial world, it was used to build TIE fighters and Star Destroyers for the Imperial Navy. Many impoverished Corellian commoners sought to escape their homeworld for a better life.[1] In the immediate aftermath of the Clone Wars, the Barsha family was set to take the lead in Imperial destroyer-production on Corellia through its factories, with family heir Jaylen Barsha expecting them to become the richest family on Corellia thanks to these contracts and for thousands of destroyers to be built in their facilities. However, the family "mistake" Sliro Barsha spotted an opportunity to make a name for himself and accused his family of plotting against Palpatine, destroying the Barsha family's standing and leading to his own rise through the Imperial ranks. Additionally, Sliro dispatched the reprogrammed BX-series droid commando ND-5 to wipe out his fellow Barshas, although Jaylen would manage to subdue and twist the droid to his own ends.[38]\n\nBy 13 BBY,[39] the Corellian Security Forces including its emigration officers had become an extension of the Imperial security forces on Corellia with Patrol Troopers assisting in policing matters.[18] Several crime syndicates including Lady Proxima's White Worms operated in the coastal Coronet City.[40] The White Worms used local street urchins called scrumrats as vermin-catchers, pick-pockets, errand runners, and crime operatives.[41] Two notable scrumrats were Han and Qi'ra who sought to escape the White Worms and Corellia by going offworld.[10] The Unbroken Clan had a palace located on Corellia where the Grand Leader resided.[15]\n\nAfter escaping the Den of the White Worms, Han and Qi'ra tried to escape through Coronet City Spaceport by bribing an emigration officer. However, Qi'ra was recaptured and sold to Sarkin Enneb. Han managed to travel offworld and join the Carida Academy as an Imperial cadet with the hopes of becoming a pilot. Due to his insubordination, however, Solo was reassigned to the Imperial Army and became a Swamp trooper on Mimban. Meanwhile, Qi'ra became the chief lieutenant to Dryden Vos in the Crimson Dawn crime syndicate.[10]\n\nAround 10 BBY, Nakano Lash's crew undertook a mission to Corellia,[32] as part of a war between the Unbroken Clan and the Mourner's Wail crime syndicates.[42] Also around ten years before the Battle of Yavin,[43] an organization known as the Corellian Resistance operated on the planet, fighting against the Empire. One of their members, Miru Nadrinakar, attempted to warn them of an upcoming crackdown.[44] Smuggler Sana Starros made use of a crash pad on Corellia that she stocked with supplies, including tea,[45] in 3 ABY.[46]\n\nAround that same time, Jaylen Barsha—by that time going by the name Jaylen Vrax—embarked on a campaign to finally unseat his brother Sliro, who by that time was a director in the Imperial Security Bureau and leader of the undercover crime syndicate Zerek Besh, as revenge for their family and himself losing the fortune their Corellian industrial might would have offered. In the end, Vrax succeeded and was granted control of Zerek Besh by the Empire, only for Vrax himself to be killed shortly after by the freed ND-5.[38]\n\nRise of the New Republic\n\nFollowing the Battle of Endor in 4 ABY, the bounty hunter Dengar tried to offer Mercurial Swift the opportunity to work in a partnership. However, the younger bounty hunter refused and the two men fought. Dengar warned Swift that the New Republic, the successor to the Alliance to Restore the Republic, would be imposing bounties on bounty hunters and that bounty hunters needed to form a union to work together. However, Swift ignored his advice.[9]\n\nKiza, Shadow of the Acolytes of the Beyond, was recruited on Corellia.\n\nIn 5 ABY, the dark side cult Acolytes of the Beyond recruited a low-class Corellian Pantoran girl named Kiza. The Acolytes worshiped the Sith and the dark side.[27] That year, the Acolytes staged an attack on Coronet City so that Kiza and a boy named Oblivion could infiltrate the Peace and Security Headquarters and steal a lightsaber from the archives beneath the prison. In the process, Kiza killed numerous Peace and Security officers while Oblivion severed detective Erno's blaster hand.[47]\n\nIn the months leading up to the Battle of Jakku, there was closer cooperation between the New Republic and Corellian law enforcement. Coronet City Peace and Security began linking its records to the growing New Republic database. This allowed Norra Wexley and her team to track down the bounty hunter Swift.[27]\n\nFacility 301G, a New Republic shipyard on Corellia.\n\nIn 9 ABY, the Santhe Shipyards were visited by Ahsoka Tano and General Hera Syndulla while investigating Imperial Remnant activities, directed there by an HK-87 assassin droid. On Corellia, the two met with Regional Supervisor Myn Weaver, who showed them the facilities of his New Republic shipyard, Facility 301G, where Imperial naval assets are being refitted for the New Republic Defense Fleet. Inside the shipyard's command center, Tano and Syndulla were attacked by former-Imperial workers while they questioned Weaver's actions.[14]\n\nTano broke out of the command center's window, descending to the factory floor, where she was challenged by the former Inquisitor Marrok, and the two dueled. Meanwhile, General Syndulla returned to the Phantom II and chased a Super Star Destroyer hyperdrive being ferried into orbit. The confrontations ended with the hyperdrive escaping, and Marrok departing, while New Republic soldiers arrested several shipyard workers, including Weaver.[14]\n\nFirst Order\n\nThe First Order engages Corellian forces in the air.\n\nThe First Order took over Corellia to claim its shipyards.[48] Afterwards, they established a presence on Corellia, beginning a planetary occupation and nationalizing the Corellian Engineering Corporation. Soon after the Battle of Crait, the Resistance launched a mission to Corellia to free Resistance sympathizers from the First Order. Poe Dameron and Finn went undercover to the birthday party of Nifera Shu to steal a list of Resistance members, but stormtroopers raided the party, forcing the Resistance to flee. As they escaped the planet, they were able to free Ransolm Casterfo and several other prisoners, and stole more ships for the fledgling Resistance navy.[20]\n\nAround the time of the mission to Batuu, the smuggler Hondo Ohnaka led a raid against a First Order cargo train, using the Millennium Falcon to steal a shipment of coaxium from the train and deliver it to the Resistance.[24]\n\nBy 35 ABY,[49] the Corellian Merchants' Guild was an influential guild in Thieves' Quarter on the planet Kijimi.[50] Following the Battle of Exegol, Corellia was in open rebellion against the First Order.[51]\n\nBehind the scenes\n\nCorellia has appeared in several spin-off media, including both Star Wars Legends and canon works, before making its first onscreen appearance in the 2018 Star Wars Anthology film Solo: A Star Wars Story.[10]\n\nIn the DVD commentary of Solo, set decorate Lee Sandales revealed that the film's crew pictured Corellia as the Star Wars version of Venice, Italy, specifically an "industrial" Venice. Filming of Corellia scenes took place in Southampton, England, most notably at Fawley Power Station[52]. Additionally, during the film's development, Lucasfilm design supervisor James Clyne was asked by the filmmakers to design a complete map of Corellia for the chase scene. Clyne did so, and he drew designs for other locations too, such as the Death Star and Cloud City.[53]\n\nAppearances\nStar Wars: Galactic Defense (Mentioned only)\nThe High Republic: Convergence (and audiobook) (Mentioned only)\nThe High Republic: Light of the Jedi (and audiobook) (Mentioned only)\nThe High Republic: A Test of Courage (and audiobook) (Mentioned only)\nThe High Republic: The Rising Storm (and audiobook) (Mentioned only)\nThe High Republic: Out of the Shadows (and audiobook) (Mentioned only)\nThe High Republic Adventures (2021) 11\n"Crash and the Crew Do What They Do" — The High Republic Adventures Annual 2021\nThe High Republic: Midnight Horizon (and audiobook)\nThe High Republic Adventures (2021) 12 (Appears in hologram)\nThe High Republic: The Fallen Star (and audiobook) (Mentioned only)\nThe High Republic Adventures (2021) 13 (Mentioned only)\nThe High Republic – Shadows of Starlight 1 (Mentioned only)\n"The Call of Coruscant" — The High Republic: Tales of Light and Life (and audiobook) (Mentioned only)\nThe High Republic: Eye of the Storm 2 (Mentioned only) (In flashback(s))\n"Rogue Element" — The High Republic: Tales of Light and Life (and audiobook)\nThe High Republic: Escape from Valo (and audiobook) (Mentioned only)\nThe High Republic Adventures (2023) 1 (In flashback(s))\nThe High Republic Adventures: Crash Landing\nThe High Republic Adventures (2023) 3 (Mentioned only)\n "Chronicles of Corellia: Heir Apparent" — Star Wars Insider 227\nThe High Republic Adventures (2023) 7\nThe High Republic Adventures: Crash and Burn\nThe High Republic – Fear of the Jedi 2 (Mentioned only)\nThe High Republic Adventures (2023) 20 (In flashback(s))\nThe Vow of Silver Dawn (Mentioned only)\nThe Acolyte: Wayseeker (and audiobook) (Mentioned only)\nMaster & Apprentice (and audiobook) (Mentioned only)\nThe Living Force (and audiobook) (Mentioned only)\nStar Wars Battlefront II (Mentioned only)\nInquisitor: Rise of the Red Blade (and audiobook) (Mentioned only)\nJedi of the Republic – Mace Windu 1 (Mentioned only)\nBrotherhood (and audiobook) (Mentioned only)\n"Bane's Story" — The Clone Wars: Stories of Light and Dark (and audiobook) (Mentioned only)\n Star Wars: The Clone Wars — "A Distant Echo" (Mentioned only) (poster only)\nMaster of Evil (Mentioned only)\n Star Wars: The Bad Batch — "Decommissioned"\nDarth Vader (2017) 10 (Mentioned only) (In Aurebesh text)\n Star Wars: The Bad Batch — "Battle Scars" (Mentioned only)\nReign of the Empire: The Mask of Fear (and audiobook) (Mentioned only)\nSanctuary: A Bad Batch Novel (Model only)\nThrawn (and audiobook) (Mentioned only)\n "Orientation" — Star Wars Insider 157 (reprinted in Star Wars Insider: The Fiction Collection Volume 1 and Lords of the Sith) (Mentioned only)\nDarth Vader (2017) 19 (Mentioned only)\nMost Wanted (and audiobook)\nHan Solo - Imperial Cadet 1\nCrimson Climb (and audiobook)\nHan Solo - Imperial Cadet 2 (In flashback(s))\nHan Solo - Imperial Cadet 3 (Mentioned only)\nHan Solo - Imperial Cadet 4 (Mentioned only)\nHan Solo - Imperial Cadet 5 (Mentioned only)\nLando's Luck (and audiobook) (Mentioned only)\nA New Dawn (and audiobook) (First mentioned)\nSolo: A Star Wars Story\nSolo: A Star Wars Story: Expanded Edition (and audiobook)\nSolo: A Star Wars Story Read-Along Storybook and CD\nSolo: A Star Wars Story: Meet the Crew\nSolo: A Star Wars Story Graphic Novel Adaptation\nSolo: A Star Wars Story Adaptation 1\nSolo: A Star Wars Story Adaptation 2 (Indirect mention only)\nSolo: A Star Wars Story Adaptation 3 (In flashback(s))\nSolo: A Star Wars Story Adaptation 4 (Mentioned only)\nSolo: A Star Wars Story Adaptation 5 (Mentioned only)\n "The End of History" — Star Wars Insider 154 (reprinted in Star Wars Insider: The Fiction Collection Volume 2) (Mentioned only)\n Star Wars: Obi-Wan Kenobi — "Part II" (Mentioned only)\nStar Wars Jedi: Survivor (Mentioned only)\nChoose Your Destiny: A Han & Chewie Adventure (and audiobook) (Mentioned only)\nHan Solo & Chewbacca 1\nHan Solo & Chewbacca 2\nHan Solo & Chewbacca 3\nHan Solo & Chewbacca 5 (Mentioned only)\nServants of the Empire: Edge of the Galaxy (Indirect mention only)\nThe Rebellion Begins (Mentioned only)\n Star Wars: Andor — "I Have Friends Everywhere" (Mentioned only)\nLeia, Princess of Alderaan (and audiobook) (Mentioned only)\n Star Wars Rebels — "In the Name of the Rebellion" (Mentioned only)\nStar Wars Adventures Free Comic Book Day 2019 (In flashback(s)) (Mentioned only)\nThe Odyssey of Star Wars: An Epic Poem (Mentioned only)\n"Sparks" — From a Certain Point of View (and audiobook) (Mentioned only)\nSmuggler's Run: A Han Solo & Chewbacca Adventure (and audiobook) (Mentioned only)\nStar Wars (2015) 58 (Mentioned only)\nBattlefront: Twilight Company (and audiobook) (Mentioned only)\n"Rendezvous Point" — From a Certain Point of View: The Empire Strikes Back (and audiobook) (Mentioned only)\n"Wait for It" — From a Certain Point of View: The Empire Strikes Back (and audiobook) (Mentioned only)\n"The Backup Backup Plan" — From a Certain Point of View: The Empire Strikes Back (and audiobook) (Mentioned only)\nBounty Hunters 1 (In flashback(s))\nBounty Hunters 3 (Appears in hologram) (In flashback(s))\nBounty Hunters 4 (In flashback(s))\nBounty Hunters 5 (In flashback(s))\nDoctor Aphra (2020) 6\nDoctor Aphra (2020) 7\nDoctor Aphra (2020) 8 (Mentioned only)\nBounty Hunters 10 (Mentioned only)\nDarth Vader (2020) 12 (In flashback(s))\nBounty Hunters 15\nDoctor Aphra (2020) 15 (Mentioned only)\nStar Wars (2020) 18 (In flashback(s))\nCrimson Reign 1 (Mentioned only)\nDoctor Aphra (2020) 16\nBounty Hunters 18 (In flashback(s))\nBounty Hunters 20\nDarth Vader (2020) 28 (Mentioned only)\nBounty Hunters 21\nBounty Hunters 22\nBounty Hunters 23 (In flashback(s))\nStar Wars Outlaws (Mentioned only)\nCrimson Reign 5 (In flashback(s))\nBounty Hunters 28\nSana Starros 3\nBounty Hunters 31\nBounty Hunters 33\nBounty Hunters 34\nStar Wars (2020) 30 (Mentioned only)\nDoctor Aphra (2020) 37\nDoctor Aphra (2020) 38\nBounty Hunters 40 (In flashback(s))\n"The Plan" — From a Certain Point of View: Return of the Jedi (and audiobook) (In flashback(s))\n"The Buy-In" — From a Certain Point of View: Return of the Jedi (and audiobook) (Mentioned only)\n"The Last Flight" — From a Certain Point of View: Return of the Jedi (and audiobook) (Mentioned only)\nThe Princess and the Scoundrel (and audiobook) (Appears on screen)\nAlphabet Squadron (and audiobook) (Indirect mention only)\nAftermath (and audiobook) (First appearance)\nShadow Fall: An Alphabet Squadron Novel (and audiobook) (Mentioned only)\nAftermath: Life Debt (and audiobook)\nVictory's Price: An Alphabet Squadron Novel (and audiobook) (Mentioned only)\nAftermath: Empire's End (and audiobook) (Appears in hologram)\nHunters: Battle for the Arena (and audiobook) (In flashback(s))\nStar Wars: Hunters (Mentioned only)\nThe Mandalorian Junior Novel (and audiobook) (Mentioned only)\n Star Wars: The Mandalorian — "Chapter 5: The Gunslinger" (Mentioned only)\n Star Wars: Ahsoka — "Part Two: Toil and Trouble"\nAhsoka 2\n Star Wars: Ahsoka — "Part Three: Time to Fly" (Mentioned only)\n Star Wars: Skeleton Crew — "Very Interesting, As an Astrogation Problem" (Mentioned in Aurebesh on computer screen)\n "Scorched" — Star Wars Insider 165 (reprinted in Star Wars Insider: The Fiction Collection Volume 2)\nStar Wars: The Last Jedi: Expanded Edition (and audiobook) (Mentioned only)\nLegacy of Vader 5 (Mentioned only)\nLegacy of Vader 6\nLegacy of Vader 7 (Mentioned only; in the opening crawl)\nLegacy of Vader 8 (Mentioned only)\nLegacy of Vader 10 (Mentioned only; in the opening crawl)\nLegacy of Vader 11 (Mentioned only; in the opening crawl)\nLegacy of Vader 12 (Mentioned only; in the opening crawl)\nResistance Reborn (and audiobook)\n "Flight of the Falcon, Part 3: Home Again" — Star Wars Adventures (2017) 16 (Indirect mention only)\n "Flight of the Falcon, Part 4: Lady and the Tramp" — Star Wars Adventures (2017) 17\nA Crash of Fate (and audiobook) (Mentioned only)\n Star Wars: Galaxy's Edge — Millennium Falcon: Smuggler's Run\nStar Wars: Batuu Bounty Hunters (Mentioned only)\n Star Wars Galaxy of Adventures — "Millennium Falcon - Smugglers Run"\nStar Wars: Galactic Starcruiser (Mentioned on sign)\nStar Wars: The Rise of Skywalker: Expanded Edition (and audiobook) (Mentioned only)\nStar Wars: The Rise of Skywalker: A Junior Novel (and audiobook) (Mentioned only)\nThe Last Order (Mentioned only) (In flashback(s))\nGhosts of Dathomir\nStar Wars: Galaxy of Heroes\nNon-canon appearances\n LEGO Star Wars: All-Stars — "The Chase with Han"\n LEGO Star Wars: All-Stars — "Escape with Chewbacca"\n "Corellian Run" — LEGO Star Wars 58\nLEGO Star Wars Summer Vacation (Mentioned only)\n "The Turbulent Trip" — LEGO Star Wars 87\nSources\n Han Solo in the Encyclopedia (original site is defunct)\n Kalifa in the Encyclopedia (original site is defunct)\n Millennium Falcon in the Encyclopedia (original site is defunct)\nStar Wars: Card Trader Set: Base Series 1 [Show]\nUltimate Star Wars\nStar Wars Helmet Collection: Tusken Raider Databank A-Z: Rush Clovis–Coruscant\nStar Wars: Absolutely Everything You Need to Know\nStar Wars: Build the Millennium Falcon 42 Guide to the Galaxy: Planets and Moons\nStar Wars: The Force Awakens: The Visual Dictionary\n Where in the Galaxy Are the Worlds of Star Wars: The Force Awakens? on StarWars.com (article) (backup link)\nStar Wars Character Encyclopedia: Updated and Expanded\nStar Wars Expert Guide\nStar Wars: The Force Awakens Beginner Game\nStar Wars: Complete Locations\nStar Wars Helmet Collection: Jess Pava Databank A-Z: Luke Skywalker–Han Solo\nStar Wars: Galactic Atlas\nEntertainment Weekly's Ultimate Guide to Rogue One\nStar Wars: Rogue One: The Ultimate Visual Guide\n Where in the Galaxy Are the Worlds of Rogue One? on StarWars.com (article) (backup link)\nNo Disintegrations\nStar Wars Helmet Collection: Wedge Antilles Helmets: Wedge Antilles\nStar Wars Helmet Collection: Death Trooper Weapons & Uniforms: Imperial Trooper Variants (Picture only)\nStar Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away\nStar Wars: Absolutely Everything You Need to Know, Updated and Expanded\nStar Wars: Geektionary: The Galaxy from A - Z\nStar Wars: The Rebel Files\nStar Wars: The Last Jedi: The Visual Dictionary\n Solo: A Star Wars Story "Big Game" TV Spot (:45) on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com) (First pictured)\n Solo: A Star Wars Story Official Teaser on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)\n Solo: A Star Wars Story Official Trailer on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)\nEntertainment Weekly's The Ultimate Guide to Han Solo\n Solo: A Star Wars Story | "Making Solo" Featurette on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)\n Solo: A Star Wars Story | Reviews on the official Star Wars YouTube channel (backup link)\n Solo: A Star Wars Story | "Solo Is" Reviews on the official Star Wars YouTube channel (backup link)\n Solo: A Star Wars Story | "Reviews" on the official Star Wars YouTube channel (backup link)\nSolo: A Star Wars Story The Official Guide\nSolo: A Star Wars Story: Tales from Vandor\nStar Wars: Card Trader Set: Worlds of Solo: A Star Wars Story, Card: Corellia\nStar Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious\nYT-1300 Millennium Falcon Owners' Workshop Manual\nStar Wars: Smuggler's Guide\n Star Wars By the Numbers: Every Creature in the Star Wars Movies on the official Star Wars Kids YouTube channel (original link is obsolete)\n Star Wars By the Numbers: Every Droid in Star Wars on the official Star Wars Kids YouTube channel (original link is obsolete)\nStar Wars: How Not to Get Eaten by Ewoks and Other Galactic Survival Skills\nGadgets and Gear\nStar Wars: Creatures Big & Small (Picture only)\nUltimate Star Wars, New Edition\nStar Wars: The Galactic Explorer's Guide\nStar Wars: Card Trader Set: 2020 Base Series [Show]\nStar Wars: The Rise of Skywalker: The Visual Dictionary\nStar Wars: Card Trader Set: Topps' Women of Star Wars, Card: Qi'ra\nStar Wars: Galaxy's Edge: Traveler's Guide to Batuu\nStar Wars Day-at-a-Time Calendar 2021\n"Imperial Troops" — Star Wars Encyclopedia\nThe Star Wars Book\n"The Battle of Hoth and the Second Death Star" — Star Wars Encyclopedia\n "Database" — Star Wars - Das offizielle Magazin 100\n"The Final Order and the Battle of Exegol" — Star Wars Encyclopedia\n"Boba Fett and Other Characters of the Underworld" — Star Wars Encyclopedia\n "Decommissioned" Episode Guide | The Bad Batch on StarWars.com (backup link)\n "Battle Scars" Episode Guide | The Bad Batch on StarWars.com (backup link)\n Star Wars Inside Intel: The Death Star on StarWars.com (article) (backup link)\n"Tobias Beckett and Other Characters of the Underworld" — Star Wars Encyclopedia\n Star Wars: The Black Series (The Power of the Force Figure: Han Solo) (backup link)\nStar Wars: Battles that Changed the Galaxy\nStar Wars: The Mandalorian Handbook\nStar Wars Droids Guide to a Galaxy Far, Far Away\n Star Wars: The High Republic Show: The Fallen Star, the Nameless First Look, and More! on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)\n"Pilots of the Rebel Alliance" — Star Wars Encyclopedia\n "Crime and Punishment" — Star Wars Insider 209\n Star Wars Inside Intel: Coruscant on StarWars.com (article) (backup link)\n"The End of the Clone Wars" — Star Wars Encyclopedia\n Ships of the Galaxy: The Halcyon Starcruiser on StarWars.com (article) (backup link)\n SWCA 2022: 7 Things We Learned from the Lucasfilm Publishing Behind the Page Panel on StarWars.com (backup link)\n"Core Worlds, Colonies, the Inner Rim and Expansion Region" — Star Wars Encyclopedia\nStar Wars: The High Republic: Chronicles of the Jedi\n Star Wars: The High Republic Show: High Republic Phase II Deep Dive, Star Wars Celebration, and More! on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)\n New Concept Art and More Revealed on Star Wars: The High Republic Show on StarWars.com (backup link)\n "Retrieval" Episode Guide | The Bad Batch on StarWars.com (backup link) (Picture only)\nStar Wars 100 Objects\nStar Wars: Timelines\n Fan Spotlight: "What Does Star Wars Mean to You?" on StarWars.com (backup link)\n Rebel Crew Featurette | Ahsoka | Disney+ on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)\n Episodes 1 & 2 Now Streaming | Ahsoka | Disney+ on the official Star Wars YouTube channel (backup link)\n Legacy | Ahsoka | Disney+ on the official Star Wars YouTube channel (backup link)\n Ahsoka Analyzed: 5 Highlights from "Part Two: Toil and Trouble" on StarWars.com (backup link)\n Anakin & Ahsoka's Reunion | Ahsoka | Disney+ on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)\nStar Wars: The Ultimate Cookbook\n "Launchpad" — Star Wars Insider 222\nStar Wars: Dawn of Rebellion: The Visual Guide\n Zeen Starts Again in Dark Horse's Star Wars: The High Republic Adventures Phase III #1 - Exclusive Preview on StarWars.com (backup link)\n "Launchpad" — Star Wars Insider 223\n "A Certain Point of View" — Star Wars Insider 223\n "Sacks Appeal" — Star Wars Insider 224 (Picture only)\nStar Wars: The Rise and Fall of the Galactic Empire\nStar Wars Bestiary, Vol. 1: Creatures of the Galaxy\nStar Wars Encyclopedia: The Comprehensive Guide to the Star Wars Galaxy\nStar Wars: Complete Locations, New Edition\n 'Star Wars: The High Republic - The Finale' and More Marvel 'Star Wars' Titles Revealed At Star Wars Celebration on Marvel Comics' official website (backup link)\nStar Wars: The Acolyte: The Visual Guide\n "Star Wars: The High Republic Companion: Phase III: Trials of the Jedi" — Star Wars Insider 234\nStar Wars: Galactic Atlas: Updated Edition\n Corellia in the Databank (backup link)\n Corellian hounds in the Databank (backup link)\n Coronet Spaceport in the Databank (backup link)\n Datarod in the Databank (backup link) (Picture only)\n Droid decommissioning facility in the Databank (backup link)\n Han Solo in the Databank (backup link)\n Han Solo's dice in the Databank (backup link)\n Han Solo's landspeeder in the Databank (backup link)\n Imperial patrol speeder in the Databank (backup link) (Picture only)\n Imperial Police Droids in the Databank (backup link) (Picture only)\n Kalifa in the Databank (backup link)\n Lady Proxima in the Databank (backup link)\n Millennium Falcon in the Databank (backup link)\n Moloch in the Databank (backup link)\n patrol troopers in the Databank (backup link)\n Petro in the Databank (backup link)\n Qi'ra in the Databank (backup link)\n Rebolt in the Databank (backup link)\n Scrumrats in the Databank (backup link)\n Syke in the Databank (backup link)\n Truckspeeder in the Databank (backup link)\n Wedge Antilles in the Databank (backup link)\n White Worms in the Databank (backup link)\n White Worms' den in the Databank (backup link)\nNon-canon sources\nLEGO Star Wars Yoda's Galaxy Atlas\n VISIONS FILMMAKER FOCUS: THE LOST ONES on the official Star Wars YouTube channel (backup link)\nNotes and references\n↑ \nJump up to:\n1.00 1.01 1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 1.11 1.12 1.13 1.14 1.15  Corellia in the Databank (backup link)\n↑ \nJump up to:\n2.0 2.1 2.2 2.3 Ultimate Star Wars, New Edition\n↑ \nJump up to:\n3.0 3.1 3.2 Star Wars: The Force Awakens Beginner Game\n↑ \nJump up to:\n4.0 4.1 4.2 Solo: A Star Wars Story: Tales from Vandor\n↑ \nJump up to:\n5.00 5.01 5.02 5.03 5.04 5.05 5.06 5.07 5.08 5.09 Most Wanted\n↑ \nJump up to:\n6.0 6.1 Star Wars: Complete Locations, New Edition\n↑ \nJump up to:\n7.00 7.01 7.02 7.03 7.04 7.05 7.06 7.07 7.08 7.09 7.10 7.11 7.12 7.13 7.14 7.15 The High Republic: Midnight Horizon\n↑ \nJump up to:\n8.0 8.1 8.2 8.3 8.4 8.5 8.6 8.7 Star Wars: The Galactic Explorer's Guide\n↑ \nJump up to:\n9.0 9.1 9.2 Aftermath\n↑ \nJump up to:\n10.00 10.01 10.02 10.03 10.04 10.05 10.06 10.07 10.08 10.09 10.10 10.11 10.12 Solo: A Star Wars Story\n↑ Han Solo - Imperial Cadet 2\n↑ \nJump up to:\n12.0 12.1  "Orientation" — Star Wars Insider 157\n↑ Star Wars: The Rebel Files\n↑ \nJump up to:\n14.0 14.1 14.2  Star Wars: Ahsoka — "Part Two: Toil and Trouble"\n↑ \nJump up to:\n15.0 15.1 Bounty Hunters 20\n↑ Darth Vader (2020) 12\n↑ \nJump up to:\n17.0 17.1 17.2 Hunters: Battle for the Arena\n↑ \nJump up to:\n18.0 18.1 18.2 18.3 18.4 18.5 18.6 18.7 18.8 Solo: A Star Wars Story The Official Guide\n↑ \nJump up to:\n19.0 19.1 Gadgets and Gear\n↑ \nJump up to:\n20.0 20.1 20.2 20.3 20.4 Resistance Reborn\n↑ \nJump up to:\n21.0 21.1 21.2 21.3 21.4 21.5 Battlefront: Twilight Company\n↑ Star Wars: Episode IV A New Hope\n↑ Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious\n↑ \nJump up to:\n24.0 24.1  Star Wars: Galaxy's Edge — Millennium Falcon: Smuggler's Run\n↑ Ultimate Star Wars\n↑ Star Wars: Galactic Defense\n↑ \nJump up to:\n27.0 27.1 27.2 Aftermath: Empire's End\n↑  Kalifa in the Encyclopedia (original site is defunct)\n↑  "The Gathering" Episode Gallery on StarWars.com (backup link) (Slide 8)\n↑  Han Solo Biography Gallery in the Databank (backup link) (Slide 12)\n↑  Millennium Falcon in the Encyclopedia (original site is defunct)\n↑ \nJump up to:\n32.0 32.1 Star Wars: Timelines\n↑ The High Republic Adventures (2023) 3\n↑ The High Republic Adventures (2023) 7\n↑ "Bane's Story" — The Clone Wars: Stories of Light and Dark\n↑ "The End of the Clone Wars" — Star Wars Encyclopedia\n↑ YT-1300 Millennium Falcon Owners' Workshop Manual\n↑ \nJump up to:\n38.0 38.1 Star Wars Outlaws\n↑ Star Wars: Timelines dates the events of Solo: A Star Wars Story which take place on Corellia to 13 BBY.\n↑  White Worms in the Databank (backup link)\n↑  Scrumrats in the Databank (backup link)\n↑ Bounty Hunters 2\n↑  Alexander Freed (@AlexanderMFreed) on Twitter (post): "I'd guess around 10 BBY, give or take a few years. But if it's not in the story, it's up for debate (and therefore not my call)." (backup link) (screenshot)\n↑  "The End of History" — Star Wars Insider 154\n↑ Doctor Aphra (2020) 7\n↑ Star Wars: Timelines dates the events of Doctor Aphra (2020) 7 to 3 ABY.\n↑ Aftermath: Life Debt\n↑ Legacy of Vader 6\n↑ Star Wars: Timelines dates the events of Star Wars: Episode IX The Rise of Skywalker to 35 ABY.\n↑ Star Wars: The Rise of Skywalker: The Visual Dictionary\n↑ Star Wars: The Rise of Skywalker: A Junior Novel\n↑  PHOTOS: Behind the scenes as Solo: A Star Wars Story films on Fawley Power Station | Daily Echo (backup link archived on April 8, 2024)\n↑ Solo: A Star Wars Story DVD commentary\nExternal links\n Corellia on the Disney Wiki\n Quiz: Which Droid Are You Taking on Your Next Adventure? on StarWars.com (backup link) (Picture only)\n Quiz: What Star Wars Crew Should You Join? on StarWars.com (backup link)\n Quiz: Which Star Wars: Skeleton Crew Character Would Be Your BFF? on StarWars.com (backup link)\nIn other languages\nбългарски\nčeština\nDeutsch\nΕλληνικά\nespañol\nfrançais\n한국어\nhrvatski\nitaliano\nქართული\nmagyar\nNederlands\n日本語\nnorsk\npolski\nportuguês\nromână\nsuomi\nTürkçe\nукраїнська\n中文`
+Content approaching.
+
+Parts of this article are no longer up to date. This article needs updating from multiple sources. Click the dropdown below to see the full list.
+
+ Sources
+
+Please update the article to include missing information, and remove this template when finished.
+
+ 
+
+Corellia
+Astrographical information
+Region
+Core Worlds
+Sector
+Corellian sector
+System
+Corellian system
+Grid square
+M-11
+Suns
+1: Corell
+Moons
+3:
+Corellia's nearest moon
+Gus
+Gus Talon
+Trade routes
+Corellian Run
+Corellian Trade Spine
+Rotation period
+25 standard hours
+Orbital period
+329 standard days
+Physical information
+Class
+Terrestrial
+Diameter
+11,000 kilometers (6,835 miles)
+Atmosphere
+Breathable
+Climate
+Temperate
+Terrain
+Forests
+Jungles
+Oceans
+Industrial urban
+Points of interest
+Bottoms
+Gilded Descent Casino
+Imperial training center
+Navigation institute
+Santhe Shipyards
+Facility 301G
+Unbroken Clan Palace
+YT-Series Warranty and Repair Shipyard B33
+Flora
+Tree
+Fauna
+Bay squid
+Bluevev glider
+Corellian gluttonbug
+Corellian hound
+Corellian sand panther
+Garsmelt
+Needlegawp
+Pulsar skate
+Screerat
+Snomat
+Spukami
+Starlow
+Societal information
+Native species
+Human
+Corellian
+Other species
+Arcona
+Besalisk
+Bonbrak
+Dowutin
+Grindalid
+Kel Dor
+Kubaz
+Lasat
+Mantellian Savrip
+Pa'lowick
+Rodian
+Sullustan
+Twi'lek
+Ugor
+Weequay
+Wookiee
+Population
+3 billion
+Demonym
+Corellian
+Major cities
+Coronet City (capital)
+Kor Vella
+Tyrena
+Bela Vistal
+Doaba Guerfel
+Major exports
+Starships
+Affiliation
+Galactic Republic
+Galactic Empire
+New Republic
+First Order (occupation)
+
+
+"Well, I admire anyone who can crawl their way out of the sewer. Especially a sewer as putrid as Corellia."
+―Dryden Vos, to Han Solo
+
+Corellia was a planet located in the galaxy's Core Worlds known for its ace pilots and large starships. The planet's vast shipyards produced many vessels over hundreds of years, including starfighters and Star Destroyers for the Galactic Empire as well as other famous models, such as the YT-1300 light freighter.
+
+It was the homeworld of Han Solo, Qi'ra, Wedge Antilles, Crix Madine, BoShek, the Besalisk Gadren, the Executive Records Officer Winshur Bratt, the bounty hunters Dengar and Mercurial Swift, and the Jedi younglings Kalifa and Petro.
+
+Description
+
+Flag of Corellia
+
+Corellia was located in the Corellian sector in the Core Worlds. It had a temperate climate and was covered in forests, jungles, and urban centers. The official planetary colors of Corellia were blue and gold. One major city was Coronet City (also the planet's capital), which was home to shipyards that, during the Imperial Era, produced TIE fighters and Star Destroyers for the Galactic Empire. The shipyards were one of Corellia's most prominent characteristics in addition to being known for producing capable pilots. Corellia also manufactured the YT-1300 light freighter, including the Millennium Falcon.
+
+The planet's human inhabitants were called Corellians and were known for their wanderlust. Besides humans, Corellia was also inhabited by several alien species including Barbadelans, Besalisks, Czerialans, Grindalids, Kel Dor, Pa'lowicks, Rodians, Sullustans, Twi'leks, and Ugors. In addition, Corellia was also home to several native creatures including Corellian hounds and fleek eels. The politics of Corellia were often dangerous and sometimes drew blood, with different politicians vying for new positions and engaging in shady deals.
+
+History
+Early history
+"There's so much history on Corellia! Too bad it's such an awful place."
+―DK-RA-43 in the Galactic Explorer's Guide
+
+An ancient Core World, Corellia was the homeworld of natives known for their wanderlust. In the time before they explored the stars, Corellians embarked on ocean voyages to satisfy that wanderlust, traversing the seas to discover new continents and catch vast quantities of fish. After the advent of space travel, Corellian royalty sponsored exploration and colonization efforts that helped expand galactic civilization by furthering the frontiers of the Old Republic in its youth. Corellian colonists settled on thousands of worlds, and its hyperspace scouts paved many of the galaxy's major hyperspace routes, making Corellia an important planet in the Galactic Republic.
+
+The planet became known through the galaxy for the Corellian people's wanderlust and its massive shipyards. Eventually, the ancient Corellian royalty, which included Prince-Admiral Jonashe Solo, faded away and the throne stood vacant for many years. In the millennia leading up to the Imperial Era, Corellia's key role in the expansion of galactic civilization decreased and power shifted to younger, more vibrant planets. The once influential world gained a reputation as a polluted planet with extensive poverty and crime. With its importance in galactic affairs reduced, Corellia was nonetheless recognized for its historic significance.
+
+High Republic Era
+"Help us stop the Nihil. Help us save Corellia. If this planet falls to the Nihil, who knows what planet will be next, and you may have your gripes with the Republic, but that's nothing compared to the brutality and horror that life will become under the Nihil. Come to the shipyard! Come now! Fight for Corellia! Fight for the galaxy! Fight for light and life!"
+―Alys Ongwa
+
+The population came to show isolationist tendencies during the High Republic Era, leading to the creation of the satirical song Corellia for Corellians. The Nihil launched an infiltration of the Corellian government to help with the destruction of Starlight Beacon, but the infiltrators were defeated by a force of Jedi. Nevertheless, the infiltration set the stage for a Corellian civil war in 229 BBY. A hostage situation in Coronet City dragged on for several weeks. The massacre at the Greens effectively wiped out the Nihil presence on Corellia.
+
+Twilight of the Republic
+
+The bounty hunter Cad Bane was involved in an incident on Corellia that he later said was humiliating. Senator Garm Bel Iblis represented Corellia in the Galactic Senate by the end of the Clone Wars, but he was one of several senators who grew opposed to Supreme Chancellor Sheev Palpatine's governance. The obscure Republic Group allegedly had ties to holding companies on Corellia, as well as some on Coruscant.
+
+Age of the Empire
+"I don't like the Empire […] because it's what I ran away from on Corellia. It's a machine that turns people and places into credits, leaving the grass dead and the air polluted and the sea empty."
+―Midnight, on the Galactic Empire's effect on Corellia
+
+Coronet City in 13 BBY
+
+When the Galactic Empire came to power, Corellia's shipyards were transformed into Imperial facilities, and though Corellia was a faded industrial world, it was used to build TIE fighters and Star Destroyers for the Imperial Navy. Many impoverished Corellian commoners sought to escape their homeworld for a better life. In the immediate aftermath of the Clone Wars, the Barsha family was set to take the lead in Imperial destroyer-production on Corellia through its factories, with family heir Jaylen Barsha expecting them to become the richest family on Corellia thanks to these contracts and for thousands of destroyers to be built in their facilities. However, the family "mistake" Sliro Barsha spotted an opportunity to make a name for himself and accused his family of plotting against Palpatine, destroying the Barsha family's standing and leading to his own rise through the Imperial ranks. Additionally, Sliro dispatched the reprogrammed BX-series droid commando ND-5 to wipe out his fellow Barshas, although Jaylen would manage to subdue and twist the droid to his own ends.
+
+By 13 BBY, the Corellian Security Forces including its emigration officers had become an extension of the Imperial security forces on Corellia with Patrol Troopers assisting in policing matters. Several crime syndicates including Lady Proxima's White Worms operated in the coastal Coronet City. The White Worms used local street urchins called scrumrats as vermin-catchers, pick-pockets, errand runners, and crime operatives. Two notable scrumrats were Han and Qi'ra who sought to escape the White Worms and Corellia by going offworld. The Unbroken Clan had a palace located on Corellia where the Grand Leader resided.
+
+After escaping the Den of the White Worms, Han and Qi'ra tried to escape through Coronet City Spaceport by bribing an emigration officer. However, Qi'ra was recaptured and sold to Sarkin Enneb. Han managed to travel offworld and join the Carida Academy as an Imperial cadet with the hopes of becoming a pilot. Due to his insubordination, however, Solo was reassigned to the Imperial Army and became a Swamp trooper on Mimban. Meanwhile, Qi'ra became the chief lieutenant to Dryden Vos in the Crimson Dawn crime syndicate.
+
+Around 10 BBY, Nakano Lash's crew undertook a mission to Corellia, as part of a war between the Unbroken Clan and the Mourner's Wail crime syndicates. Also around ten years before the Battle of Yavin, an organization known as the Corellian Resistance operated on the planet, fighting against the Empire. One of their members, Miru Nadrinakar, attempted to warn them of an upcoming crackdown. Smuggler Sana Starros made use of a crash pad on Corellia that she stocked with supplies, including tea, in 3 ABY.
+
+Around that same time, Jaylen Barsha—by that time going by the name Jaylen Vrax—embarked on a campaign to finally unseat his brother Sliro, who by that time was a director in the Imperial Security Bureau and leader of the undercover crime syndicate Zerek Besh, as revenge for their family and himself losing the fortune their Corellian industrial might would have offered. In the end, Vrax succeeded and was granted control of Zerek Besh by the Empire, only for Vrax himself to be killed shortly after by the freed ND-5.
+
+Rise of the New Republic
+
+Following the Battle of Endor in 4 ABY, the bounty hunter Dengar tried to offer Mercurial Swift the opportunity to work in a partnership. However, the younger bounty hunter refused and the two men fought. Dengar warned Swift that the New Republic, the successor to the Alliance to Restore the Republic, would be imposing bounties on bounty hunters and that bounty hunters needed to form a union to work together. However, Swift ignored his advice.
+
+Kiza, Shadow of the Acolytes of the Beyond, was recruited on Corellia.
+
+In 5 ABY, the dark side cult Acolytes of the Beyond recruited a low-class Corellian Pantoran girl named Kiza. The Acolytes worshiped the Sith and the dark side. That year, the Acolytes staged an attack on Coronet City so that Kiza and a boy named Oblivion could infiltrate the Peace and Security Headquarters and steal a lightsaber from the archives beneath the prison. In the process, Kiza killed numerous Peace and Security officers while Oblivion severed detective Erno's blaster hand.
+
+In the months leading up to the Battle of Jakku, there was closer cooperation between the New Republic and Corellian law enforcement. Coronet City Peace and Security began linking its records to the growing New Republic database. This allowed Norra Wexley and her team to track down the bounty hunter Swift.
+
+Facility 301G, a New Republic shipyard on Corellia.
+
+In 9 ABY, the Santhe Shipyards were visited by Ahsoka Tano and General Hera Syndulla while investigating Imperial Remnant activities, directed there by an HK-87 assassin droid. On Corellia, the two met with Regional Supervisor Myn Weaver, who showed them the facilities of his New Republic shipyard, Facility 301G, where Imperial naval assets are being refitted for the New Republic Defense Fleet. Inside the shipyard's command center, Tano and Syndulla were attacked by former-Imperial workers while they questioned Weaver's actions.
+
+Tano broke out of the command center's window, descending to the factory floor, where she was challenged by the former Inquisitor Marrok, and the two dueled. Meanwhile, General Syndulla returned to the Phantom II and chased a Super Star Destroyer hyperdrive being ferried into orbit. The confrontations ended with the hyperdrive escaping, and Marrok departing, while New Republic soldiers arrested several shipyard workers, including Weaver.
+
+First Order
+
+The First Order engages Corellian forces in the air.
+
+The First Order took over Corellia to claim its shipyards. Afterwards, they established a presence on Corellia, beginning a planetary occupation and nationalizing the Corellian Engineering Corporation. Soon after the Battle of Crait, the Resistance launched a mission to Corellia to free Resistance sympathizers from the First Order. Poe Dameron and Finn went undercover to the birthday party of Nifera Shu to steal a list of Resistance members, but stormtroopers raided the party, forcing the Resistance to flee. As they escaped the planet, they were able to free Ransolm Casterfo and several other prisoners, and stole more ships for the fledgling Resistance navy.
+
+Around the time of the mission to Batuu, the smuggler Hondo Ohnaka led a raid against a First Order cargo train, using the Millennium Falcon to steal a shipment of coaxium from the train and deliver it to the Resistance.
+
+By 35 ABY, the Corellian Merchants' Guild was an influential guild in Thieves' Quarter on the planet Kijimi. Following the Battle of Exegol, Corellia was in open rebellion against the First Order.
+
+Behind the scenes
+
+Corellia has appeared in several spin-off media, including both Star Wars Legends and canon works, before making its first onscreen appearance in the 2018 Star Wars Anthology film Solo: A Star Wars Story.
+
+In the DVD commentary of Solo, set decorate Lee Sandales revealed that the film's crew pictured Corellia as the Star Wars version of Venice, Italy, specifically an "industrial" Venice. Filming of Corellia scenes took place in Southampton, England, most notably at Fawley Power Station. Additionally, during the film's development, Lucasfilm design supervisor James Clyne was asked by the filmmakers to design a complete map of Corellia for the chase scene. Clyne did so, and he drew designs for other locations too, such as the Death Star and Cloud City.
+
+Appearances
+Star Wars: Galactic Defense (Mentioned only)
+The High Republic: Convergence (and audiobook) (Mentioned only)
+The High Republic: Light of the Jedi (and audiobook) (Mentioned only)
+The High Republic: A Test of Courage (and audiobook) (Mentioned only)
+The High Republic: The Rising Storm (and audiobook) (Mentioned only)
+The High Republic: Out of the Shadows (and audiobook) (Mentioned only)
+The High Republic Adventures (2021) 11
+"Crash and the Crew Do What They Do" — The High Republic Adventures Annual 2021
+The High Republic: Midnight Horizon (and audiobook)
+The High Republic Adventures (2021) 12 (Appears in hologram)
+The High Republic: The Fallen Star (and audiobook) (Mentioned only)
+The High Republic Adventures (2021) 13 (Mentioned only)
+The High Republic – Shadows of Starlight 1 (Mentioned only)
+"The Call of Coruscant" — The High Republic: Tales of Light and Life (and audiobook) (Mentioned only)
+The High Republic: Eye of the Storm 2 (Mentioned only) (In flashback(s))
+"Rogue Element" — The High Republic: Tales of Light and Life (and audiobook)
+The High Republic: Escape from Valo (and audiobook) (Mentioned only)
+The High Republic Adventures (2023) 1 (In flashback(s))
+The High Republic Adventures: Crash Landing
+The High Republic Adventures (2023) 3 (Mentioned only)
+ "Chronicles of Corellia: Heir Apparent" — Star Wars Insider 227
+The High Republic Adventures (2023) 7
+The High Republic Adventures: Crash and Burn
+The High Republic – Fear of the Jedi 2 (Mentioned only)
+The High Republic Adventures (2023) 20 (In flashback(s))
+The Vow of Silver Dawn (Mentioned only)
+The Acolyte: Wayseeker (and audiobook) (Mentioned only)
+Master & Apprentice (and audiobook) (Mentioned only)
+The Living Force (and audiobook) (Mentioned only)
+Star Wars Battlefront II (Mentioned only)
+Inquisitor: Rise of the Red Blade (and audiobook) (Mentioned only)
+Jedi of the Republic – Mace Windu 1 (Mentioned only)
+Brotherhood (and audiobook) (Mentioned only)
+"Bane's Story" — The Clone Wars: Stories of Light and Dark (and audiobook) (Mentioned only)
+ Star Wars: The Clone Wars — "A Distant Echo" (Mentioned only) (poster only)
+Master of Evil (Mentioned only)
+ Star Wars: The Bad Batch — "Decommissioned"
+Darth Vader (2017) 10 (Mentioned only) (In Aurebesh text)
+ Star Wars: The Bad Batch — "Battle Scars" (Mentioned only)
+Reign of the Empire: The Mask of Fear (and audiobook) (Mentioned only)
+Sanctuary: A Bad Batch Novel (Model only)
+Thrawn (and audiobook) (Mentioned only)
+ "Orientation" — Star Wars Insider 157 (reprinted in Star Wars Insider: The Fiction Collection Volume 1 and Lords of the Sith) (Mentioned only)
+Darth Vader (2017) 19 (Mentioned only)
+Most Wanted (and audiobook)
+Han Solo - Imperial Cadet 1
+Crimson Climb (and audiobook)
+Han Solo - Imperial Cadet 2 (In flashback(s))
+Han Solo - Imperial Cadet 3 (Mentioned only)
+Han Solo - Imperial Cadet 4 (Mentioned only)
+Han Solo - Imperial Cadet 5 (Mentioned only)
+Lando's Luck (and audiobook) (Mentioned only)
+A New Dawn (and audiobook) (First mentioned)
+Solo: A Star Wars Story
+Solo: A Star Wars Story: Expanded Edition (and audiobook)
+Solo: A Star Wars Story Read-Along Storybook and CD
+Solo: A Star Wars Story: Meet the Crew
+Solo: A Star Wars Story Graphic Novel Adaptation
+Solo: A Star Wars Story Adaptation 1
+Solo: A Star Wars Story Adaptation 2 (Indirect mention only)
+Solo: A Star Wars Story Adaptation 3 (In flashback(s))
+Solo: A Star Wars Story Adaptation 4 (Mentioned only)
+Solo: A Star Wars Story Adaptation 5 (Mentioned only)
+ "The End of History" — Star Wars Insider 154 (reprinted in Star Wars Insider: The Fiction Collection Volume 2) (Mentioned only)
+ Star Wars: Obi-Wan Kenobi — "Part II" (Mentioned only)
+Star Wars Jedi: Survivor (Mentioned only)
+Choose Your Destiny: A Han & Chewie Adventure (and audiobook) (Mentioned only)
+Han Solo & Chewbacca 1
+Han Solo & Chewbacca 2
+Han Solo & Chewbacca 3
+Han Solo & Chewbacca 5 (Mentioned only)
+Servants of the Empire: Edge of the Galaxy (Indirect mention only)
+The Rebellion Begins (Mentioned only)
+ Star Wars: Andor — "I Have Friends Everywhere" (Mentioned only)
+Leia, Princess of Alderaan (and audiobook) (Mentioned only)
+ Star Wars Rebels — "In the Name of the Rebellion" (Mentioned only)
+Star Wars Adventures Free Comic Book Day 2019 (In flashback(s)) (Mentioned only)
+The Odyssey of Star Wars: An Epic Poem (Mentioned only)
+"Sparks" — From a Certain Point of View (and audiobook) (Mentioned only)
+Smuggler's Run: A Han Solo & Chewbacca Adventure (and audiobook) (Mentioned only)
+Star Wars (2015) 58 (Mentioned only)
+Battlefront: Twilight Company (and audiobook) (Mentioned only)
+"Rendezvous Point" — From a Certain Point of View: The Empire Strikes Back (and audiobook) (Mentioned only)
+"Wait for It" — From a Certain Point of View: The Empire Strikes Back (and audiobook) (Mentioned only)
+"The Backup Backup Plan" — From a Certain Point of View: The Empire Strikes Back (and audiobook) (Mentioned only)
+Bounty Hunters 1 (In flashback(s))
+Bounty Hunters 3 (Appears in hologram) (In flashback(s))
+Bounty Hunters 4 (In flashback(s))
+Bounty Hunters 5 (In flashback(s))
+Doctor Aphra (2020) 6
+Doctor Aphra (2020) 7
+Doctor Aphra (2020) 8 (Mentioned only)
+Bounty Hunters 10 (Mentioned only)
+Darth Vader (2020) 12 (In flashback(s))
+Bounty Hunters 15
+Doctor Aphra (2020) 15 (Mentioned only)
+Star Wars (2020) 18 (In flashback(s))
+Crimson Reign 1 (Mentioned only)
+Doctor Aphra (2020) 16
+Bounty Hunters 18 (In flashback(s))
+Bounty Hunters 20
+Darth Vader (2020) 28 (Mentioned only)
+Bounty Hunters 21
+Bounty Hunters 22
+Bounty Hunters 23 (In flashback(s))
+Star Wars Outlaws (Mentioned only)
+Crimson Reign 5 (In flashback(s))
+Bounty Hunters 28
+Sana Starros 3
+Bounty Hunters 31
+Bounty Hunters 33
+Bounty Hunters 34
+Star Wars (2020) 30 (Mentioned only)
+Doctor Aphra (2020) 37
+Doctor Aphra (2020) 38
+Bounty Hunters 40 (In flashback(s))
+"The Plan" — From a Certain Point of View: Return of the Jedi (and audiobook) (In flashback(s))
+"The Buy-In" — From a Certain Point of View: Return of the Jedi (and audiobook) (Mentioned only)
+"The Last Flight" — From a Certain Point of View: Return of the Jedi (and audiobook) (Mentioned only)
+The Princess and the Scoundrel (and audiobook) (Appears on screen)
+Alphabet Squadron (and audiobook) (Indirect mention only)
+Aftermath (and audiobook) (First appearance)
+Shadow Fall: An Alphabet Squadron Novel (and audiobook) (Mentioned only)
+Aftermath: Life Debt (and audiobook)
+Victory's Price: An Alphabet Squadron Novel (and audiobook) (Mentioned only)
+Aftermath: Empire's End (and audiobook) (Appears in hologram)
+Hunters: Battle for the Arena (and audiobook) (In flashback(s))
+Star Wars: Hunters (Mentioned only)
+The Mandalorian Junior Novel (and audiobook) (Mentioned only)
+ Star Wars: The Mandalorian — "Chapter 5: The Gunslinger" (Mentioned only)
+ Star Wars: Ahsoka — "Part Two: Toil and Trouble"
+Ahsoka 2
+ Star Wars: Ahsoka — "Part Three: Time to Fly" (Mentioned only)
+ Star Wars: Skeleton Crew — "Very Interesting, As an Astrogation Problem" (Mentioned in Aurebesh on computer screen)
+ "Scorched" — Star Wars Insider 165 (reprinted in Star Wars Insider: The Fiction Collection Volume 2)
+Star Wars: The Last Jedi: Expanded Edition (and audiobook) (Mentioned only)
+Legacy of Vader 5 (Mentioned only)
+Legacy of Vader 6
+Legacy of Vader 7 (Mentioned only; in the opening crawl)
+Legacy of Vader 8 (Mentioned only)
+Legacy of Vader 10 (Mentioned only; in the opening crawl)
+Legacy of Vader 11 (Mentioned only; in the opening crawl)
+Legacy of Vader 12 (Mentioned only; in the opening crawl)
+Resistance Reborn (and audiobook)
+ "Flight of the Falcon, Part 3: Home Again" — Star Wars Adventures (2017) 16 (Indirect mention only)
+ "Flight of the Falcon, Part 4: Lady and the Tramp" — Star Wars Adventures (2017) 17
+A Crash of Fate (and audiobook) (Mentioned only)
+ Star Wars: Galaxy's Edge — Millennium Falcon: Smuggler's Run
+Star Wars: Batuu Bounty Hunters (Mentioned only)
+ Star Wars Galaxy of Adventures — "Millennium Falcon - Smugglers Run"
+Star Wars: Galactic Starcruiser (Mentioned on sign)
+Star Wars: The Rise of Skywalker: Expanded Edition (and audiobook) (Mentioned only)
+Star Wars: The Rise of Skywalker: A Junior Novel (and audiobook) (Mentioned only)
+The Last Order (Mentioned only) (In flashback(s))
+Ghosts of Dathomir
+Star Wars: Galaxy of Heroes
+Non-canon appearances
+ LEGO Star Wars: All-Stars — "The Chase with Han"
+ LEGO Star Wars: All-Stars — "Escape with Chewbacca"
+ "Corellian Run" — LEGO Star Wars 58
+LEGO Star Wars Summer Vacation (Mentioned only)
+ "The Turbulent Trip" — LEGO Star Wars 87
+Sources
+ Han Solo in the Encyclopedia (original site is defunct)
+ Kalifa in the Encyclopedia (original site is defunct)
+ Millennium Falcon in the Encyclopedia (original site is defunct)
+Star Wars: Card Trader Set: Base Series 1 
+Ultimate Star Wars
+Star Wars Helmet Collection: Tusken Raider Databank A-Z: Rush Clovis–Coruscant
+Star Wars: Absolutely Everything You Need to Know
+Star Wars: Build the Millennium Falcon 42 Guide to the Galaxy: Planets and Moons
+Star Wars: The Force Awakens: The Visual Dictionary
+ Where in the Galaxy Are the Worlds of Star Wars: The Force Awakens? on StarWars.com (article) (backup link)
+Star Wars Character Encyclopedia: Updated and Expanded
+Star Wars Expert Guide
+Star Wars: The Force Awakens Beginner Game
+Star Wars: Complete Locations
+Star Wars Helmet Collection: Jess Pava Databank A-Z: Luke Skywalker–Han Solo
+Star Wars: Galactic Atlas
+Entertainment Weekly's Ultimate Guide to Rogue One
+Star Wars: Rogue One: The Ultimate Visual Guide
+ Where in the Galaxy Are the Worlds of Rogue One? on StarWars.com (article) (backup link)
+No Disintegrations
+Star Wars Helmet Collection: Wedge Antilles Helmets: Wedge Antilles
+Star Wars Helmet Collection: Death Trooper Weapons & Uniforms: Imperial Trooper Variants (Picture only)
+Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away
+Star Wars: Absolutely Everything You Need to Know, Updated and Expanded
+Star Wars: Geektionary: The Galaxy from A - Z
+Star Wars: The Rebel Files
+Star Wars: The Last Jedi: The Visual Dictionary
+ Solo: A Star Wars Story "Big Game" TV Spot (:45) on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com) (First pictured)
+ Solo: A Star Wars Story Official Teaser on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+ Solo: A Star Wars Story Official Trailer on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+Entertainment Weekly's The Ultimate Guide to Han Solo
+ Solo: A Star Wars Story | "Making Solo" Featurette on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+ Solo: A Star Wars Story | Reviews on the official Star Wars YouTube channel (backup link)
+ Solo: A Star Wars Story | "Solo Is" Reviews on the official Star Wars YouTube channel (backup link)
+ Solo: A Star Wars Story | "Reviews" on the official Star Wars YouTube channel (backup link)
+Solo: A Star Wars Story The Official Guide
+Solo: A Star Wars Story: Tales from Vandor
+Star Wars: Card Trader Set: Worlds of Solo: A Star Wars Story, Card: Corellia
+Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious
+YT-1300 Millennium Falcon Owners' Workshop Manual
+Star Wars: Smuggler's Guide
+ Star Wars By the Numbers: Every Creature in the Star Wars Movies on the official Star Wars Kids YouTube channel (original link is obsolete)
+ Star Wars By the Numbers: Every Droid in Star Wars on the official Star Wars Kids YouTube channel (original link is obsolete)
+Star Wars: How Not to Get Eaten by Ewoks and Other Galactic Survival Skills
+Gadgets and Gear
+Star Wars: Creatures Big & Small (Picture only)
+Ultimate Star Wars, New Edition
+Star Wars: The Galactic Explorer's Guide
+Star Wars: Card Trader Set: 2020 Base Series 
+Star Wars: The Rise of Skywalker: The Visual Dictionary
+Star Wars: Card Trader Set: Topps' Women of Star Wars, Card: Qi'ra
+Star Wars: Galaxy's Edge: Traveler's Guide to Batuu
+Star Wars Day-at-a-Time Calendar 2021
+"Imperial Troops" — Star Wars Encyclopedia
+The Star Wars Book
+"The Battle of Hoth and the Second Death Star" — Star Wars Encyclopedia
+ "Database" — Star Wars - Das offizielle Magazin 100
+"The Final Order and the Battle of Exegol" — Star Wars Encyclopedia
+"Boba Fett and Other Characters of the Underworld" — Star Wars Encyclopedia
+ "Decommissioned" Episode Guide | The Bad Batch on StarWars.com (backup link)
+ "Battle Scars" Episode Guide | The Bad Batch on StarWars.com (backup link)
+ Star Wars Inside Intel: The Death Star on StarWars.com (article) (backup link)
+"Tobias Beckett and Other Characters of the Underworld" — Star Wars Encyclopedia
+ Star Wars: The Black Series (The Power of the Force Figure: Han Solo) (backup link)
+Star Wars: Battles that Changed the Galaxy
+Star Wars: The Mandalorian Handbook
+Star Wars Droids Guide to a Galaxy Far, Far Away
+ Star Wars: The High Republic Show: The Fallen Star, the Nameless First Look, and More! on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+"Pilots of the Rebel Alliance" — Star Wars Encyclopedia
+ "Crime and Punishment" — Star Wars Insider 209
+ Star Wars Inside Intel: Coruscant on StarWars.com (article) (backup link)
+"The End of the Clone Wars" — Star Wars Encyclopedia
+ Ships of the Galaxy: The Halcyon Starcruiser on StarWars.com (article) (backup link)
+ SWCA 2022: 7 Things We Learned from the Lucasfilm Publishing Behind the Page Panel on StarWars.com (backup link)
+"Core Worlds, Colonies, the Inner Rim and Expansion Region" — Star Wars Encyclopedia
+Star Wars: The High Republic: Chronicles of the Jedi
+ Star Wars: The High Republic Show: High Republic Phase II Deep Dive, Star Wars Celebration, and More! on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+ New Concept Art and More Revealed on Star Wars: The High Republic Show on StarWars.com (backup link)
+ "Retrieval" Episode Guide | The Bad Batch on StarWars.com (backup link) (Picture only)
+Star Wars 100 Objects
+Star Wars: Timelines
+ Fan Spotlight: "What Does Star Wars Mean to You?" on StarWars.com (backup link)
+ Rebel Crew Featurette | Ahsoka | Disney+ on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+ Episodes 1 & 2 Now Streaming | Ahsoka | Disney+ on the official Star Wars YouTube channel (backup link)
+ Legacy | Ahsoka | Disney+ on the official Star Wars YouTube channel (backup link)
+ Ahsoka Analyzed: 5 Highlights from "Part Two: Toil and Trouble" on StarWars.com (backup link)
+ Anakin & Ahsoka's Reunion | Ahsoka | Disney+ on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+Star Wars: The Ultimate Cookbook
+ "Launchpad" — Star Wars Insider 222
+Star Wars: Dawn of Rebellion: The Visual Guide
+ Zeen Starts Again in Dark Horse's Star Wars: The High Republic Adventures Phase III #1 - Exclusive Preview on StarWars.com (backup link)
+ "Launchpad" — Star Wars Insider 223
+ "A Certain Point of View" — Star Wars Insider 223
+ "Sacks Appeal" — Star Wars Insider 224 (Picture only)
+Star Wars: The Rise and Fall of the Galactic Empire
+Star Wars Bestiary, Vol. 1: Creatures of the Galaxy
+Star Wars Encyclopedia: The Comprehensive Guide to the Star Wars Galaxy
+Star Wars: Complete Locations, New Edition
+ 'Star Wars: The High Republic - The Finale' and More Marvel 'Star Wars' Titles Revealed At Star Wars Celebration on Marvel Comics' official website (backup link)
+Star Wars: The Acolyte: The Visual Guide
+ "Star Wars: The High Republic Companion: Phase III: Trials of the Jedi" — Star Wars Insider 234
+Star Wars: Galactic Atlas: Updated Edition
+ Corellia in the Databank (backup link)
+ Corellian hounds in the Databank (backup link)
+ Coronet Spaceport in the Databank (backup link)
+ Datarod in the Databank (backup link) (Picture only)
+ Droid decommissioning facility in the Databank (backup link)
+ Han Solo in the Databank (backup link)
+ Han Solo's dice in the Databank (backup link)
+ Han Solo's landspeeder in the Databank (backup link)
+ Imperial patrol speeder in the Databank (backup link) (Picture only)
+ Imperial Police Droids in the Databank (backup link) (Picture only)
+ Kalifa in the Databank (backup link)
+ Lady Proxima in the Databank (backup link)
+ Millennium Falcon in the Databank (backup link)
+ Moloch in the Databank (backup link)
+ patrol troopers in the Databank (backup link)
+ Petro in the Databank (backup link)
+ Qi'ra in the Databank (backup link)
+ Rebolt in the Databank (backup link)
+ Scrumrats in the Databank (backup link)
+ Syke in the Databank (backup link)
+ Truckspeeder in the Databank (backup link)
+ Wedge Antilles in the Databank (backup link)
+ White Worms in the Databank (backup link)
+ White Worms' den in the Databank (backup link)
+Non-canon sources
+LEGO Star Wars Yoda's Galaxy Atlas
+ VISIONS FILMMAKER FOCUS: THE LOST ONES on the official Star Wars YouTube channel (backup link)
+Notes and references
+↑ 
+Jump up to:
+1.00 1.01 1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 1.11 1.12 1.13 1.14 1.15  Corellia in the Databank (backup link)
+↑ 
+Jump up to:
+2.0 2.1 2.2 2.3 Ultimate Star Wars, New Edition
+↑ 
+Jump up to:
+3.0 3.1 3.2 Star Wars: The Force Awakens Beginner Game
+↑ 
+Jump up to:
+4.0 4.1 4.2 Solo: A Star Wars Story: Tales from Vandor
+↑ 
+Jump up to:
+5.00 5.01 5.02 5.03 5.04 5.05 5.06 5.07 5.08 5.09 Most Wanted
+↑ 
+Jump up to:
+6.0 6.1 Star Wars: Complete Locations, New Edition
+↑ 
+Jump up to:
+7.00 7.01 7.02 7.03 7.04 7.05 7.06 7.07 7.08 7.09 7.10 7.11 7.12 7.13 7.14 7.15 The High Republic: Midnight Horizon
+↑ 
+Jump up to:
+8.0 8.1 8.2 8.3 8.4 8.5 8.6 8.7 Star Wars: The Galactic Explorer's Guide
+↑ 
+Jump up to:
+9.0 9.1 9.2 Aftermath
+↑ 
+Jump up to:
+10.00 10.01 10.02 10.03 10.04 10.05 10.06 10.07 10.08 10.09 10.10 10.11 10.12 Solo: A Star Wars Story
+↑ Han Solo - Imperial Cadet 2
+↑ 
+Jump up to:
+12.0 12.1  "Orientation" — Star Wars Insider 157
+↑ Star Wars: The Rebel Files
+↑ 
+Jump up to:
+14.0 14.1 14.2  Star Wars: Ahsoka — "Part Two: Toil and Trouble"
+↑ 
+Jump up to:
+15.0 15.1 Bounty Hunters 20
+↑ Darth Vader (2020) 12
+↑ 
+Jump up to:
+17.0 17.1 17.2 Hunters: Battle for the Arena
+↑ 
+Jump up to:
+18.0 18.1 18.2 18.3 18.4 18.5 18.6 18.7 18.8 Solo: A Star Wars Story The Official Guide
+↑ 
+Jump up to:
+19.0 19.1 Gadgets and Gear
+↑ 
+Jump up to:
+20.0 20.1 20.2 20.3 20.4 Resistance Reborn
+↑ 
+Jump up to:
+21.0 21.1 21.2 21.3 21.4 21.5 Battlefront: Twilight Company
+↑ Star Wars: Episode IV A New Hope
+↑ Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious
+↑ 
+Jump up to:
+24.0 24.1  Star Wars: Galaxy's Edge — Millennium Falcon: Smuggler's Run
+↑ Ultimate Star Wars
+↑ Star Wars: Galactic Defense
+↑ 
+Jump up to:
+27.0 27.1 27.2 Aftermath: Empire's End
+↑  Kalifa in the Encyclopedia (original site is defunct)
+↑  "The Gathering" Episode Gallery on StarWars.com (backup link) (Slide 8)
+↑  Han Solo Biography Gallery in the Databank (backup link) (Slide 12)
+↑  Millennium Falcon in the Encyclopedia (original site is defunct)
+↑ 
+Jump up to:
+32.0 32.1 Star Wars: Timelines
+↑ The High Republic Adventures (2023) 3
+↑ The High Republic Adventures (2023) 7
+↑ "Bane's Story" — The Clone Wars: Stories of Light and Dark
+↑ "The End of the Clone Wars" — Star Wars Encyclopedia
+↑ YT-1300 Millennium Falcon Owners' Workshop Manual
+↑ 
+Jump up to:
+38.0 38.1 Star Wars Outlaws
+↑ Star Wars: Timelines dates the events of Solo: A Star Wars Story which take place on Corellia to 13 BBY.
+↑  White Worms in the Databank (backup link)
+↑  Scrumrats in the Databank (backup link)
+↑ Bounty Hunters 2
+↑  Alexander Freed (@AlexanderMFreed) on Twitter (post): "I'd guess around 10 BBY, give or take a few years. But if it's not in the story, it's up for debate (and therefore not my call)." (backup link) (screenshot)
+↑  "The End of History" — Star Wars Insider 154
+↑ Doctor Aphra (2020) 7
+↑ Star Wars: Timelines dates the events of Doctor Aphra (2020) 7 to 3 ABY.
+↑ Aftermath: Life Debt
+↑ Legacy of Vader 6
+↑ Star Wars: Timelines dates the events of Star Wars: Episode IX The Rise of Skywalker to 35 ABY.
+↑ Star Wars: The Rise of Skywalker: The Visual Dictionary
+↑ Star Wars: The Rise of Skywalker: A Junior Novel
+↑  PHOTOS: Behind the scenes as Solo: A Star Wars Story films on Fawley Power Station | Daily Echo (backup link archived on April 8, 2024)
+↑ Solo: A Star Wars Story DVD commentary
+External links
+ Corellia on the Disney Wiki
+ Quiz: Which Droid Are You Taking on Your Next Adventure? on StarWars.com (backup link) (Picture only)
+ Quiz: What Star Wars Crew Should You Join? on StarWars.com (backup link)
+ Quiz: Which Star Wars: Skeleton Crew Character Would Be Your BFF? on StarWars.com (backup link)

@@ -1,1 +1,1073 @@
-`\t \t\t \n\nFor other uses, see Naboo.\n\t\n\nContent approaching.\n\nParts of this article are no longer up to date. This article needs updating from multiple sources. Click the dropdown below to see the full list.\n\n[Show] Sources\n\nPlease update the article to include missing information, and remove this template when finished.\n\n\t\n\nNaboo\nAstrographical information\nRegion\nMid Rim Territories[1]\nTrailing Sectors[2]\nOcclusion Zone[3]\nSector\nChommell sector[1]\nSystem\nNaboo system[1]\nGrid square\nO-17[4]\nXYZ coordinates\n334.93, -706.96, 7.61[5]\nDistance from Core\n34,000 light-years[6]\nSuns\n1: Naboo[7]\nOrbital position\n3[8]\nMoons\n3[9]\nOhma-D'un[7]\nOnoam[10]\nVeruna[11]\nTrade routes\nEnarc Run[7]\nOld Trade Federation Route[7]\nRotation period\n26 standard hours[7]\nOrbital period\n312 standard days[12]\nPhysical information\nClass\nTerrestrial[13]\nDiameter\n12,120 kilometers[12] (7,531 miles)[11]\nAtmosphere\nBreathable[13]\nClimate\nTemperate[14]\nTerrain\nSwamps[15]\nHills[15]\nPlains[15]\nCities[15]\nMountains[12]\nPoints of interest\nEmperor's Retreat[16]\nGallo Mountains[17]\nGreat Grass Plains[16]\nGungan Sentry Post[18]\nHiram Zataire's vineyard[19]\nKwilaan Spaceport[20]\nLake Country[21]\nLake Paonga[22]\nLianorm Swamp[12]\nRish Loo's laboratory[23]\nSolleu River[1]\nFuneral Temple[24]\nTheed Royal Academy[24]\nTheed Royal Palace[13]\nVarykino[21]\nVirdugo Plunge[24]\nFlora\nCambylictus tree[12]\nLocap[12]\nMillaflower[25]\nNaboo lettuce[26]\nPerlote tree[27]\nFauna\nBlarth[28]\nColo claw fish[29]\nFalumpaset[15]\nFambaa[30]\nGualaar[31]\nGuarlara[11]\nHrumph[32]\nIkopi[13]\nKaadu[33]\nMott[13]\nNarglatch[34]\nNuna[35]\nOdupiendo[36]\nOllopom[37]\nOpee sea killer[38]\nPeko-peko[13]\nPikobi[13]\nPelikki[39]\nSando aqua monster[40]\nScalefish[13]\nShaak[27]\nSlug-beetle[27]\nVeermok[41]\nVoorpak[42]\nSocietal information\nNative species\nGungans[13]\nOther species\nElders[7]\nHumans[13][17]\nNaboo[13]\nPrimary language(s)\nGalactic Basic Standard[13]\nGunganese[16]\nGovernment\nElective monarchy[13]\nPopulation\n4.5 billion:[7]\n72% Gungan[7]\n27% Human[7]\n1% Other[7]\nDemonym\nNabooian[43]\nMajor cities\nDee'ja Peak[24]\nJan-gwa city[44]\nKeren[24]\nMoenia[45]\nOtoh Gunga (Gungan capital)[22]\nOtoh Langua[46]\nSpearhead[16]\nSpinnaker[16]\nTheed (human capital)[47]\nMajor imports\nGrain[48]\nOre[48]\nProcessed foods[7]\nTechnology[16]\nSilk[48]\nMajor exports\nArt[48]\nCultural items[16]\nGrain[48]\nGungan stew[49]\nPlasma[50]\nWine[7]\nAffiliation\nGungan High Council[13]\nRoyal House of Naboo[13]\nNihil (occupied)[3]\nGalactic Republic[13]\nTrade Federation (briefly)[13]\nGalactic Empire[51]\nNew Republic[52]\nFirst Order[53]\n[Source]\n\n"If I grew up here, I don't think I'd ever leave."\n―Anakin Skywalker, about Naboo[21]\n\nNaboo was a bountiful planet in the Chommell sector of the Mid Rim, in the Trailing Sectors and close to the border of the Outer Rim Territories. It was home to the indigenous Gungan species and to a population of humans known as the Naboo. Naboo was pushed to the forefront of galactic politics as the birthplace of the Dark Lord of the Sith Sheev Palpatine, who served as its representative in the Senate of the Galactic Republic.\n\nUnder the guise of his Sith title Darth Sidious, Palpatine secretly engineered an invasion of his peaceful homeworld by the Trade Federation, a megacorporation in a bid for power. Ostensibly done in protest over proposed taxation of formerly free trade routes, the Federation's invasion led to an outpouring of support from the Senate for both Palpatine and the newly-elected Queen of Naboo, Padmé Amidala. Amidala led a successful resistance movement and removed the Federation from her world during the Battle of Naboo. Palpatine subsequently rose to the office of the Supreme Chancellor of the Republic, with Amidala eventually taking his place as the planet's senatorial representative.\n\nNaboo would commit itself firmly to democracy in the intervening years, staying loyal to the Republic during the pan-galactic Clone Wars, which saw several military engagements against the Confederacy of Independent Systems come to the planet. By the time of the war's end, Palpatine had amassed considerable power and proclaimed himself the head of a new Galactic Empire. Palpatine's reign would eventually be ended by the Alliance to Restore the Republic, a rebel movement led by Amidala's children, Leia Organa and Luke Skywalker.\n\nDespite his origins on the planet, Palpatine did not care at all for his homeworld and, following his death, Naboo was named a priority target for Operation: Cinder, a protocol that the Sith Lord had put in place to destroy Imperial worlds should they fail to protect their Emperor. Through the intervention of Organa and Queen Sosha Soruna, however, Naboo was spared from ruin and went on to become a member of the successor state to the Alliance, the New Republic. Decades later, the planet would again fight against tyranny, rising up against the military junta of the First Order during its war with Organa's Resistance.\n\nContents\n1\tDescription\n2\tHistory\n2.1\tEarly history\n2.1.1\tPre-human colonization\n2.1.2\tArrival of humanity\n2.1.3\tGungan tribal war\n2.1.4\tTimes of Suffering and Peace\n2.1.4.1\tStruggles give way to peace\n2.1.4.2\tHigh Republic Era\n2.1.4.3\tReign of the Nihil\n2.1.4.4\tLate High Republic Era\n2.2\tTwilight of the Republic\n2.2.1\tInvasion of Naboo\n2.2.2\tClone Wars\n2.3\tThe dark times\n2.4\tA new era\n2.4.1\tRise of the New Republic\n2.4.2\tOperation: Cinder\n2.5\tRise of the First Order\n3\tSociety and culture\n4\tBehind the scenes\n5\tAppearances\n5.1\tNon-canon appearances\n6\tSources\n6.1\tNon-canon sources\n7\tNotes and references\n8\tExternal links\nDescription\n"It's beautiful."\n"Yes, it absolutely is."\n―Shara Bey and Leia Organa, about Naboo[54]\n\nThe picturesque planet of Naboo was located in the galaxy's Mid Rim region.\n\nNaboo was a small pastoral world[55] in the Mid Rim,[1] located near the border of the Outer Rim Territories,[14] 34,000 light-years from the Core Worlds.[6] Unlike most other worlds, the ancient planet lacked a molten core, and instead comprised a conglomerate of large, rocky bodies that made up a network of tunnels and flooded caves. The native Gungans, who built their homes in the waters of Naboo, so deep that they went right through the planet, which they rarely ventured into the core, fearing the ravenous sea beasts which resided[1] in areas such as the Caves of Eleuabad.[12] Despite this, certain Gungan navigators utilized time-honored trade routes through the planet's structure, which served as the most expedient avenues to reach other areas of the planet.[1] Naboo's interior was rich with plasma, a naturally-occurring energy unique to the planet, and this coupled with its lack of molten core gave Naboo a reputation as an enigma to astrophysicists, who regarded the world's structure as an extremely rare phenomenon in the galaxy.[12]\n\nWith its grassy plains and waterfalls, Naboo was known as an idyllic world.\n\nNaboo's surface comprised a vast array of different landscapes, from rolling plains and grassy hills to swampy lakes[14] caused by the water-filled network of deep-sea tunnels.[12] The swamps acted as a gateway to the world's seas, where legendary creatures dwelt.[11] Beside its natural features, Naboo was considered a world of classical beauty due to the aesthetics of its population centers.[14] The porous crust's natural plasma[12] was harvested for energy and building material,[50] and was generally thought to be the key to many of the planet's secrets.[12]\n\nWhile most of Naboo's land animals were peaceful, as exemplified by the gentle shaak, the planet's oceans,[56] which held an abundance of life,[11] teemed with menacing creatures,[56] such as the opee sea killer[38], the sando aqua monster[40], and the colo claw fish[29].\n\nHistory\nEarly history\nPre-human colonization\n\nGungans were the original inhabitants of Naboo prior to the arrival of offworlders.\n\nOriginally, Naboo was home to the amphibian Gungans.[1] The earliest offworlders to arrive were a Reptilian species known as the Elders who warred against the Gungans. Eventually, the Elders vanished as mysteriously as they arrived, leaving only stone statues behind.[7]\n\nArrival of humanity\n"Take a moment and look around this glorious city of yours. It wasn't long ago this was all plasma mines. Naboo has indeed come a long way. But as we chart a bold course for the future, let us never forget our past."\n―Sheev Palpatine[57]\n\nThe Naboo were the descendants of human colonists who migrated from Grizmallt.\n\nApproximately around 4000 BBY, Grizmallti people had discovered the planet, which they had named Nabu, after one of their principal deities. Naboo quickly became notorious as a vacation spot and as a private hunting preserve amongst big-game hunters across the Mid Rim, although it would be around a century before permanent human settlement.[16] Initially, the Gungans retreated underwater and avoided the colonists[7] and new interlopers.[16]\n\nWhile the Gungans flourished for thousands of years before, this only lasted until around 3900 BBY. Fleeing a brutal civil war,[16] a group of humans from the planet Grizmallt crash-landed on Naboo and set up a small colony. As they established their own society, they initially kept separate from the Gungans.[24] Led by Kwilaan, the colonists ventured into the Gallo Mountains, created a farming community at the Dee'ja Peak,[17] establishing their presence on the planet and eventually taking its name for themselves. The Naboo calendar based its epoch around the arrival of Kwilaan.[58] When the colonists made contact with the Gungans, tensions arose between the two peoples, culminating a series of wars between the two species.[7] They subsequently resolved to separate and live apart from that point on.[59]\n\nThe Naboo colonists later expanded to other uninhabited planets in the Chommell sector, such as Karlinus. Naboo imposed a contract on the colonists of these other planets, wherein Naboo would give the new colonies a loan to cover the start-up costs of colonization. In exchange, the colonies became legally obligated to provide Naboo with any supplies it deemed were necessary if called upon in times of emergency. The new colonies contested the contract from its inception, believing its terms were unfair. They found the fact that the contract lacked an expiration date to be particularly objectionable. Under the contract, Naboo took advantage of every other planet in the Chommell sector from time to time.[60]\n\nGungan tribal war\n"Gungans no dyin' witout a fight. Wesa warriors."\n―Jar Jar Binks[13]\n\nThe Gungans built their underwater capital of Otoh Gunga following a tribal war.\n\nFollowing the wars with humans, the Gungan tribes engaged in war with each other. The war came to an end due to the actions of Boss Gallo, a Gungan who united the tribes under one banner through diplomatic and military means. Gallo eventually attacked the city Spearhead, which was the home of the rogue warlord Boss Rogoe and the other Gungan holdouts, with a massive Gungan army. Gallo then founded the Gungan capital Otoh Gunga on Spearhead's foundations.[16]\n\nTimes of Suffering and Peace\nStruggles give way to peace\n"It is an honor to be here for this momentous occasion. The pride I feel for this planet cannot be put into words. 847 years ago, Naboo joined the Republic. And tonight. we celebrate that union."\n―Sheev Palpatine[57]\n\nThe Naboo had achieved a state of peace and prosperity at the end of a prolonged period of brutal conflict.\n\nMeanwhile, the Naboo had fallen prey to a long period of brutal infighting among the large city-states of humans that inhabited the planet. Eventually, a general named Jafan managed to end the war, uniting the opposing factions through both force of arms and force of will.[16] He became King Jafan, ruler of all the Naboo,[12] and ushered in the Great Time of Peace.[16]\n\nIn 867 BBY, Naboo joined the Galactic Republic,[61] the democratic union that sought to govern the galaxy.[62] The people of Naboo celebrated this event during the Festival of Light.[57] In 832 BBY, under the direction of King Jafan, the capital city of Theed was founded along the banks of the Solleu River with the Theed Royal Palace built on the Cliffs of Theed.[16]\n\nHigh Republic Era\n\nIn 382 BBY[63] during the High Republic Era, Naboo was under the rule of a queen, from whom Axel Greylark, a gambler and son of Supreme Chancellor Kyong Greylark, wanted to buy a yacht. At the same time, fellow Supreme Chancellor Orlen Mollo traveled across the Galactic Frontier aboard the Paxion, which displayed different vistas from various currently-distant worlds on a wall of its library. During a mission to end the Eiram and E'ronoh War, it displayed the Theed Royal Palace and other sites. The Naboo Palace and the city of Coruscant were the only locations Jedi Knight Gella Nattai recognized. Asked to attend along with delegates from numerous other worlds by Chancellors Mollo and Greylark, delegates from Naboo, wearing their cultural clothing, arrived on Eiram for the wedding of Phan-tu Zenn and Xiri A'lbaran that promised to end the war. At least two Gungans attended the celebration.[64]\n\nLater in the High Republic Era, the former Jedi Padawan Kantam Sy found the Force-sensitive Lula Talisola amongst the children cared for at an orphanage on Naboo. Returning to the Jedi Order, Sy became a Jedi Knight and Talisola's master.[65] A Jedi temple on Naboo, the Gallo Temple, was also established at some point and regarded as a much-prized posting for Jedi Knights. It was the first posting of Elzar Mann after being knighted.[66] By 232 BBY,[67] the scion of the wealthy San Tekka clan, Vellis, was based on Naboo, alongside his husband, Marlowe, living in a large estate by the lakes.[25]\n\nReign of the Nihil\n Main articles: Occupation of Naboo and Second occupation of Naboo\n\nIn 228 BBY,[68] with the creation of the Stormwall by the Nihil and its subsequent expansions, Naboo was eventually included in the Occlusion Zone. The Nihil General Abediah Viess led an invasion of Naboo, establishing the planet as a military base and putting it under Nihil occupation. Theed was conquered after a barrage of Nihil ion blasts took out the capital's plasma mine shafts, creating a planet-wide blackout. Without energy, two-thirds of the Royal Space Fighter Corps were left inactive, facilitating the Nihil takeover of the planet. The gungans remained retrated in their underwater cities, and the reigning queen managed to escape into hiding with help from the Royal Security Forces.[69]\n\nUnder the supervision of Viess, the Nihil occupation of the planet enacted a widespread forced disarmament, and subsequently took a considerable amount of resources from the richer inhabitants of Naboo as "tribute". Although the quick Nihil victory meant that the occupation on Naboo was less ruthless on the general population than the ones on other planets inside the Occlusion Zone, the initial raid led to some amount of casualties. A joint Jedi-Republic Defense Coalition assault on Naboo was later able to liberate the world.[69]\n\nLate High Republic Era\n\nBy 132 BBY[70] and as the light of the High Republic had begun to fade,[71] Naboo and the rest of the Chommel sector were represented in the Galactic Senate of the Republic by Senator Sahen Idane, a longtime ally of the Jedi Order and also someone who enjoyed close ties with Naboo royalty. Queen Yovité, who by that time had been elected Queen, had gifted a belt sash to Yovité by that year. Yovité also donned fabric sourced from a refinery in Theed.[72]\n\nTwilight of the Republic\nInvasion of Naboo\n"I was not elected to watch my people suffer and die while you discuss this invasion in a committee."\n―Queen Amidala, to the Galactic Senate —   (file info)[13]\n\nThe fourteen year old Padmé Amidala was elected to be the new Monarch of Naboo after Queen Sanandrassa decided to only have a single term. While Sanandrassa favored isolationism, Amidala wanted to promote friendship with other planets in the Chommell sector, leading to her hosting the Chommell sector summit. Additionally, after being urged to by Captain Quarsh Panaka, Amidala took on a group of Handmaidens, whom she quickly befriended, planning her days with them instead of Panaka.[48]\n\nThe capital of Theed fell to the forces of the Trade Federation during the Invasion of Naboo.\n\nRight as the Naboo summit ended,[48] about ten years before the Clone Wars, Naboo was blockaded and invaded by the Trade Federation. Amidala guided her home planet through the invasion and sealed a new friendship with the Gungans.[73] In an upsurge of sympathy and solidarity toward the invaded planet, the queen's emissary in the Galactic Senate, the seemingly unassuming Senator Sheev Palpatine, was made Supreme Chancellor of the Republic.[13]\n\nNaboo recovered quickly from the invasion under Amidala's remaining years, managing to almost completely restore its harvests and crop yields by the end of her final term. One of Amidala's final projects, which continued under the reign of her successor, was the implementation of an ion pulse in Theed in case of future invasions. The decision to install the pulse, whilst meeting with general approval, was nevertheless controversial as some, such as Quarsh Panaka, favored the idea of more robust and extensive defenses whilst others felt that installing any weapon system was against everything Naboo stood for in terms of peace.[74]\n\nClone Wars\n"I need you to convince the Senate, or the Jedi Council, or whoever is in charge of this terrible war that we are threatened."\n―Neeyutnee, to Padmé Amidala[27]\n\nThe government of Naboo remained loyal to the Galactic Republic during the Separatist Crisis and the Clone Wars.\n\nA series of miners strikes occurred on the moons of Naboo.[10] A mudslide disaster occurred on Naboo's secondary continent[60] in 22 BBY.[75] Both the Naboo and the Gungans remained loyal to the Republic during the Clone Wars, though many on Naboo were in despair at the idea of a galaxy-wide war. Senator Padmé Amidala and Representative Jar Jar Binks worked together to represent the interests of the Naboo and Gungans respectively in the Galactic Senate.[21] During the Clone Wars, Neeyutnee served as Queen of Naboo.[27] Early in the war, Amidala and Skywalker returned to the planet for their wedding[21] and spent several days on world for a honeymoon.[60]\n\nWhen a number of new battles, including the Battle of Teth, rocked the Outer Rim Territories[76] a few months into the war,[77] Naboo was put under the protection of several new security measures at the order of Palpatine himself. Amidala wanted to discuss those measures with the Chancellor before learning of the Battle of Teth, which had endangered Skywalker's life and changed her priorities to focusing on the Hutt–Republic treaty.[76] Amidala and Binks, with the help of the Jedi Order and the Gungan Peppi Bow, discovered the Separatist scientist Nuvo Vindi's secret laboratory in the Eastern swamps.[27] They managed to prevent Vindi from releasing stockpiles of the Blue Shadow Virus into Naboo's surface.[78] During the Battle of Mon Cala, elements of the Gungan Grand Army led by Representative Binks were dispatched to the watery planet of Mon Cala to aid Senator Amidala, the Jedi, the Clone SCUBA troopers, and the Mon Calamari Prince Lee-Char's forces against the Separatist commander Riff Tamson and his Quarren allies.[79]\n\nBy working together the Naboo and the Gungans prevented a Separatist attack on their shared homeworld.\n\nLater, the Gungan Boss Lyonie came under the influence of the pro-Separatist minister Rish Loo. Under Loo's control, Lyonie ordered the Gungan Grand Army to march on the Naboo capital of Theed. Their plan was to rendezvous with a Separatist droid army led by General Grievous, who had been sent by Count Dooku himself. Rish Loo and Dooku's plot was foiled by the combined efforts of Senator Amidala, Representative Binks, the Jedi Knight Anakin Skywalker, and General Roos Tarpals. However, the Naboo and Gungans were forced to release Grievous after Dooku took Skywalker hostage.[23]\n\nDuring the Festival of Light, Dooku sent Cad Bane and his team of bounty hunters to kidnap Palpatine in order to free Separatist prisoners from Republic captivity. At first, Bane and Moralo Eval were successful in capturing Palpatine. However, they were stopped by one of their fellow bounty hunters, Rako Hardeen, who was really Obi-Wan Kenobi in disguise. But, Bane planned a diversion in order to lure the Republic forces away while Dooku carried out the kidnapping. This failed, however, when he fought Kenobi and Skywalker.[57]\n\nThe dark times\n"Palpatine's stain is heavy on our people, and we carry that shame still."\n―Sosha Soruna[54]\n\nNaboo was in a state of mourning for Padmé Amidala, who died following the rise of the Galactic Empire.\n\nFollowing the rise of the Galactic Empire and Palpatine's self-proclamation as Emperor, Naboo hosted one of the new regime's military garrisons.[51] Shortly after the end of the Clone Wars, thousands of citizens gathered in the streets of Theed in order to assist to Amidala's funeral procession.[80] At that time, Sio Bibble had finally decided to retire from governorship over Naboo, setting the stage for an election that Saché was seemingly going to win.[74] However, Naboo's internal politics were also interfered with by the new regime; while the people were still permitted to elect their monarchs, those who gained the office had little real power or influence.[81] The position of governor was also abolished.[74] Instead, all major decisions regarding Naboo were placed firmly in the hands of the sector's Moff, a position held by[81] Palpatine's close ally[48] and former Security Forces officer Quarsh Panaka,[81] who was appointed before the election for governor could even happen.[74]\n\nSome time around 18 BBY, Luthen Rael and his adoptive daughter Kleya Marki bombed Imperial vehicles on a Nabooian bridge as an early act of their rebellion.[82]\n\nDarth Vader on Naboo in 3 ABY\n\nThough one of the less corrupt Imperial officials, Panaka was assassinated by Saw Gerrera's Partisans insurgency[81] in 3 BBY.[67] Due to its status as Palpatine's homeworld, Naboo prospered during the Age of the Empire. Its economy and environment were regarded to be far healthier than most worlds which had been subject to Imperial rule.[52] Nevertheless, the people of Naboo resented the fact that it was their world that brought forth a man like Palpatine. The Empire also demilitarized Naboo and dissolved the Royal Naboo Security Forces's starfighter wing. As a result, Naboo lacked any combat-trained pilots by the time of the Battle of Endor.[83]\n\nSabé, former handmaiden of Padme Amidala, brought Darth Vader to Naboo in 3 ABY. Typho and his rebel team fought him. The rebels went as far as baiting a Sando aqua monster into fighting the Dark Lord of the Sith. Ric Olié and his rebel cell, the Amidalans, attempted to protect Padmé's tomb from Vader, but were killed in the process. The handmaidens gathered for a final stand. They were unable to prevent Darth Vader from breaching the tomb.[84]\n\nA new era\nRise of the New Republic\n"…Very simply this, that Naboo represents the best of the Old Republic. Its assistance—your assistance, Your Highness—would be invaluable in leading the way to a restoration of the Senate. As we attempt to form a new government, we hope we may rely on Naboo's support, counsel, and aid."\n―Leia Organa, to Sosha Soruna[54]\n\nThe death of Galactic Emperor Sheev Palpatine was celebrated on his homeworld of Naboo by humans and Gungans alike.\n\nWhen news of Emperor Palpatine's death during the Battle of Endor—which resulted in[85] the apparent[86] defeat of the Empire by the Alliance to Restore the Republic—spread across the galaxy after the battle, an outpouring of joy occurred on Naboo, the inhabitants of which considered themselves free at last.[85] While it quickly became apparent that the war was not over as the Empire survived, even without its Emperor,[86] Naboo was liberated from Imperial control. Nonetheless, all equipment stored within Palpatine's small countryside retreat was stripped bare by the time it was explored by the New Republic, preventing the government from discovering whatever secrets Palpatine had kept within.[87]\n\nSome twenty days after the Battle of Endor, the Royal House of Naboo received a visit by Princess Leia Organa of Alderaan, who had been sent by Mon Mothma, Chancellor of the Alliance,[54] which was in the process of reorganizing into the New Republic.[88][86] In the royal palace's throne room, Organa met the then-Queen of Naboo, Sosha Soruna, and asked for Naboo's support in the establishment of the New Republic and the restoration of the Senate. The queen heartily accepted Organa's offer, claiming that the Naboo felt great shame over Palpatine's actions.[54]\n\nOperation: Cinder\n"Jamming at full power, Captain. Climate disruption array now at twenty percent. We count three class-five hurricanes already, another dozen forming."\n"I want one hundred percent within eight hours, Lieutenant Gulin. By order of the Emperor…Naboo is to be scoured…"\n―Gulin and Lerr Duvat[54]\n\nAided by the Rebel Alliance, the Naboo fought to save their world from the Empire during Operation: Cinder.\n\nDuring the meeting, gigantic storms suddenly began to rage, and Naboo's orbital sensors were all jammed. The Empire had set up a climate disruption array in orbit, as ordered by the late Emperor Palpatine. Named Operation: Cinder, the Empire's plan was to disrupt Naboo's environment and climate, and thus render the planet inhospitable.[54] The storms caused fires and flooding across the world, and many buildings were demolished. Soruna, Organa, and Alliance pilot Shara Bey finally decided to use three old N-1 starfighters—that had been stored by Queen Neeyutnee in the Theed Hangar during the Clone Wars—and go protect Naboo by destroying the Empire's satellites. Once in space, the three women were attacked by a squadron of TIE fighters, but managed, nonetheless, to knock out all of the satellites. A Rebel fleet led by Lando Calrissian and Nien Nunb soon arrived to take care of the Imperial forces.[83] The fleet consisted of members of Danger Squadron, which arrived in T-65B X-wing starfighters led by Danger Leader Duros Shriv Suurgav,[88] Nunb in the Mellcrawler II, and the MC80 Star Cruiser Restoration.[83]\n\nWith their weapons and vehicles disabled by Theed's ion defense, the Imperials were forced to surrender to the Naboo and their Rebel allies.\n\nDanger Squadron temporarily included former Inferno Squad members and recent Imperial defectors Iden Versio and Del Meeko to assist the three women in the destruction of the satellites. After their destruction, the Imperial II-class Star Destroyer Torment was then engaged by Danger Squadron and several Y-wing bombers, and the Restoration delivered the fatal blow to the hull of the Torment. The Alliance forces then gathered upon the ground to immobilize remaining Imperials in the final ground assault to try and take control of Theed. Imperial forces were immobilized by the ion pulse courtesy of Leia, Del, Shriv and Iden taking the fight from the marketplace, courtyard and all the way to the palace and once they are inside the pulse activates and rendering all of their weapons and vehicles inoperable leading to the surrender of Imperial forces. And Shriv commented that they just won and after all that happened Iden and Del are formally welcomed by Leia into the New Republic.[88]\n\nDue to the fact that Naboo had been the Emperor's homeworld, the planet became a rallying point for Imperial sympathizers. Months after the failed Operation: Cinder, the Imperial Navy deployed three attack forces to wipe out the New Republic's presence in the Naboo system. However, these attempts were successfully foiled by Corona Squadron.[52]\n\nRise of the First Order\n"People of Naboo. This is the Supreme Leader of the First Order. I have commandeered your communications network. I am unimpressed with you. Your focus on events that happened decades ago, your obsession with lineage and superstition…have caused your society to fester. Because you cannot let go…you hold yourself back. Now that will change. All that was will be swept away. Naboo will embrace the future. You have been ruled by queens. You have been ruled by an emperor. Now…I am your king."\n―Kylo Ren[89]\n\nDuring the Cold War nearly thirty years later between the First Order and the Resistance, Senator Thadlé Berenko represented Naboo in the reconstituted New Republic Senate,[90] and was killed when the First Order destroyed Hosnian Prime, the home of the Senate at the time.[91]\n\nBy 35 ABY,[92] Naboo's skies were being patrolled by Star Destroyers from the First Order as part of its expansive efforts to establish galactic dominance. At some point later, Naboo engaged in open rebellion against the First Order, simultaneous with other planets such as Bespin and Coruscant leading to the successful overthrow of the entire regime.[93]\n\nSociety and culture\n"You and the Naboo form a symbiont circle. What happens to one of you will affect the other. You must understand this."\n―Obi-Wan Kenobi, to Rugor Nass[13]\n\nThe commitment to the defense of Naboo brought its human and Gungan inhabitants together when threatened by an external enemy.\n\nNaboo was inhabited by two societies: an indigenous species of intelligent amphibians called the Gungans and a group of peaceful humans who were referred to as the Naboo.[14] In the distant past, a cultural misunderstanding resulted in a serious quarrel between the Gungan and the human colonists. Both sides refused to acknowledge their responsibilities in the rift, and the two groups ostracized each other for the longest time. That situation lasted until the Invasion of Naboo by the Trade Federation forced the humans and Gungans to join forces.[59]\n\nNaboo culture fostered the artist in every citizen, encouraging children to become musicians, performers, painters, and similar professions. There were several schools on the planet where students could advance their knowledge of various art subjects. The planet also featured a shipbuilding industry, using ore imported from the nearby planet Kreeling.[48]\n\nBoth the Naboo and Gungans had a close relationship with water.[12] Fish was an important food to the people of Naboo.[48] Naboo had engagement rituals during the High Republic Era intended to be performed between the betrothed individuals.[94]\n\nBehind the scenes\n\nNaboo first appeared in the 1999 film Star Wars: Episode I The Phantom Menace, the first installment of the Star Wars prequel trilogy.[13] It was later featured in 2002's Star Wars: Episode II Attack of the Clones[21] and 2005's Star Wars: Episode III Revenge of the Sith.[80]\n\nIn the revised rough draft of the script for The Phantom Menace, Naboo was called Utapau.[95]\n\nAfter many months of general research into where to shoot,[96] the real-world shooting locations for Naboo were Villa del Balbianello and Royal Palace of Caserta in Italy and Plaza de España in Seville, Spain, among others. The buildings of Naboo were based on the Hagia Sophia, a cathedral turned mosque then turned museum located in Istanbul, Turkey. On the other hand, the architecture of Naboo was inspired by the domed and scalloped roofs of the Marin County Civic Center.[97] The crew hoped to depict Naboo with classical architecture, thereby establishing the planet's scale and giving the idea of a sophisticated society.[96]\n\nThe exact number of moons in Naboo is currently unknown. In Attack of the Clones, Mace Windu mentions "spice miners on the moons of Naboo."[21] However, the 2016 reference book Star Wars: Complete Locations states that Naboo has only one moon.[12] The 2018 novel Thrawn: Alliances confirms that Naboo has three moons.[9] There is also a discrepancy over the names of the three moons: Nexus of Power states that the moons where Ohma-D'un, Rori, and a small third moon that has no in-universe name,[16] while Rise of the Separatists, a sourcebook from Star Wars Roleplaying, states that the three moons of Naboo are Rori, Veruna, and Ohma-D'un.[7] However, the novel Leia, Princess of Alderaan prominently includes the moon Onoam.[10] Rori and Onoam have similar descriptions,[10][16] but as yet there has been no clarification for the discrepancy.\n\nAppearances\nStar Wars: Galactic Defense (Mentioned only)\n"The Sleep of Ages" — Dark Legends (Mentioned only) (In flashback(s))\nThe High Republic: Convergence (and audiobook) (Mentioned only)\nThe High Republic: Cataclysm (and audiobook) (Mentioned only)\nThe High Republic: Into the Dark (and audiobook) (Mentioned only)\nThe High Republic: Light of the Jedi (and audiobook)\n Star Wars: Young Jedi Adventures — "Journey to the Bottom of Naboo"\nThe High Republic: The Rising Storm (and audiobook) (Mentioned only)\nThe High Republic: Out of the Shadows (and audiobook) (Mentioned only)\nThe High Republic: Mission to Disaster (and audiobook) (Mentioned only)\nThe High Republic: Midnight Horizon (and audiobook) (In flashback(s))\nThe High Republic Adventures (2021) 13 (In flashback(s))\nThe High Republic Adventures (2023) 6 (In flashback(s))\nThe High Republic: Defy the Storm (and audiobook) (Mentioned only)\nThe High Republic Adventures (2023) 7 (Mentioned only)\nThe High Republic Adventures (2023) 10 (Mentioned only)\n "Tales from the Occlusion Zone: Survivors" — Star Wars Insider 224 (Mentioned only)\nThe High Republic: Temptation of the Force (and audiobook)\nThe High Republic: The Edge of Balance: Premonition (In flashback(s))\nThe High Republic: Tempest Breaker (Mentioned only) (In flashback(s))\nThe High Republic: Tempest Breaker script (Mentioned only) (In flashback(s))\nThe High Republic Adventures – Dispatches from the Occlusion Zone 4 (Appears in hologram)\nThe High Republic: Trials of the Jedi (and audiobook) (Mentioned only)\nThe High Republic – Fear of the Jedi 1\nThe High Republic – Fear of the Jedi 2\nThe High Republic – Fear of the Jedi 3 (Mentioned only)\nThe High Republic – Fear of the Jedi 4 (Mentioned only)\nThe High Republic – Fear of the Jedi 5 (Mentioned only)\nThe High Republic: A Valiant Vow (and audiobook) (Mentioned only)\nThe Acolyte: Wayseeker (and audiobook) (Mentioned only)\nMaster & Apprentice (and audiobook)\nJedi Knights 5 (Mentioned only)\nDarth Maul – Black, White & Red 3 (Mentioned only)\nThe Living Force (and audiobook) (Mentioned only)\nJango Fett 1 (Mentioned only)\nQueen's Peril (and audiobook)\nThe Phantom Menace 25th Anniversary Special 1\nStar Wars: Episode I The Phantom Menace (First appearance)\nThe Phantom Menace Read-Along Storybook and CD\nStar Wars Journeys: The Phantom Menace\nStar Wars Journeys: Beginnings\nStar Wars Battlefront II\n Star Wars: Tales of the Jedi — "The Sith Lord" (Mentioned only)\nMace Windu: The Glass Abyss (and audiobook) (In flashback(s))\n "Raiders of the Lost Gundark" — Star Wars Adventures (2017) 18\n Star Wars Forces of Destiny — "Monster Misunderstanding"\nAge of Republic - Obi-Wan Kenobi 1 (In flashback(s))\nObi-Wan and Anakin 1 (Mentioned only)\nObi-Wan and Anakin 4 (Indirect mention only) (In flashback(s))\nTales From the Nightlands 1 (In flashback(s))\nQueen's Shadow (and audiobook)\nAge of Republic - Count Dooku 1 (Appears through imagination)\nStar Wars: Episode II Attack of the Clones\nInquisitor: Rise of the Red Blade (and audiobook) (Mentioned only)\nQueen's Hope (and audiobook)\nBrotherhood (and audiobook) (In flashback(s))\n"The Eye of the Beholder" — Stories of Jedi and Sith (and audiobook) (Mentioned only)\n "The Failing of the Light" — Star Wars Insider 233 (Mentioned only)\nHyperspace Stories 5\nStar Wars: The Clone Wars film (Mentioned only)\n Star Wars: The Clone Wars — "Supply Lines" (Mentioned only)\n Star Wars: The Clone Wars — "Shadow of Malevolence" (Mentioned only)\n Star Wars: The Clone Wars — "Destroy Malevolence" (Mentioned only)\n Star Wars: The Clone Wars — "Bombad Jedi" (Mentioned only)\n Star Wars: The Clone Wars — "Blue Shadow Virus"\n Star Wars: The Clone Wars — "Mystery of a Thousand Moons"\n Star Wars: The Clone Wars — "Children of the Force"\n Star Wars: The Clone Wars — "Senate Spy" (Mentioned only)\n Star Wars: The Clone Wars — "Duchess of Mandalore" (Mentioned only)\nCatalyst: A Rogue One Novel (and audiobook) (Mentioned only)\n Star Wars: The Clone Wars — "Lethal Trackdown" (Poster only)\n Star Wars: The Clone Wars — "Assassin" (Mentioned only)\n Star Wars: The Clone Wars — "Sphere of Influence" (Mentioned only)\n Star Wars: The Clone Wars — "Hostage Crisis" (Mentioned only)\n"Hostage Crisis" — The Clone Wars: Stories of Light and Dark (and audiobook) (Mentioned only)\n "Intermission, Part 1" — Star Wars Adventures (2017) 12 (Picture only)\nForces of Destiny—Ahsoka & Padmé (Mentioned only)\n "The Incident, Part 1" — Star Wars Adventures (2020) 5\n "The Incident, Part 2" — Star Wars Adventures (2020) 6\n Star Wars: The Clone Wars — "Heroes on Both Sides" (Mentioned only)\n Star Wars: The Clone Wars — "Pursuit of Peace" (Picture only)\n Star Wars: The Clone Wars — "Senate Murders" (Picture only)\n Star Wars: The Clone Wars — "Monster" (Mentioned only)\n Star Wars: The Clone Wars — "Gungan Attack"\n Star Wars: The Clone Wars — "Shadow Warrior"\n Star Wars: The Clone Wars — "Deception" (Mentioned only)\n Star Wars: The Clone Wars — "Crisis on Naboo"\n"Bane's Story" — The Clone Wars: Stories of Light and Dark (and audiobook) (Mentioned only)\n Star Wars: The Clone Wars — "Revenge" (Mentioned only)\n"Dark Vengeance" — The Clone Wars: Stories of Light and Dark (and audiobook) (Mentioned only)\n Star Wars: The Clone Wars — "Destiny" (Mentioned only)\nDark Disciple (and audiobook) (Mentioned only)\nAge of Republic - Padmé Amidala 1 (In flashback(s))\nStar Wars: Episode III Revenge of the Sith\n Star Wars: Tales of the Jedi — "Resolve"\nReign of the Empire: The Mask of Fear (and audiobook) (Mentioned only)\nSanctuary: A Bad Batch Novel (Model only)\nAhsoka (and audiobook) (Mentioned only)\nAdventures in Wild Space: The Nest (and audiobook) (Mentioned only)\nAdventures in Wild Space: The Steal (and audiobook) (Mentioned only)\n "So Much More" — Star Wars Adventures Annual 2019 (Appears through imagination)\nLords of the Sith (and audiobook) (Mentioned only)\nTarkin (and audiobook) (Mentioned only)\nDarth Vader (2017) 20 (Mentioned only)\nRebel Rising (and audiobook) (Mentioned only)\nDarth Vader (2017) 25 (Vision to Darth Vader)\nA New Dawn (and audiobook) (Mentioned only)\n Star Wars: Obi-Wan Kenobi — "Part I" (In flashback(s))\nObi-Wan Kenobi 1 (In flashback(s))\nLost Stars (and audiobook)\nLost Stars webcomic\nThe Rebellion Begins (Mentioned only)\n Star Wars: Andor — "Harvest" (Mentioned only)\nLeia, Princess of Alderaan (and audiobook)\nLeia Organa: Ordeal of the Princess\nThrawn: Alliances (and audiobook) (Mentioned only)\n "Inbrief" — Star Wars Insider 161 (reprinted in Star Wars 2016 Del Rey Sampler; Battlefront: Twilight Company; Special Edition 2019; and Star Wars Insider: The Fiction Collection Volume 2) (Indirect mention only)\nObi-Wan 4 (In flashback(s))\n Star Wars: Andor — "Make It Stop" (In flashback(s))\nRogue One: A Star Wars Story novelization (and audiobook) (Mentioned only)\nThe Odyssey of Star Wars: An Epic Poem (Mentioned only)\n"Stories in the Sand" — From a Certain Point of View (and audiobook) (Appears in hologram)\n Star Wars Galaxy of Adventures — "Obi-Wan Kenobi" (In flashback(s))\n"You Owe Me a Ride" — From a Certain Point of View (and audiobook) (Mentioned only)\nPrincess Leia 1 (Mentioned only)\nPrincess Leia 2\nPrincess Leia 3 (Mentioned only)\nDoctor Aphra: An Audiobook Original\nDarth Vader (2015) 6 (In flashback(s))\nDarth Vader (2015) 8 (Mentioned only)\nDarth Vader (2015) 9 (Mentioned only)\nDarth Vader (2015) 10\nDarth Vader (2015) 20 (Mentioned only)\n "The Trouble at Tibrin" — Star Wars Adventures (2017) 4 (Mentioned only)\n "Mind Your Manners" — Star Wars Adventures Annual 2018 (Mentioned only)\nBattlefront: Twilight Company (and audiobook) (Mentioned only)\n"Luke on the Bright Side" — Stories of Jedi and Sith (and audiobook) (Mentioned only)\nDarth Vader (2020) 2\nDarth Vader (2020) 3\nDarth Vader (2020) 4\nDarth Vader (2020) 5\nDoctor Aphra (2020) 8 (Mentioned only)\nWar of the Bounty Hunters – Jabba the Hutt 1 (Mentioned only)\nCrimson Reign 3 (Appears on screen) (In flashback(s))\nDarth Vader (2020) 19 (In flashback(s))\nDarth Vader (2020) 21\nDarth Vader (2020) 22\nDarth Vader (2020) 23 (In flashback(s))\nDarth Vader (2020) 26 (In flashback(s))\nDarth Vader (2020) 28\nStar Wars Outlaws (Mentioned only) ("Naboo Nobility Bundle" only)\nSana Starros 2 (Mentioned only)\nDarth Vader (2020) 29 (Mentioned only; in the opening crawl)\nDarth Vader (2020) 30 (In flashback(s))\nDarth Vader (2020) 31 (Mentioned only)\nDarth Vader (2020) 34 (Vision to Sabé)\nDarth Vader (2020) 46 (Mentioned only)\nDarth Vader (2020) 50 (Mentioned only)\nStar Wars: Episode VI Return of the Jedi (Post-2004 releases)\nStar Wars: Return of the Jedi junior novelization (Mentioned only)\nReturn of the Jedi: Beware the Power of the Dark Side! (and audiobook) (Mentioned only)\n"Satisfaction" — From a Certain Point of View: Return of the Jedi (and audiobook) (Mentioned only)\n"Masters" — Stories of Jedi and Sith (and audiobook) (Indirect mention only)\n "Blade Squadron" — Star Wars Insider 149–150 (reprinted in Star Wars Insider: The Fiction Collection Volume 1) (Mentioned only)\n"The Veteran" — From a Certain Point of View: Return of the Jedi (and audiobook) (Mentioned only)\nThe Princess and the Scoundrel (and audiobook) (Mentioned only)\nShattered Empire 2\nShattered Empire 3\nAlphabet Squadron (and audiobook) (Mentioned only)\nAftermath (and audiobook)\nShattered Empire 4 (Mentioned only)\nStar Wars: Squadrons (Mentioned only)\nShadow Fall: An Alphabet Squadron Novel (and audiobook) (Mentioned only)\nBattle of Jakku — Republic Under Siege 4 (Mentioned only)\nVictory's Price: An Alphabet Squadron Novel (and audiobook) (Indirect mention only)\nAftermath: Empire's End (and audiobook)\n"Chasing Ghosts" — Myths & Fables (and audiobook) (Mentioned only) (In flashback(s))\nLast Shot (and audiobook) (Mentioned only)\n Star Wars: The Book of Boba Fett — "Chapter 5: Return of the Mandalorian" (Mentioned only)\n Star Wars: The Book of Boba Fett — "Chapter 6: From the Desert Comes a Stranger" (Mentioned only)\nStar Wars (2020) 50 (In flashback(s))\nBloodline (and audiobook) (Mentioned only)\nThe Legends of Luke Skywalker (and audiobook) (Mentioned only)\n"The Perfect Weapon" (and audiobook) (Mentioned only)\nStar Wars Special: C-3PO 1 (In flashback(s))\nForce Collector (and audiobook) (Vision to Karr Nuq Sin)\nPoe Dameron 21 (Mentioned only)\nPoe Dameron 22 (Mentioned only)\nPhasma (and audiobook) (Mentioned only)\nStar Wars: The Force Awakens Graphic Novel Adaptation (Mentioned only)\nGalaxy's Edge: Black Spire (and audiobook) (Mentioned only)\nJoin the Resistance: Attack on Starkiller Base (and audiobook) (Mentioned only)\n"The Wine in Dreams" — Canto Bight (and audiobook) (Mentioned only)\nLegacy of Vader 3\nLegacy of Vader 4\nLegacy of Vader 5\nLegacy of Vader 6 (Mentioned only)\nLegacy of Vader 7 (Mentioned only; in the opening crawl)\nLegacy of Vader 8 (Mentioned only; in the opening crawl)\nLegacy of Vader 10 (Mentioned only; in the opening crawl)\nLegacy of Vader 11 (Mentioned only)\nLegacy of Vader 12 (Mentioned only; in the opening crawl)\nGalaxy of Creatures book\n Star Wars Galaxy of Creatures — "Gorgs"\nA Crash of Fate (and audiobook) (Mentioned only)\n Star Wars: Galaxy's Edge — Oga's Cantina (Mentioned only)\nStar Wars: Datapad (Mentioned only)\nStar Wars: Galactic Starcruiser (Mentioned only)\nStar Wars: The Rise of Skywalker: A Junior Novel (and audiobook) (Mentioned only)\nThe Last Order (Mentioned only)\nNon-canon appearances\n "The Best Defense" — LEGO Club Magazine March/April 2015\nWilliam Shakespeare's The Phantom of Menace: Star Wars Part the First\nWilliam Shakespeare's The Clone Army Attacketh: Star Wars Part the Second\nDisney Infinity 3.0\nWilliam Shakespeare's Tragedy of the Sith's Revenge: Star Wars Part the Third\nLEGO Star Wars: Droid Tales Episodes I-III (In flashback(s))\n LEGO Star Wars: The Freemaker Adventures — "The Kyber Saber Crystal Chase"\n LEGO Star Wars: The Freemaker Adventures — "Duel of Destiny"\n LEGO Star Wars: The Freemaker Adventures — "Return of the Kyber Saber" (Mentioned only)\n LEGO Star Wars: The Freemaker Adventures — "Beware, the Gamorrean Flu!" (Mentioned only)\n LEGO Star Wars: The Freemaker Adventures — "A New Home" (Mentioned only)\nFortnite (Mentioned only)\n LEGO Star Wars: The Freemaker Adventures — "Return to the Wheel" (Mentioned only)\n LEGO Star Wars: The Freemaker Adventures — "Flight of the Arrowhead" (Mentioned only)\n LEGO Star Wars: All-Stars — "Lo, I am Manufactured" (In flashback(s))\n LEGO Star Wars: All-Stars — "From Trenches to Wrenches: The Roger Story" (In flashback(s))\n "The Intergalactic Games" — LEGO Star Wars 81 (Mentioned only)\nLEGO Star Wars: The Skywalker Saga\n "Building Masters" — LEGO Star Wars 90\n "The Problem with Palpatine" — LEGO Star Wars 99\nSources\nStar Wars: A Galaxy at War\n "Destroy Malevolence" Episode Guide | The Clone Wars on StarWars.com (backup link)\n "Bombad Jedi" Episode Guide | The Clone Wars on StarWars.com (backup link)\n "Cloak of Darkness" Episode Guide | The Clone Wars on StarWars.com (backup link)\n "Trespass" Episode Guide | The Clone Wars on StarWars.com (backup link)\n "The Hidden Enemy" Episode Guide | The Clone Wars on StarWars.com (backup link)\n "Blue Shadow Virus" Episode Guide | The Clone Wars on StarWars.com (backup link)\n "Mystery of a Thousand Moons" Episode Guide | The Clone Wars on StarWars.com (backup link)\n "Children of the Force" Episode Guide - The Clone Wars on StarWars.com (backup link)\n "Senate Spy" Episode Guide | The Clone Wars on StarWars.com (backup link)\n Flash speeder in the Encyclopedia (original site is defunct)\n Gungan bongo submarine in the Encyclopedia (original site is defunct)\n Gungan weaponry in the Encyclopedia (original site is defunct)\n Gungans in the Encyclopedia (original site is defunct)\n Jar Jar Binks in the Encyclopedia (original site is defunct)\n Jedi breathing device in the Encyclopedia (original site is defunct)\n Mina Bonteri in the Encyclopedia (original site is defunct)\n Naboo in the Encyclopedia (original site is defunct)\n Naboo N-1 starfighter in the Encyclopedia (original site is defunct)\n Naboo royal guards in the Encyclopedia (original site is defunct)\n Naboo royal handmaidens in the Encyclopedia (original site is defunct)\n Naboo Royal Starship in the Encyclopedia (original site is defunct)\n Padmé Amidala in the Encyclopedia (original site is defunct)\n Palpatine in the Encyclopedia (original site is defunct)\n Republic Cruiser in the Encyclopedia (original site is defunct)\n Sio Bibble in the Encyclopedia (original site is defunct)\n Trade Federation in the Encyclopedia (original site is defunct)\n Trade Federation landing ship in the Encyclopedia (original site is defunct)\n vulture droid in the Encyclopedia (original site is defunct)\nStar Wars Rebels: The Visual Guide\n Galactic Backpacking, Part 2: Visiting Real-World Naboo on StarWars.com (original link is obsolete)\nStar Wars Helmet Collection: Darth Vader Databank A-Z: Ask Aak–Stass Allie\nStar Wars Helmet Collection: Boba Fett Databank A-Z: Alzoc III–Antilles\n "Blaster" — Star Wars Insider 152\nStar Wars Helmet Collection: Stormtrooper Databank A-Z: Barada–Depa Billaba\nStar Wars Helmet Collection: Luke Skywalker (X-Wing Pilot) Databank A-Z: B1 Battle Droid–Bantha\nStar Wars Helmet Collection: Scout Trooper Databank A-Z: Bongo–Bowcaster\nStar Wars Helmet Collection: TIE Fighter Pilot Databank A-Z: Jar Jar Binks–B'omarr Order\nStar Wars Helmet Collection: C-3PO [Show]\nStar Wars Helmet Collection: General Grievous Weapons & Uniforms: Imperial Droids\nStar Wars Helmet Collection: AT-AT Pilot Databank A-Z: C-21–Chandrila\nStar Wars Helmet Collection: Emperor's Royal Guard Highlights of the Saga: Birth of an Empire\nStar Wars: Journey Through Space\nStar Wars Helmet Collection: Jango Fett Databank A-Z: 'Occupier' Tank–Oola\nStar Wars Helmet Collection: Commander Bacara Databank A-Z: Dooku–Dwarf Spider Droids\nStar Wars: Card Trader Set: Base Series 1 [Show]\nStar Wars Helmet Collection: Clone Pilot Databank A-Z: Moraband–Muftak\nStar Wars Helmet Collection: Anakin Skywalker Highlights of the Saga: The Boonta Eve Classic\nUltimate Star Wars\nStar Wars Helmet Collection: Rebel Trooper [Show]\nStar Wars Helmet Collection: Naboo Pilot [Show]\nStar Wars Helmet Collection: Phase I Clone Trooper [Show]\nStar Wars Helmet Collection: Rebel Commando Databank A-Z: Hassk Triplets–Holograms (Picture only)\nStar Wars Helmet Collection: Tusken Raider Databank A-Z: Rush Clovis–Coruscant\nStar Wars Helmet Collection: Y-wing Pilot Highlights of the Saga: Fall of the Malevolence\nStar Wars Helmet Collection: Commander Gree Helmets: Commander Gree\nStar Wars: Star Pilot\nStar Wars: Absolutely Everything You Need to Know\nStar Wars: Ships of the Galaxy\nStar Wars Helmet Collection: Coruscant Emergency Crew [Show]\nStar Wars Helmet Collection: Snowtrooper Databank A-Z: Jelucan–Lord Junn\nStar Wars Helmet Collection: Senate Guard Databank A-Z: Tee Watt Kaa–Kamino\nStar Wars Helmet Collection: AT-ST Pilot [Show]\nStar Wars: Build the Millennium Falcon 42 Guide to the Galaxy: Planets and Moons\n Imagining an Autumn Day on Naboo on StarWars.com (original link is obsolete)\nStar Wars: The Force Awakens: The Visual Dictionary\nStar Wars Helmet Collection: Death Star Trooper [Show]\nStar Wars Helmet Collection: Hoth Rebel Soldier Databank A-Z: Kel Dor–Ki-Adi-Mundi\nStar Wars Helmet Collection: Odd Ball Databank A-Z: Petranaki Arena–Proton Torpedoes\n Where in the Galaxy Are the Worlds of Star Wars: The Force Awakens? on StarWars.com (article) (backup link)\nStar Wars Helmet Collection: Commander Thire Databank A-Z: Baze Malbus–Darth Maul\nStar Wars Helmet Collection: Zam Wesell Helmets: Zam Wesell\nNexus of Power\nStar Wars Character Encyclopedia: Updated and Expanded\nStar Wars Expert Guide\nStar Wars Helmet Collection: Captain Phasma [Show]\nStar Wars Helmet Collection: Kylo Ren Databank A-Z: Greedo–Gundarks\nStar Wars Helmet Collection: First Order Snowtrooper Databank A-Z: Zeb Orrelios–Pau City\nStar Wars: The Force Awakens Beginner Game\nStar Wars: Build the Millennium Falcon 85 Guide to the Galaxy: Orto Plutonia and Pantora\nStar Wars Helmet Collection: First Order TIE Pilot Databank A-Z: Sabe–The Separatist Council\nStar Wars: Aliens of the Galaxy\nStar Wars Helmet Collection: Inquisitor [Show]\nStar Wars: Complete Locations\nStar Wars Propaganda: A History of Persuasive Art in the Galaxy\nPoe Dameron: Flight Log\nStar Wars: Galactic Atlas\nStar Wars Helmet Collection: Resistance Trooper Databank A-Z: Providence-class–Raxus\nPrincess Leia: Royal Rebel\nStar Wars Helmet Collection: Sidon Ithano Databank A-Z: Darth Tyranus\nEntertainment Weekly's Ultimate Guide to Rogue One\nStar Wars: Rogue One: The Ultimate Visual Guide\nStar Wars Helmet Collection: Nien Nunb Databank A-Z: Tantive IV–Tatooine\nStar Wars Helmet Collection: Captain Rex Databank A-Z: Valorum–Vassek\nStar Wars: Build Your Own R2-D2 1 Droid Directory: R2-series Astromech Droids, Part 1\nStar Wars Helmet Collection: Commander Ponds [Show]\nStar Wars Helmet Collection: 2-1B Surgical Droid [Show]\nDarth Vader: Sith Lord\nStar Wars Helmet Collection: Naboo Royal Guard [Show]\nStar Wars Helmet Collection: Shoretrooper Databank A-Z: Serenno–Anakin Skywalker\nStar Wars Helmet Collection: Blaster Training Helmet Databank A-Z: Mace Windu\nStar Wars Helmet Collection: Imperial Ground Crew Databank A-Z: Tractor Beams–Tri-Fighters (Picture only)\nStar Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away\nStar Wars: On the Front Lines\nStar Wars Helmet Collection: First Order Engineer Databank A-Z: Pre Vizsla–Quinlan Vos\nStar Wars Helmet Collection: Silvanie Phest Databank A-Z: Grand Master Yoda\nStar Wars: Absolutely Everything You Need to Know, Updated and Expanded\nCréatures et peuples de la galaxie\nStar Wars Helmet Collection: B-wing Pilot Databank A-Z: Vibroblades–Cikatro Vizago\nForces of Destiny: Tales of Hope & Courage\nStar Wars: Geektionary: The Galaxy from A - Z\nStar Wars: The Rebel Files\nStar Wars: The Last Jedi: The Visual Dictionary\nThe Last Jedi: Bomber Command\nStar Wars Bust Collection: Darth Vader Character: Darth Vader\nStar Wars Bust Collection: Darth Maul [Show]\nStar Wars Encyclopedia of Starfighters and Other Vehicles\nStar Wars Lightsabers: A Guide to Weapons of the Force\n Star Wars: Force Collection [Show]\nSolo: A Star Wars Story The Official Guide\nStar Wars: The Complete Visual Dictionary, New Edition\nStar Wars: Alien Archive\nStar Wars: Women of the Galaxy\n Star Wars: The Black Series (Pack: #081: Padmé Amidala) (backup link)\nStar Wars: X-Wing Second Edition — Vulture-class Droid Fighter Expansion Pack [Show]\nStar Wars: Build Your Own X-Wing 31 Starfighter Aces: Ric Olié — Bravo Leader\n Star Wars Galaxy of Adventures Fun Facts: Planets on the official Star Wars Kids YouTube channel (backup link)\nRise of the Separatists\n Star Wars Galaxy of Adventures Fun Facts: The Star Wars Timeline on the official Star Wars Kids YouTube channel (backup link)\nStar Wars: Outer Rim\nStar Wars: X-Wing Second Edition — Naboo Royal N-1 Starfighter Expansion Pack [Show]\n Star Wars By the Numbers: Every Droid in Star Wars on the official Star Wars Kids YouTube channel (original link is obsolete) (Picture only)\nStar Wars: How Not to Get Eaten by Ewoks and Other Galactic Survival Skills\nStar Wars: Creatures Big & Small\nUltimate Star Wars, New Edition\nStar Wars: The Galactic Explorer's Guide\n Star Wars By the Numbers: Every Language in Star Wars Movies on the official Star Wars Kids YouTube channel (original link is obsolete) (Picture only)\nStar Wars: Card Trader Set: 2020 Base Series, Card: Jar Jar Binks\nStar Wars: The Rise of Skywalker: The Visual Dictionary\n2020 Topps Women of Star Wars [Show]\n Disney Gallery: The Mandalorian — "Legacy"\n Disney Gallery: The Mandalorian — "Score"\nStar Wars: Galaxy's Edge: Traveler's Guide to Batuu\nStar Wars: Card Trader Set: 2020 Base Series 2 [Show]\n Star Wars By the Numbers: Every Ship in the Star Wars Sequel Trilogy on the official Star Wars Kids YouTube channel (original link is obsolete)\n"R2-D2" — Star Wars Encyclopedia\nThe Star Wars Book\nStar Wars: Fascinating Facts\n"Naboo" — Star Wars Encyclopedia\nStar Wars: The Lightsaber Collection\nStar Wars: Card Trader Set: 2021 Base, Card: Captain Panaka\n"Republic, Rebel, and Resistance Starfighters" — Star Wars Encyclopedia\n "Database" — Star Wars - Das offizielle Magazin 100\n"The Final Order and the Battle of Exegol" — Star Wars Encyclopedia\n"C-3PO" — Star Wars Encyclopedia\n "A Certain Point of View" — Star Wars Insider 200\n Star Wars Inside Intel: Padmé's Real Last Name on StarWars.com (article) (backup link)\n Star Wars: The Black Series (Star Wars: The Phantom Menace Figure: #01: Jar Jar Binks) (backup link)\nStar Wars: The Skywalker Saga – The Official Collector's Edition\n"Emperor Palpatine" — Star Wars Encyclopedia\n"Anakin Skywalker" — Star Wars Encyclopedia\n "Bounty Lost" Episode Guide | The Bad Batch on StarWars.com (backup link) (Picture only)\nStar Wars: The Secrets of the Sith\n Official Trailer | Star Wars Galaxy of Creatures on the official Star Wars Kids YouTube channel (backup link)\nStar Wars: Battles that Changed the Galaxy\nStar Wars Droids Guide to a Galaxy Far, Far Away\n Star Wars: List It!: Faithful Friends on the official Star Wars Kids YouTube channel (original link is obsolete)\n"Pilots of the Rebel Alliance" — Star Wars Encyclopedia\n "Crime and Punishment" — Star Wars Insider 209\n"Mustafar and Other Planets in the Outer Rim" — Star Wars Encyclopedia\n Ships of the Galaxy: The Halcyon Starcruiser on StarWars.com (article) (backup link)\n"The Separatists" — Star Wars Encyclopedia\n Clones at 20 | 20 Unforgettable Quotes from Star Wars: Attack of the Clones on StarWars.com (backup link) (Picture only)\n Clones at 20 | Costume Designer Trisha Biggar Reflects on Her Most Challenging Film on StarWars.com (backup link)\n A Series of Firsts | Obi-Wan Kenobi | Disney+ on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)\n Obi-101: Everything You Need to Know About Obi-Wan Kenobi on StarWars.com (backup link)\n 10 of Obi-Wan Kenobi's Greatest Moments (So Far) on StarWars.com (backup link)\nStar Wars Galaxy Map poster (also published on StarWars.com)\n SWCA 2022: 4 Things We Learned From the Attack of the Chords Panel on StarWars.com (backup link) (Picture only)\n SWCA 2022: 7 Things We Learned from the Lucasfilm Publishing Behind the Page Panel on StarWars.com (backup link)\n We Checked Out the Drinks, Easter Eggs, and Galactic View at Star Wars: Hyperspace Lounge on StarWars.com (backup link)\n Star Wars: The High Republic Show: The High Republic at New York Comic Con, Phase II Begins Now, and More! on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)\n Star Wars: Best of 2022 on StarWars.com (backup link)\nStar Wars: The High Republic: Chronicles of the Jedi\n Star Wars: The High Republic Show: High Republic Phase II Deep Dive, Star Wars Celebration, and More! on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)\n New Concept Art and More Revealed on Star Wars: The High Republic Show on StarWars.com (backup link)\n "Metamorphosis" Episode Guide | The Bad Batch on StarWars.com (backup link) (Picture only)\n Keisha Castle-Hughes on Doctor Emerie Karr and The Bad Batch Season 2's Cliffhanger on StarWars.com (backup link)\nStar Wars 100 Objects\n Bounty Hunting Highlights: 5 of Our Favorite Moments from The Mandalorian – "Chapter 24: The Return" on StarWars.com (backup link)\nStar Wars: Timelines\n StarWars.com Fan Spotlight: Keith Yarde Is a Star Wars Fan Like his Father, Kerwin, Before Him on StarWars.com (backup link)\n Star Wars: The High Republic Show: The Fate of Burryaga Revealed, The High Republic Heads to San Diego Comic-Con, and More! on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)\n SDCC 2023: 10 Reveals from the Lucasfilm Publishing Panel on StarWars.com (backup link)\n Master & Apprentice: A Special Look at Ahsoka on the official Star Wars YouTube channel (article) (backup link) (Posted on StarWars.com)\nStar Wars: The Ultimate Cookbook\n"This is Obi-Wan" — Star Wars: Meet the Galactic Heroes\n "After Endor" — Star Wars Insider 222\nStar Wars: Dawn of Rebellion: The Visual Guide\n 5 Behind-the-Pages Secrets of Star Wars: Dawn of Rebellion on StarWars.com (backup link)\n "Hutt Couture: High Fashion, Star Wars–Style" — Star Wars Insider 223\n This Week! in Star Wars Dispatch: The Phantom Menace Returns! on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)\n Star Wars: The Phantom Menace Celebrates 25 Years with Return to Theaters on StarWars.com (backup link) (Picture only)\n Matt Ferguson on His Stunning Star Wars: The Phantom Menace 25th Anniversary Poster on StarWars.com (backup link) (Picture only)\n Return of the Jedi Masters Avar Kriss and Elzar Mann in Temptation of the Force — Cover Reveal on StarWars.com (backup link)\n "A Different Approach" Episode Guide | The Bad Batch on StarWars.com (backup link)\n Inside Marvel's Star Wars: The Phantom Menace 25th Anniversary Special #1 – First Look on StarWars.com (backup link) (Picture only)\n Pun-ch It! The Making of Star Wars: Dad Jokes on StarWars.com (backup link)\n Who's Who on the Jedi Council in The Phantom Menace and The Living Force on StarWars.com (backup link) (Picture only)\n "Launchpad" — Star Wars Insider 225\n Star Wars Day 2024 Games and Experiences Deals! on StarWars.com (content not present on current version) (Picture only)\n Phantom at 25 | These 25 Quotes from Star Wars: The Phantom Menace Are So Wizard on StarWars.com (backup link)\n Phantom at 25 | John Knoll Breaks Down 3 Iconic Visual Effects from Star Wars: The Phantom Menace on StarWars.com (backup link)\n Animating The Phantom Menace with ILM's Rob Coleman on StarWars.com (backup link)\n Ahmed Best | Star Wars: The Phantom Menace 25th Anniversary on the official Star Wars YouTube channel (backup link)\n Star Wars: The Phantom Menace | Remastered Trailer on the official Star Wars YouTube channel (backup link)\n Phantom at 25 | Sound-mixing The Phantom Menace with Gary Rydstrom on StarWars.com (backup link)\n Phantom at 25 | Ahmed Best on the Creation and Legacy of Jar Jar Binks on StarWars.com (backup link)\n Darth Maul Rises in Premium Collectibles Studio's New Star Wars Line on StarWars.com (backup link)\n The Acolyte | Jennifer Bryan - The Stranger | Disney+ on the official Star Wars YouTube channel (backup link)\nStar Wars: The Rise and Fall of the Galactic Empire\n How The Acolyte Challenges How We See Some Members of the Jedi on StarWars.com (backup link)\n SDCC 2024: The Acolyte Publishing Program and Other Reveals from the Lucasfilm Panel on StarWars.com (backup link)\n The Acolyte | The Costumes of The Acolyte | Disney+ on the official Star Wars YouTube channel (backup link)\n 25 Things You Probably Didn't Know About the Making of Star Wars: The Phantom Menace on StarWars.com (backup link)\n "Launchpad" — Star Wars Insider 227\n Phantom at 25 | Skywalker Sound's Matthew Wood Explains Why The Phantom Menace Was His Favorite Movie to Work On on StarWars.com (backup link) (Picture only)\n "Database" — Star Wars - Das offizielle Magazin 115\n 10 Things You Didn't Know About Star Wars Rebels on StarWars.com (backup link) (Picture only)\n Poll: What Star Wars Creatures of the Night Scare You the Most? on StarWars.com (backup link) (Picture only)\n "Launchpad" — Star Wars Insider 228\n "Phantoms of the Space Opera" — Star Wars Insider 228 (Picture only)\n Phantom at 25 | Iain McCaig Talks Darth Maul, Queen Amidala, and working with George Lucas on StarWars.com (backup link)\n NASCAR and Columbia Reveal a New Darth Vader-Inspired Paint Scheme on StarWars.com (backup link)\nStar Wars Bestiary, Vol. 1: Creatures of the Galaxy\nStar Wars: The High Republic: The Lightsaber Collection\nStar Wars Encyclopedia: The Comprehensive Guide to the Star Wars Galaxy\n Welcome to the Worlds of Star Wars: Skeleton Crew: An Interview with Doug Chiang and Oliver Scholl on StarWars.com (backup link)\n Star Wars Year in Review 2024 on StarWars.com (backup link) (Picture only)\nStar Wars: Darth Vader 1 Planets: Naboo\n Star Wars: Skeleton Crew | Behind the Design | Disney+ on the official Star Wars YouTube channel (backup link)\n Star Wars Celebration Japan 2025 Art Show - Reveal on StarWars.com (backup link)\nStar Wars: Complete Locations, New Edition\n Introducing the Cast of Andor Season 2 on StarWars.com (backup link)\n Steal a Look at Star Wars Outlaws: A Pirate's Fortune, Available May 15 on StarWars.com (backup link)\n Watch The New Trailer For Star Wars Outlaws: A Pirate's Fortune, Releasing May 15 on Ubisoft's official website (backup link)\n New Droid "Cooki" Makes His Debut on the Star Wars Celebration Japan LIVE! Stage on StarWars.com (backup link)\n Meet a Few of the Fans at Star Wars Celebration Japan 2025 on StarWars.com (backup link)\n The Secrets of Ghorman, Mina-Rau, and More: Creating the Worlds of Andor Season 2 - Updated on StarWars.com (backup link)\n "Writing History" — Star Wars Insider 231\n Andor Explained: Episodes 10-12 - "Make It Stop", "Who Else Knows?", and "Jedha, Kyber, Erso" on StarWars.com (backup link)\n Secrets from the Set of Andor Season 2: Week 4 Trivia on StarWars.com (backup link)\n Wookiee Basketball, Kid Han Solo, and a Kenobi Dummy: 20 Fun Facts about Star Wars: Revenge of the Sith on StarWars.com (backup link)\n Andor's Stellan Skarsgård and Elizabeth Dulau Break Down Luthen and Kleya on StarWars.com (backup link) (Picture only)\nStar Wars: The Acolyte: The Visual Guide\n Never-Before-Seen Art Celebrates 20 Years of Lucasfilm Animation at San Diego Comic-Con 2025 on StarWars.com (backup link)\n SDCC 2025: Highlights from the Lucasfilm Publishing Panel on StarWars.com (backup link) (Picture only)\n In Star Wars Video Games There's a Galaxy of Connection on StarWars.com (backup link)\n "Star Wars: The High Republic: Phase III Companion" — Star Wars Insider 234\n The Creepiest Star Wars Creatures on StarWars.com (backup link)\nStar Wars: Galactic Atlas: Updated Edition\n Star Wars Holiday Gift Guide 2025 on StarWars.com (content not present on current version)\n AA-9 Coruscant freighter in the Databank (backup link)\n AAT Battle Tank in the Databank (backup link)\n Ahsoka Tano in the Databank (backup link)\n Anakin Skywalker in the Databank (backup link)\n Bail Organa in the Databank (backup link)\n Battle Droid in the Databank (backup link)\n Blue Shadow Virus in the Databank (backup link)\n Boss Nass in the Databank (backup link)\n Cad Bane in the Databank (backup link)\n Captain Typho in the Databank (backup link)\n Colo Claw Fish in the Databank (backup link)\n Darth Maul's Lightsaber in the Databank (backup link)\n Derla Pidys in the Databank (backup link)\n Dormé in the Databank (backup link)\n Emperor Palpatine/Darth Sidious in the Databank (backup link)\n Falumpaset in the Databank (backup link)\n Fambaa in the Databank (backup link)\n Flash Speeder in the Databank (backup link)\n Gungan in the Databank (backup link)\n Gungan Bongo Submarine in the Databank (backup link)\n Gungan High Council in the Databank (backup link)\n H-type Nubian yacht in the Databank (backup link)\n Jar Jar Binks in the Databank (backup link)\n Mina Bonteri in the Databank (backup link)\n Naboo in the Databank (backup link)\n Naboo N-1 Starfighter in the Databank (backup link)\n Naboo Royal Guards in the Databank (backup link)\n Naboo Royal Handmaidens in the Databank (backup link)\n Naboo Royal Starship in the Databank (backup link)\n Obi-Wan Kenobi in the Databank (backup link)\n Obi-Wan Kenobi's Lightsabers in the Databank (backup link)\n Padmé Amidala in the Databank (backup link)\n Princess Leia Organa in the Databank (backup link)\n Proton Torpedo in the Databank (backup link)\n Qui-Gon Jinn in the Databank (backup link)\n R2-D2 in the Databank (backup link)\n Republic Cruiser in the Databank (backup link)\n Sio Bibble in the Databank (backup link)\n Sith in the Databank (backup link)\n The Force in the Databank (backup link) (Picture only)\n Trade Federation in the Databank (backup link)\n Yoda in the Databank (backup link)\nNon-canon sources\nLEGO Star Wars Yoda's Galaxy Atlas\n "The Bounty Hunters" Episode Guide | Star Wars: Visions Volume 3 on StarWars.com (backup link) (Picture only)\nNotes and references\n↑ \nJump up to:\n1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 Ultimate Star Wars\n↑ Star Wars: The Galactic Explorer's Guide\n↑ \nJump up to:\n3.0 3.1 The High Republic: Temptation of the Force\n↑ Star Wars: The Force Awakens Beginner Game\n↑ Star Wars: Datapad\n↑ \nJump up to:\n6.0 6.1 Star Wars: Darth Vader 1 Planets: Naboo\n↑ \nJump up to:\n7.00 7.01 7.02 7.03 7.04 7.05 7.06 7.07 7.08 7.09 7.10 7.11 7.12 7.13 7.14 7.15 Rise of the Separatists\n↑ Star Wars: Fascinating Facts\n↑ \nJump up to:\n9.0 9.1 Thrawn: Alliances\n↑ \nJump up to:\n10.0 10.1 10.2 10.3 Leia, Princess of Alderaan\n↑ \nJump up to:\n11.0 11.1 11.2 11.3 11.4 Star Wars: The Visual Encyclopedia\n↑ \nJump up to:\n12.00 12.01 12.02 12.03 12.04 12.05 12.06 12.07 12.08 12.09 12.10 12.11 12.12 12.13 Star Wars: Complete Locations\n↑ \nJump up to:\n13.00 13.01 13.02 13.03 13.04 13.05 13.06 13.07 13.08 13.09 13.10 13.11 13.12 13.13 13.14 13.15 13.16 13.17 13.18 13.19 13.20 13.21 Star Wars: Episode I The Phantom Menace\n↑ \nJump up to:\n14.0 14.1 14.2 14.3 14.4  Naboo in the Encyclopedia (original site is defunct)\n↑ \nJump up to:\n15.0 15.1 15.2 15.3 15.4  Naboo in the Databank (backup link)\n↑ \nJump up to:\n16.00 16.01 16.02 16.03 16.04 16.05 16.06 16.07 16.08 16.09 16.10 16.11 16.12 16.13 16.14 16.15 Nexus of Power\n↑ \nJump up to:\n17.0 17.1 17.2  "Crisis on Naboo" Trivia Gallery on StarWars.com (backup link) (Images 2–3)\n↑ Star Wars: Card Trader Set: Locations - Naboo, Card: Gungan Sentry Post\n↑ The Rebellion Begins\n↑ "Naboo" — Star Wars Encyclopedia\n↑ \nJump up to:\n21.0 21.1 21.2 21.3 21.4 21.5 21.6 Star Wars: Episode II Attack of the Clones\n↑ \nJump up to:\n22.0 22.1  Otoh Gunga in the Encyclopedia (original site is defunct)\n↑ \nJump up to:\n23.0 23.1  Star Wars: The Clone Wars — "Shadow Warrior"\n↑ \nJump up to:\n24.0 24.1 24.2 24.3 24.4 24.5 Star Wars: The Complete Visual Dictionary, New Edition\n↑ \nJump up to:\n25.0 25.1 The High Republic: Light of the Jedi\n↑ Adventures in Wild Space: The Steal\n↑ \nJump up to:\n27.0 27.1 27.2 27.3 27.4 27.5  Star Wars: The Clone Wars — "Blue Shadow Virus"\n↑ Star Wars: Absolutely Everything You Need to Know\n↑ \nJump up to:\n29.0 29.1  colo claw fish in the Encyclopedia (original site is defunct)\n↑  fambaa in the Encyclopedia (original site is defunct)\n↑ Star Wars: Episode III Revenge of the Sith\n↑ Star Wars Bestiary, Vol. 1: Creatures of the Galaxy\n↑  Gungan Grand Army in the Encyclopedia (original site is defunct)\n↑ Star Wars: Build the Millennium Falcon 85 Guide to the Galaxy: Orto Plutonia and Pantora\n↑  nuna in the Encyclopedia (original site is defunct)\n↑ Star Wars: Absolutely Everything You Need to Know, Updated and Expanded\n↑  Star Wars: Galaxy's Edge — Dok-Ondar's Den of Antiquities\n↑ \nJump up to:\n38.0 38.1  opee sea killer in the Encyclopedia (original site is defunct)\n↑ Star Wars: Alien Archive\n↑ \nJump up to:\n40.0 40.1  sando aqua monster in the Encyclopedia (original site is defunct)\n↑ Adventures in Wild Space: The Nest\n↑  Star Wars Galaxy of Creatures — "Gorgs"\n↑  "Inbrief" — Star Wars Insider 161\n↑  Star Wars: The Clone Wars — "Children of the Force"\n↑ Star Wars: The Galactic Explorer's Guide\n↑ Star Wars: On the Front Lines\n↑  Flash speeder in the Encyclopedia (original site is defunct)\n↑ \nJump up to:\n48.00 48.01 48.02 48.03 48.04 48.05 48.06 48.07 48.08 48.09 Queen's Peril\n↑ Join the Resistance: Attack on Starkiller Base\n↑ \nJump up to:\n50.0 50.1  Gungan weaponry in the Encyclopedia (original site is defunct)\n↑ \nJump up to:\n51.0 51.1  "Blade Squadron" — Star Wars Insider 149–150\n↑ \nJump up to:\n52.0 52.1 52.2 Lost Stars\n↑ Star Wars: The Rise of Skywalker: A Junior Novel\n↑ \nJump up to:\n54.0 54.1 54.2 54.3 54.4 54.5 54.6 Shattered Empire 2\n↑  Sio Bibble in the Encyclopedia (original site is defunct)\n↑ \nJump up to:\n56.0 56.1 Ultimate Factivity Collection: Star Wars\n↑ \nJump up to:\n57.0 57.1 57.2 57.3  Star Wars: The Clone Wars — "Crisis on Naboo"\n↑ Star Wars Propaganda: A History of Persuasive Art in the Galaxy\n↑ \nJump up to:\n59.0 59.1  Boss Nass in the Encyclopedia (original site is defunct)\n↑ \nJump up to:\n60.0 60.1 60.2 Queen's Hope\n↑ In the TV episode "Crisis on Naboo," Supreme Chancellor Sheev Palpatine was kidnapped by Cad Bane "eight-hundred and forty-seven years [after] Naboo joined the Republic." According to Star Wars: Galactic Atlas, the kidnapping took place in 20 BBY.\n↑  Galactic Republic in the Encyclopedia (original site is defunct)\n↑ Star Wars: The High Republic Character Encyclopedia dates the events of The High Republic: Convergence to 382 BBY.\n↑ The High Republic: Convergence\n↑ The High Republic: Midnight Horizon\n↑ The High Republic: The Rising Storm\n↑ \nJump up to:\n67.0 67.1 Star Wars: Timelines\n↑ The High Republic: Temptation of the Force establishes that Naboo became part of the Occlusion Zone following the Stormwall's first expansion but before the events of the novel. The High Republic Adventures (2023) 4 and Temptation of the Force commence one year and two weeks and one year and six weeks after the Starlight Beacon's destruction, respectively, dating both to 228 BBY per the reasoning here. As The High Republic Adventures (2023) 6—which depicts the Stormwall's first expansion—takes place immediately following The High Republic Adventures (2023) 4, Naboo must have been brought into the Occlusion Zone in 228 BBY. As Temptation of the Force establishes that Naboo was conquered after it was brought into the Occlusion Zone, it must have occurred that year.\n↑ \nJump up to:\n69.0 69.1 The High Republic: Temptation of the Force\n↑  "Lost/Found" Episode Guide | The Acolyte on StarWars.com (backup link) states that the events of Star Wars: The Acolyte take place 100 years before the events of Star Wars: Episode I The Phantom Menace, which Star Wars: Timelines dates to 32 BBY. Therefore, The Acolyte takes place in 132 BBY.\n↑  "Launchpad" — Star Wars Insider 231\n↑ Star Wars: The Acolyte: The Visual Guide\n↑  Padmé Amidala in the Encyclopedia (original site is defunct)\n↑ \nJump up to:\n74.0 74.1 74.2 74.3 Queen's Shadow\n↑ Star Wars: Timelines dates the events of Queen's Hope to 22 BBY.\n↑ \nJump up to:\n76.0 76.1 Star Wars: The Clone Wars film\n↑ "Boba Fett and Other Characters of the Underworld" — Star Wars Encyclopedia\n↑  Star Wars: The Clone Wars — "Mystery of a Thousand Moons"\n↑  Star Wars: The Clone Wars — "Gungan Attack"\n↑ \nJump up to:\n80.0 80.1 Star Wars: Episode III Revenge of the Sith\n↑ \nJump up to:\n81.0 81.1 81.2 81.3 Leia, Princess of Alderaan\n↑  Star Wars: Andor — "Make It Stop"\n↑ \nJump up to:\n83.0 83.1 83.2 Shattered Empire 3\n↑ Darth Vader (2020) 4\n↑ \nJump up to:\n85.0 85.1 Star Wars: Episode VI Return of the Jedi\n↑ \nJump up to:\n86.0 86.1 86.2 The Princess and the Scoundrel\n↑ Star Wars: The Rise and Fall of the Galactic Empire\n↑ \nJump up to:\n88.0 88.1 88.2 Star Wars: Battlefront II\n↑ Legacy of Vader 4\n↑ Star Wars: The Force Awakens: The Visual Dictionary\n↑ Star Wars: Episode VII The Force Awakens\n↑ Star Wars: The Rise of Skywalker: The Visual Dictionary dates the events of Star Wars: Episode IX The Rise of Skywalker as taking place one year after the "Starkiller Incident." As Star Wars: Galactic Atlas dates the Starkiller Incident to 34 ABY, it can be deduced the events of Star Wars: Episode IX The Rise of Skywalker take place in 35 ABY.\n↑ Star Wars: The Rise of Skywalker: A Junior Novel\n↑ The High Republic Adventures (2023) 7\n↑ Star Wars: Episode I Insider's Guide\n↑ \nJump up to:\n96.0 96.1  In scouting for locations with Rick McCallum, why did you end up picking Italy for part of planet Naboo? on StarWars.com (original site is defunct)\n↑ The Art of Solo: A Star Wars Story\nExternal links\n Naboo on the Disney Wiki\n Naboo on the Star Wars Battlefront Wiki\n Quiz: Which Droid Are You Taking on Your Next Adventure? on StarWars.com (backup link)\n Quiz: Who Would You Take as an Apprentice? on StarWars.com (backup link)\n Quiz: Which Star Wars: Skeleton Crew Character Would Be Your BFF? on StarWars.com (backup link)\n Quiz: What Star Wars Object Would Make the Perfect Valentine's Day Gift? on StarWars.com (backup link)\nIn other languages\ncatalà\nčeština\ndansk\nDeutsch\nΕλληνικά\nespañol\nfrançais\n한국어\nitaliano\nქართული\nmagyar\n日本語\npolski\nportuguês\nsuomi\nTürkçe\n中文`
+For other uses, see Naboo.
+ 
+
+Content approaching.
+
+Parts of this article are no longer up to date. This article needs updating from multiple sources. Click the dropdown below to see the full list.
+
+ Sources
+
+Please update the article to include missing information, and remove this template when finished.
+
+ 
+
+Naboo
+Astrographical information
+Region
+Mid Rim Territories
+Trailing Sectors
+Occlusion Zone
+Sector
+Chommell sector
+System
+Naboo system
+Grid square
+O-17
+XYZ coordinates
+334.93, -706.96, 7.61
+Distance from Core
+34,000 light-years
+Suns
+1: Naboo
+Orbital position
+3
+Moons
+3
+Ohma-D'un
+Onoam
+Veruna
+Trade routes
+Enarc Run
+Old Trade Federation Route
+Rotation period
+26 standard hours
+Orbital period
+312 standard days
+Physical information
+Class
+Terrestrial
+Diameter
+12,120 kilometers (7,531 miles)
+Atmosphere
+Breathable
+Climate
+Temperate
+Terrain
+Swamps
+Hills
+Plains
+Cities
+Mountains
+Points of interest
+Emperor's Retreat
+Gallo Mountains
+Great Grass Plains
+Gungan Sentry Post
+Hiram Zataire's vineyard
+Kwilaan Spaceport
+Lake Country
+Lake Paonga
+Lianorm Swamp
+Rish Loo's laboratory
+Solleu River
+Funeral Temple
+Theed Royal Academy
+Theed Royal Palace
+Varykino
+Virdugo Plunge
+Flora
+Cambylictus tree
+Locap
+Millaflower
+Naboo lettuce
+Perlote tree
+Fauna
+Blarth
+Colo claw fish
+Falumpaset
+Fambaa
+Gualaar
+Guarlara
+Hrumph
+Ikopi
+Kaadu
+Mott
+Narglatch
+Nuna
+Odupiendo
+Ollopom
+Opee sea killer
+Peko-peko
+Pikobi
+Pelikki
+Sando aqua monster
+Scalefish
+Shaak
+Slug-beetle
+Veermok
+Voorpak
+Societal information
+Native species
+Gungans
+Other species
+Elders
+Humans
+Naboo
+Primary language(s)
+Galactic Basic Standard
+Gunganese
+Government
+Elective monarchy
+Population
+4.5 billion:
+72% Gungan
+27% Human
+1% Other
+Demonym
+Nabooian
+Major cities
+Dee'ja Peak
+Jan-gwa city
+Keren
+Moenia
+Otoh Gunga (Gungan capital)
+Otoh Langua
+Spearhead
+Spinnaker
+Theed (human capital)
+Major imports
+Grain
+Ore
+Processed foods
+Technology
+Silk
+Major exports
+Art
+Cultural items
+Grain
+Gungan stew
+Plasma
+Wine
+Affiliation
+Gungan High Council
+Royal House of Naboo
+Nihil (occupied)
+Galactic Republic
+Trade Federation (briefly)
+Galactic Empire
+New Republic
+First Order
+
+
+"If I grew up here, I don't think I'd ever leave."
+―Anakin Skywalker, about Naboo
+
+Naboo was a bountiful planet in the Chommell sector of the Mid Rim, in the Trailing Sectors and close to the border of the Outer Rim Territories. It was home to the indigenous Gungan species and to a population of humans known as the Naboo. Naboo was pushed to the forefront of galactic politics as the birthplace of the Dark Lord of the Sith Sheev Palpatine, who served as its representative in the Senate of the Galactic Republic.
+
+Under the guise of his Sith title Darth Sidious, Palpatine secretly engineered an invasion of his peaceful homeworld by the Trade Federation, a megacorporation in a bid for power. Ostensibly done in protest over proposed taxation of formerly free trade routes, the Federation's invasion led to an outpouring of support from the Senate for both Palpatine and the newly-elected Queen of Naboo, Padmé Amidala. Amidala led a successful resistance movement and removed the Federation from her world during the Battle of Naboo. Palpatine subsequently rose to the office of the Supreme Chancellor of the Republic, with Amidala eventually taking his place as the planet's senatorial representative.
+
+Naboo would commit itself firmly to democracy in the intervening years, staying loyal to the Republic during the pan-galactic Clone Wars, which saw several military engagements against the Confederacy of Independent Systems come to the planet. By the time of the war's end, Palpatine had amassed considerable power and proclaimed himself the head of a new Galactic Empire. Palpatine's reign would eventually be ended by the Alliance to Restore the Republic, a rebel movement led by Amidala's children, Leia Organa and Luke Skywalker.
+
+Despite his origins on the planet, Palpatine did not care at all for his homeworld and, following his death, Naboo was named a priority target for Operation: Cinder, a protocol that the Sith Lord had put in place to destroy Imperial worlds should they fail to protect their Emperor. Through the intervention of Organa and Queen Sosha Soruna, however, Naboo was spared from ruin and went on to become a member of the successor state to the Alliance, the New Republic. Decades later, the planet would again fight against tyranny, rising up against the military junta of the First Order during its war with Organa's Resistance.
+
+Description
+"It's beautiful."
+"Yes, it absolutely is."
+―Shara Bey and Leia Organa, about Naboo
+
+The picturesque planet of Naboo was located in the galaxy's Mid Rim region.
+
+Naboo was a small pastoral world in the Mid Rim, located near the border of the Outer Rim Territories, 34,000 light-years from the Core Worlds. Unlike most other worlds, the ancient planet lacked a molten core, and instead comprised a conglomerate of large, rocky bodies that made up a network of tunnels and flooded caves. The native Gungans, who built their homes in the waters of Naboo, so deep that they went right through the planet, which they rarely ventured into the core, fearing the ravenous sea beasts which resided in areas such as the Caves of Eleuabad. Despite this, certain Gungan navigators utilized time-honored trade routes through the planet's structure, which served as the most expedient avenues to reach other areas of the planet. Naboo's interior was rich with plasma, a naturally-occurring energy unique to the planet, and this coupled with its lack of molten core gave Naboo a reputation as an enigma to astrophysicists, who regarded the world's structure as an extremely rare phenomenon in the galaxy.
+
+With its grassy plains and waterfalls, Naboo was known as an idyllic world.
+
+Naboo's surface comprised a vast array of different landscapes, from rolling plains and grassy hills to swampy lakes caused by the water-filled network of deep-sea tunnels. The swamps acted as a gateway to the world's seas, where legendary creatures dwelt. Beside its natural features, Naboo was considered a world of classical beauty due to the aesthetics of its population centers. The porous crust's natural plasma was harvested for energy and building material, and was generally thought to be the key to many of the planet's secrets.
+
+While most of Naboo's land animals were peaceful, as exemplified by the gentle shaak, the planet's oceans, which held an abundance of life, teemed with menacing creatures, such as the opee sea killer, the sando aqua monster, and the colo claw fish.
+
+History
+Early history
+Pre-human colonization
+
+Gungans were the original inhabitants of Naboo prior to the arrival of offworlders.
+
+Originally, Naboo was home to the amphibian Gungans. The earliest offworlders to arrive were a Reptilian species known as the Elders who warred against the Gungans. Eventually, the Elders vanished as mysteriously as they arrived, leaving only stone statues behind.
+
+Arrival of humanity
+"Take a moment and look around this glorious city of yours. It wasn't long ago this was all plasma mines. Naboo has indeed come a long way. But as we chart a bold course for the future, let us never forget our past."
+―Sheev Palpatine
+
+The Naboo were the descendants of human colonists who migrated from Grizmallt.
+
+Approximately around 4000 BBY, Grizmallti people had discovered the planet, which they had named Nabu, after one of their principal deities. Naboo quickly became notorious as a vacation spot and as a private hunting preserve amongst big-game hunters across the Mid Rim, although it would be around a century before permanent human settlement. Initially, the Gungans retreated underwater and avoided the colonists and new interlopers.
+
+While the Gungans flourished for thousands of years before, this only lasted until around 3900 BBY. Fleeing a brutal civil war, a group of humans from the planet Grizmallt crash-landed on Naboo and set up a small colony. As they established their own society, they initially kept separate from the Gungans. Led by Kwilaan, the colonists ventured into the Gallo Mountains, created a farming community at the Dee'ja Peak, establishing their presence on the planet and eventually taking its name for themselves. The Naboo calendar based its epoch around the arrival of Kwilaan. When the colonists made contact with the Gungans, tensions arose between the two peoples, culminating a series of wars between the two species. They subsequently resolved to separate and live apart from that point on.
+
+The Naboo colonists later expanded to other uninhabited planets in the Chommell sector, such as Karlinus. Naboo imposed a contract on the colonists of these other planets, wherein Naboo would give the new colonies a loan to cover the start-up costs of colonization. In exchange, the colonies became legally obligated to provide Naboo with any supplies it deemed were necessary if called upon in times of emergency. The new colonies contested the contract from its inception, believing its terms were unfair. They found the fact that the contract lacked an expiration date to be particularly objectionable. Under the contract, Naboo took advantage of every other planet in the Chommell sector from time to time.
+
+Gungan tribal war
+"Gungans no dyin' witout a fight. Wesa warriors."
+―Jar Jar Binks
+
+The Gungans built their underwater capital of Otoh Gunga following a tribal war.
+
+Following the wars with humans, the Gungan tribes engaged in war with each other. The war came to an end due to the actions of Boss Gallo, a Gungan who united the tribes under one banner through diplomatic and military means. Gallo eventually attacked the city Spearhead, which was the home of the rogue warlord Boss Rogoe and the other Gungan holdouts, with a massive Gungan army. Gallo then founded the Gungan capital Otoh Gunga on Spearhead's foundations.
+
+Times of Suffering and Peace
+Struggles give way to peace
+"It is an honor to be here for this momentous occasion. The pride I feel for this planet cannot be put into words. 847 years ago, Naboo joined the Republic. And tonight. we celebrate that union."
+―Sheev Palpatine
+
+The Naboo had achieved a state of peace and prosperity at the end of a prolonged period of brutal conflict.
+
+Meanwhile, the Naboo had fallen prey to a long period of brutal infighting among the large city-states of humans that inhabited the planet. Eventually, a general named Jafan managed to end the war, uniting the opposing factions through both force of arms and force of will. He became King Jafan, ruler of all the Naboo, and ushered in the Great Time of Peace.
+
+In 867 BBY, Naboo joined the Galactic Republic, the democratic union that sought to govern the galaxy. The people of Naboo celebrated this event during the Festival of Light. In 832 BBY, under the direction of King Jafan, the capital city of Theed was founded along the banks of the Solleu River with the Theed Royal Palace built on the Cliffs of Theed.
+
+High Republic Era
+
+In 382 BBY during the High Republic Era, Naboo was under the rule of a queen, from whom Axel Greylark, a gambler and son of Supreme Chancellor Kyong Greylark, wanted to buy a yacht. At the same time, fellow Supreme Chancellor Orlen Mollo traveled across the Galactic Frontier aboard the Paxion, which displayed different vistas from various currently-distant worlds on a wall of its library. During a mission to end the Eiram and E'ronoh War, it displayed the Theed Royal Palace and other sites. The Naboo Palace and the city of Coruscant were the only locations Jedi Knight Gella Nattai recognized. Asked to attend along with delegates from numerous other worlds by Chancellors Mollo and Greylark, delegates from Naboo, wearing their cultural clothing, arrived on Eiram for the wedding of Phan-tu Zenn and Xiri A'lbaran that promised to end the war. At least two Gungans attended the celebration.
+
+Later in the High Republic Era, the former Jedi Padawan Kantam Sy found the Force-sensitive Lula Talisola amongst the children cared for at an orphanage on Naboo. Returning to the Jedi Order, Sy became a Jedi Knight and Talisola's master. A Jedi temple on Naboo, the Gallo Temple, was also established at some point and regarded as a much-prized posting for Jedi Knights. It was the first posting of Elzar Mann after being knighted. By 232 BBY, the scion of the wealthy San Tekka clan, Vellis, was based on Naboo, alongside his husband, Marlowe, living in a large estate by the lakes.
+
+Reign of the Nihil
+ Main articles: Occupation of Naboo and Second occupation of Naboo
+
+In 228 BBY, with the creation of the Stormwall by the Nihil and its subsequent expansions, Naboo was eventually included in the Occlusion Zone. The Nihil General Abediah Viess led an invasion of Naboo, establishing the planet as a military base and putting it under Nihil occupation. Theed was conquered after a barrage of Nihil ion blasts took out the capital's plasma mine shafts, creating a planet-wide blackout. Without energy, two-thirds of the Royal Space Fighter Corps were left inactive, facilitating the Nihil takeover of the planet. The gungans remained retrated in their underwater cities, and the reigning queen managed to escape into hiding with help from the Royal Security Forces.
+
+Under the supervision of Viess, the Nihil occupation of the planet enacted a widespread forced disarmament, and subsequently took a considerable amount of resources from the richer inhabitants of Naboo as "tribute". Although the quick Nihil victory meant that the occupation on Naboo was less ruthless on the general population than the ones on other planets inside the Occlusion Zone, the initial raid led to some amount of casualties. A joint Jedi-Republic Defense Coalition assault on Naboo was later able to liberate the world.
+
+Late High Republic Era
+
+By 132 BBY and as the light of the High Republic had begun to fade, Naboo and the rest of the Chommel sector were represented in the Galactic Senate of the Republic by Senator Sahen Idane, a longtime ally of the Jedi Order and also someone who enjoyed close ties with Naboo royalty. Queen Yovité, who by that time had been elected Queen, had gifted a belt sash to Yovité by that year. Yovité also donned fabric sourced from a refinery in Theed.
+
+Twilight of the Republic
+Invasion of Naboo
+"I was not elected to watch my people suffer and die while you discuss this invasion in a committee."
+―Queen Amidala, to the Galactic Senate —   (file info)
+
+The fourteen year old Padmé Amidala was elected to be the new Monarch of Naboo after Queen Sanandrassa decided to only have a single term. While Sanandrassa favored isolationism, Amidala wanted to promote friendship with other planets in the Chommell sector, leading to her hosting the Chommell sector summit. Additionally, after being urged to by Captain Quarsh Panaka, Amidala took on a group of Handmaidens, whom she quickly befriended, planning her days with them instead of Panaka.
+
+The capital of Theed fell to the forces of the Trade Federation during the Invasion of Naboo.
+
+Right as the Naboo summit ended, about ten years before the Clone Wars, Naboo was blockaded and invaded by the Trade Federation. Amidala guided her home planet through the invasion and sealed a new friendship with the Gungans. In an upsurge of sympathy and solidarity toward the invaded planet, the queen's emissary in the Galactic Senate, the seemingly unassuming Senator Sheev Palpatine, was made Supreme Chancellor of the Republic.
+
+Naboo recovered quickly from the invasion under Amidala's remaining years, managing to almost completely restore its harvests and crop yields by the end of her final term. One of Amidala's final projects, which continued under the reign of her successor, was the implementation of an ion pulse in Theed in case of future invasions. The decision to install the pulse, whilst meeting with general approval, was nevertheless controversial as some, such as Quarsh Panaka, favored the idea of more robust and extensive defenses whilst others felt that installing any weapon system was against everything Naboo stood for in terms of peace.
+
+Clone Wars
+"I need you to convince the Senate, or the Jedi Council, or whoever is in charge of this terrible war that we are threatened."
+―Neeyutnee, to Padmé Amidala
+
+The government of Naboo remained loyal to the Galactic Republic during the Separatist Crisis and the Clone Wars.
+
+A series of miners strikes occurred on the moons of Naboo. A mudslide disaster occurred on Naboo's secondary continent in 22 BBY. Both the Naboo and the Gungans remained loyal to the Republic during the Clone Wars, though many on Naboo were in despair at the idea of a galaxy-wide war. Senator Padmé Amidala and Representative Jar Jar Binks worked together to represent the interests of the Naboo and Gungans respectively in the Galactic Senate. During the Clone Wars, Neeyutnee served as Queen of Naboo. Early in the war, Amidala and Skywalker returned to the planet for their wedding and spent several days on world for a honeymoon.
+
+When a number of new battles, including the Battle of Teth, rocked the Outer Rim Territories a few months into the war, Naboo was put under the protection of several new security measures at the order of Palpatine himself. Amidala wanted to discuss those measures with the Chancellor before learning of the Battle of Teth, which had endangered Skywalker's life and changed her priorities to focusing on the Hutt–Republic treaty. Amidala and Binks, with the help of the Jedi Order and the Gungan Peppi Bow, discovered the Separatist scientist Nuvo Vindi's secret laboratory in the Eastern swamps. They managed to prevent Vindi from releasing stockpiles of the Blue Shadow Virus into Naboo's surface. During the Battle of Mon Cala, elements of the Gungan Grand Army led by Representative Binks were dispatched to the watery planet of Mon Cala to aid Senator Amidala, the Jedi, the Clone SCUBA troopers, and the Mon Calamari Prince Lee-Char's forces against the Separatist commander Riff Tamson and his Quarren allies.
+
+By working together the Naboo and the Gungans prevented a Separatist attack on their shared homeworld.
+
+Later, the Gungan Boss Lyonie came under the influence of the pro-Separatist minister Rish Loo. Under Loo's control, Lyonie ordered the Gungan Grand Army to march on the Naboo capital of Theed. Their plan was to rendezvous with a Separatist droid army led by General Grievous, who had been sent by Count Dooku himself. Rish Loo and Dooku's plot was foiled by the combined efforts of Senator Amidala, Representative Binks, the Jedi Knight Anakin Skywalker, and General Roos Tarpals. However, the Naboo and Gungans were forced to release Grievous after Dooku took Skywalker hostage.
+
+During the Festival of Light, Dooku sent Cad Bane and his team of bounty hunters to kidnap Palpatine in order to free Separatist prisoners from Republic captivity. At first, Bane and Moralo Eval were successful in capturing Palpatine. However, they were stopped by one of their fellow bounty hunters, Rako Hardeen, who was really Obi-Wan Kenobi in disguise. But, Bane planned a diversion in order to lure the Republic forces away while Dooku carried out the kidnapping. This failed, however, when he fought Kenobi and Skywalker.
+
+The dark times
+"Palpatine's stain is heavy on our people, and we carry that shame still."
+―Sosha Soruna
+
+Naboo was in a state of mourning for Padmé Amidala, who died following the rise of the Galactic Empire.
+
+Following the rise of the Galactic Empire and Palpatine's self-proclamation as Emperor, Naboo hosted one of the new regime's military garrisons. Shortly after the end of the Clone Wars, thousands of citizens gathered in the streets of Theed in order to assist to Amidala's funeral procession. At that time, Sio Bibble had finally decided to retire from governorship over Naboo, setting the stage for an election that Saché was seemingly going to win. However, Naboo's internal politics were also interfered with by the new regime; while the people were still permitted to elect their monarchs, those who gained the office had little real power or influence. The position of governor was also abolished. Instead, all major decisions regarding Naboo were placed firmly in the hands of the sector's Moff, a position held by Palpatine's close ally and former Security Forces officer Quarsh Panaka, who was appointed before the election for governor could even happen.
+
+Some time around 18 BBY, Luthen Rael and his adoptive daughter Kleya Marki bombed Imperial vehicles on a Nabooian bridge as an early act of their rebellion.
+
+Darth Vader on Naboo in 3 ABY
+
+Though one of the less corrupt Imperial officials, Panaka was assassinated by Saw Gerrera's Partisans insurgency in 3 BBY. Due to its status as Palpatine's homeworld, Naboo prospered during the Age of the Empire. Its economy and environment were regarded to be far healthier than most worlds which had been subject to Imperial rule. Nevertheless, the people of Naboo resented the fact that it was their world that brought forth a man like Palpatine. The Empire also demilitarized Naboo and dissolved the Royal Naboo Security Forces's starfighter wing. As a result, Naboo lacked any combat-trained pilots by the time of the Battle of Endor.
+
+Sabé, former handmaiden of Padme Amidala, brought Darth Vader to Naboo in 3 ABY. Typho and his rebel team fought him. The rebels went as far as baiting a Sando aqua monster into fighting the Dark Lord of the Sith. Ric Olié and his rebel cell, the Amidalans, attempted to protect Padmé's tomb from Vader, but were killed in the process. The handmaidens gathered for a final stand. They were unable to prevent Darth Vader from breaching the tomb.
+
+A new era
+Rise of the New Republic
+"…Very simply this, that Naboo represents the best of the Old Republic. Its assistance—your assistance, Your Highness—would be invaluable in leading the way to a restoration of the Senate. As we attempt to form a new government, we hope we may rely on Naboo's support, counsel, and aid."
+―Leia Organa, to Sosha Soruna
+
+The death of Galactic Emperor Sheev Palpatine was celebrated on his homeworld of Naboo by humans and Gungans alike.
+
+When news of Emperor Palpatine's death during the Battle of Endor—which resulted in the apparent defeat of the Empire by the Alliance to Restore the Republic—spread across the galaxy after the battle, an outpouring of joy occurred on Naboo, the inhabitants of which considered themselves free at last. While it quickly became apparent that the war was not over as the Empire survived, even without its Emperor, Naboo was liberated from Imperial control. Nonetheless, all equipment stored within Palpatine's small countryside retreat was stripped bare by the time it was explored by the New Republic, preventing the government from discovering whatever secrets Palpatine had kept within.
+
+Some twenty days after the Battle of Endor, the Royal House of Naboo received a visit by Princess Leia Organa of Alderaan, who had been sent by Mon Mothma, Chancellor of the Alliance, which was in the process of reorganizing into the New Republic. In the royal palace's throne room, Organa met the then-Queen of Naboo, Sosha Soruna, and asked for Naboo's support in the establishment of the New Republic and the restoration of the Senate. The queen heartily accepted Organa's offer, claiming that the Naboo felt great shame over Palpatine's actions.
+
+Operation: Cinder
+"Jamming at full power, Captain. Climate disruption array now at twenty percent. We count three class-five hurricanes already, another dozen forming."
+"I want one hundred percent within eight hours, Lieutenant Gulin. By order of the Emperor…Naboo is to be scoured…"
+―Gulin and Lerr Duvat
+
+Aided by the Rebel Alliance, the Naboo fought to save their world from the Empire during Operation: Cinder.
+
+During the meeting, gigantic storms suddenly began to rage, and Naboo's orbital sensors were all jammed. The Empire had set up a climate disruption array in orbit, as ordered by the late Emperor Palpatine. Named Operation: Cinder, the Empire's plan was to disrupt Naboo's environment and climate, and thus render the planet inhospitable. The storms caused fires and flooding across the world, and many buildings were demolished. Soruna, Organa, and Alliance pilot Shara Bey finally decided to use three old N-1 starfighters—that had been stored by Queen Neeyutnee in the Theed Hangar during the Clone Wars—and go protect Naboo by destroying the Empire's satellites. Once in space, the three women were attacked by a squadron of TIE fighters, but managed, nonetheless, to knock out all of the satellites. A Rebel fleet led by Lando Calrissian and Nien Nunb soon arrived to take care of the Imperial forces. The fleet consisted of members of Danger Squadron, which arrived in T-65B X-wing starfighters led by Danger Leader Duros Shriv Suurgav, Nunb in the Mellcrawler II, and the MC80 Star Cruiser Restoration.
+
+With their weapons and vehicles disabled by Theed's ion defense, the Imperials were forced to surrender to the Naboo and their Rebel allies.
+
+Danger Squadron temporarily included former Inferno Squad members and recent Imperial defectors Iden Versio and Del Meeko to assist the three women in the destruction of the satellites. After their destruction, the Imperial II-class Star Destroyer Torment was then engaged by Danger Squadron and several Y-wing bombers, and the Restoration delivered the fatal blow to the hull of the Torment. The Alliance forces then gathered upon the ground to immobilize remaining Imperials in the final ground assault to try and take control of Theed. Imperial forces were immobilized by the ion pulse courtesy of Leia, Del, Shriv and Iden taking the fight from the marketplace, courtyard and all the way to the palace and once they are inside the pulse activates and rendering all of their weapons and vehicles inoperable leading to the surrender of Imperial forces. And Shriv commented that they just won and after all that happened Iden and Del are formally welcomed by Leia into the New Republic.
+
+Due to the fact that Naboo had been the Emperor's homeworld, the planet became a rallying point for Imperial sympathizers. Months after the failed Operation: Cinder, the Imperial Navy deployed three attack forces to wipe out the New Republic's presence in the Naboo system. However, these attempts were successfully foiled by Corona Squadron.
+
+Rise of the First Order
+"People of Naboo. This is the Supreme Leader of the First Order. I have commandeered your communications network. I am unimpressed with you. Your focus on events that happened decades ago, your obsession with lineage and superstition…have caused your society to fester. Because you cannot let go…you hold yourself back. Now that will change. All that was will be swept away. Naboo will embrace the future. You have been ruled by queens. You have been ruled by an emperor. Now…I am your king."
+―Kylo Ren
+
+During the Cold War nearly thirty years later between the First Order and the Resistance, Senator Thadlé Berenko represented Naboo in the reconstituted New Republic Senate, and was killed when the First Order destroyed Hosnian Prime, the home of the Senate at the time.
+
+By 35 ABY, Naboo's skies were being patrolled by Star Destroyers from the First Order as part of its expansive efforts to establish galactic dominance. At some point later, Naboo engaged in open rebellion against the First Order, simultaneous with other planets such as Bespin and Coruscant leading to the successful overthrow of the entire regime.
+
+Society and culture
+"You and the Naboo form a symbiont circle. What happens to one of you will affect the other. You must understand this."
+―Obi-Wan Kenobi, to Rugor Nass
+
+The commitment to the defense of Naboo brought its human and Gungan inhabitants together when threatened by an external enemy.
+
+Naboo was inhabited by two societies: an indigenous species of intelligent amphibians called the Gungans and a group of peaceful humans who were referred to as the Naboo. In the distant past, a cultural misunderstanding resulted in a serious quarrel between the Gungan and the human colonists. Both sides refused to acknowledge their responsibilities in the rift, and the two groups ostracized each other for the longest time. That situation lasted until the Invasion of Naboo by the Trade Federation forced the humans and Gungans to join forces.
+
+Naboo culture fostered the artist in every citizen, encouraging children to become musicians, performers, painters, and similar professions. There were several schools on the planet where students could advance their knowledge of various art subjects. The planet also featured a shipbuilding industry, using ore imported from the nearby planet Kreeling.
+
+Both the Naboo and Gungans had a close relationship with water. Fish was an important food to the people of Naboo. Naboo had engagement rituals during the High Republic Era intended to be performed between the betrothed individuals.
+
+Behind the scenes
+
+Naboo first appeared in the 1999 film Star Wars: Episode I The Phantom Menace, the first installment of the Star Wars prequel trilogy. It was later featured in 2002's Star Wars: Episode II Attack of the Clones and 2005's Star Wars: Episode III Revenge of the Sith.
+
+In the revised rough draft of the script for The Phantom Menace, Naboo was called Utapau.
+
+After many months of general research into where to shoot, the real-world shooting locations for Naboo were Villa del Balbianello and Royal Palace of Caserta in Italy and Plaza de España in Seville, Spain, among others. The buildings of Naboo were based on the Hagia Sophia, a cathedral turned mosque then turned museum located in Istanbul, Turkey. On the other hand, the architecture of Naboo was inspired by the domed and scalloped roofs of the Marin County Civic Center. The crew hoped to depict Naboo with classical architecture, thereby establishing the planet's scale and giving the idea of a sophisticated society.
+
+The exact number of moons in Naboo is currently unknown. In Attack of the Clones, Mace Windu mentions "spice miners on the moons of Naboo." However, the 2016 reference book Star Wars: Complete Locations states that Naboo has only one moon. The 2018 novel Thrawn: Alliances confirms that Naboo has three moons. There is also a discrepancy over the names of the three moons: Nexus of Power states that the moons where Ohma-D'un, Rori, and a small third moon that has no in-universe name, while Rise of the Separatists, a sourcebook from Star Wars Roleplaying, states that the three moons of Naboo are Rori, Veruna, and Ohma-D'un. However, the novel Leia, Princess of Alderaan prominently includes the moon Onoam. Rori and Onoam have similar descriptions, but as yet there has been no clarification for the discrepancy.
+
+Appearances
+Star Wars: Galactic Defense (Mentioned only)
+"The Sleep of Ages" — Dark Legends (Mentioned only) (In flashback(s))
+The High Republic: Convergence (and audiobook) (Mentioned only)
+The High Republic: Cataclysm (and audiobook) (Mentioned only)
+The High Republic: Into the Dark (and audiobook) (Mentioned only)
+The High Republic: Light of the Jedi (and audiobook)
+ Star Wars: Young Jedi Adventures — "Journey to the Bottom of Naboo"
+The High Republic: The Rising Storm (and audiobook) (Mentioned only)
+The High Republic: Out of the Shadows (and audiobook) (Mentioned only)
+The High Republic: Mission to Disaster (and audiobook) (Mentioned only)
+The High Republic: Midnight Horizon (and audiobook) (In flashback(s))
+The High Republic Adventures (2021) 13 (In flashback(s))
+The High Republic Adventures (2023) 6 (In flashback(s))
+The High Republic: Defy the Storm (and audiobook) (Mentioned only)
+The High Republic Adventures (2023) 7 (Mentioned only)
+The High Republic Adventures (2023) 10 (Mentioned only)
+ "Tales from the Occlusion Zone: Survivors" — Star Wars Insider 224 (Mentioned only)
+The High Republic: Temptation of the Force (and audiobook)
+The High Republic: The Edge of Balance: Premonition (In flashback(s))
+The High Republic: Tempest Breaker (Mentioned only) (In flashback(s))
+The High Republic: Tempest Breaker script (Mentioned only) (In flashback(s))
+The High Republic Adventures – Dispatches from the Occlusion Zone 4 (Appears in hologram)
+The High Republic: Trials of the Jedi (and audiobook) (Mentioned only)
+The High Republic – Fear of the Jedi 1
+The High Republic – Fear of the Jedi 2
+The High Republic – Fear of the Jedi 3 (Mentioned only)
+The High Republic – Fear of the Jedi 4 (Mentioned only)
+The High Republic – Fear of the Jedi 5 (Mentioned only)
+The High Republic: A Valiant Vow (and audiobook) (Mentioned only)
+The Acolyte: Wayseeker (and audiobook) (Mentioned only)
+Master & Apprentice (and audiobook)
+Jedi Knights 5 (Mentioned only)
+Darth Maul – Black, White & Red 3 (Mentioned only)
+The Living Force (and audiobook) (Mentioned only)
+Jango Fett 1 (Mentioned only)
+Queen's Peril (and audiobook)
+The Phantom Menace 25th Anniversary Special 1
+Star Wars: Episode I The Phantom Menace (First appearance)
+The Phantom Menace Read-Along Storybook and CD
+Star Wars Journeys: The Phantom Menace
+Star Wars Journeys: Beginnings
+Star Wars Battlefront II
+ Star Wars: Tales of the Jedi — "The Sith Lord" (Mentioned only)
+Mace Windu: The Glass Abyss (and audiobook) (In flashback(s))
+ "Raiders of the Lost Gundark" — Star Wars Adventures (2017) 18
+ Star Wars Forces of Destiny — "Monster Misunderstanding"
+Age of Republic - Obi-Wan Kenobi 1 (In flashback(s))
+Obi-Wan and Anakin 1 (Mentioned only)
+Obi-Wan and Anakin 4 (Indirect mention only) (In flashback(s))
+Tales From the Nightlands 1 (In flashback(s))
+Queen's Shadow (and audiobook)
+Age of Republic - Count Dooku 1 (Appears through imagination)
+Star Wars: Episode II Attack of the Clones
+Inquisitor: Rise of the Red Blade (and audiobook) (Mentioned only)
+Queen's Hope (and audiobook)
+Brotherhood (and audiobook) (In flashback(s))
+"The Eye of the Beholder" — Stories of Jedi and Sith (and audiobook) (Mentioned only)
+ "The Failing of the Light" — Star Wars Insider 233 (Mentioned only)
+Hyperspace Stories 5
+Star Wars: The Clone Wars film (Mentioned only)
+ Star Wars: The Clone Wars — "Supply Lines" (Mentioned only)
+ Star Wars: The Clone Wars — "Shadow of Malevolence" (Mentioned only)
+ Star Wars: The Clone Wars — "Destroy Malevolence" (Mentioned only)
+ Star Wars: The Clone Wars — "Bombad Jedi" (Mentioned only)
+ Star Wars: The Clone Wars — "Blue Shadow Virus"
+ Star Wars: The Clone Wars — "Mystery of a Thousand Moons"
+ Star Wars: The Clone Wars — "Children of the Force"
+ Star Wars: The Clone Wars — "Senate Spy" (Mentioned only)
+ Star Wars: The Clone Wars — "Duchess of Mandalore" (Mentioned only)
+Catalyst: A Rogue One Novel (and audiobook) (Mentioned only)
+ Star Wars: The Clone Wars — "Lethal Trackdown" (Poster only)
+ Star Wars: The Clone Wars — "Assassin" (Mentioned only)
+ Star Wars: The Clone Wars — "Sphere of Influence" (Mentioned only)
+ Star Wars: The Clone Wars — "Hostage Crisis" (Mentioned only)
+"Hostage Crisis" — The Clone Wars: Stories of Light and Dark (and audiobook) (Mentioned only)
+ "Intermission, Part 1" — Star Wars Adventures (2017) 12 (Picture only)
+Forces of Destiny—Ahsoka & Padmé (Mentioned only)
+ "The Incident, Part 1" — Star Wars Adventures (2020) 5
+ "The Incident, Part 2" — Star Wars Adventures (2020) 6
+ Star Wars: The Clone Wars — "Heroes on Both Sides" (Mentioned only)
+ Star Wars: The Clone Wars — "Pursuit of Peace" (Picture only)
+ Star Wars: The Clone Wars — "Senate Murders" (Picture only)
+ Star Wars: The Clone Wars — "Monster" (Mentioned only)
+ Star Wars: The Clone Wars — "Gungan Attack"
+ Star Wars: The Clone Wars — "Shadow Warrior"
+ Star Wars: The Clone Wars — "Deception" (Mentioned only)
+ Star Wars: The Clone Wars — "Crisis on Naboo"
+"Bane's Story" — The Clone Wars: Stories of Light and Dark (and audiobook) (Mentioned only)
+ Star Wars: The Clone Wars — "Revenge" (Mentioned only)
+"Dark Vengeance" — The Clone Wars: Stories of Light and Dark (and audiobook) (Mentioned only)
+ Star Wars: The Clone Wars — "Destiny" (Mentioned only)
+Dark Disciple (and audiobook) (Mentioned only)
+Age of Republic - Padmé Amidala 1 (In flashback(s))
+Star Wars: Episode III Revenge of the Sith
+ Star Wars: Tales of the Jedi — "Resolve"
+Reign of the Empire: The Mask of Fear (and audiobook) (Mentioned only)
+Sanctuary: A Bad Batch Novel (Model only)
+Ahsoka (and audiobook) (Mentioned only)
+Adventures in Wild Space: The Nest (and audiobook) (Mentioned only)
+Adventures in Wild Space: The Steal (and audiobook) (Mentioned only)
+ "So Much More" — Star Wars Adventures Annual 2019 (Appears through imagination)
+Lords of the Sith (and audiobook) (Mentioned only)
+Tarkin (and audiobook) (Mentioned only)
+Darth Vader (2017) 20 (Mentioned only)
+Rebel Rising (and audiobook) (Mentioned only)
+Darth Vader (2017) 25 (Vision to Darth Vader)
+A New Dawn (and audiobook) (Mentioned only)
+ Star Wars: Obi-Wan Kenobi — "Part I" (In flashback(s))
+Obi-Wan Kenobi 1 (In flashback(s))
+Lost Stars (and audiobook)
+Lost Stars webcomic
+The Rebellion Begins (Mentioned only)
+ Star Wars: Andor — "Harvest" (Mentioned only)
+Leia, Princess of Alderaan (and audiobook)
+Leia Organa: Ordeal of the Princess
+Thrawn: Alliances (and audiobook) (Mentioned only)
+ "Inbrief" — Star Wars Insider 161 (reprinted in Star Wars 2016 Del Rey Sampler; Battlefront: Twilight Company; Special Edition 2019; and Star Wars Insider: The Fiction Collection Volume 2) (Indirect mention only)
+Obi-Wan 4 (In flashback(s))
+ Star Wars: Andor — "Make It Stop" (In flashback(s))
+Rogue One: A Star Wars Story novelization (and audiobook) (Mentioned only)
+The Odyssey of Star Wars: An Epic Poem (Mentioned only)
+"Stories in the Sand" — From a Certain Point of View (and audiobook) (Appears in hologram)
+ Star Wars Galaxy of Adventures — "Obi-Wan Kenobi" (In flashback(s))
+"You Owe Me a Ride" — From a Certain Point of View (and audiobook) (Mentioned only)
+Princess Leia 1 (Mentioned only)
+Princess Leia 2
+Princess Leia 3 (Mentioned only)
+Doctor Aphra: An Audiobook Original
+Darth Vader (2015) 6 (In flashback(s))
+Darth Vader (2015) 8 (Mentioned only)
+Darth Vader (2015) 9 (Mentioned only)
+Darth Vader (2015) 10
+Darth Vader (2015) 20 (Mentioned only)
+ "The Trouble at Tibrin" — Star Wars Adventures (2017) 4 (Mentioned only)
+ "Mind Your Manners" — Star Wars Adventures Annual 2018 (Mentioned only)
+Battlefront: Twilight Company (and audiobook) (Mentioned only)
+"Luke on the Bright Side" — Stories of Jedi and Sith (and audiobook) (Mentioned only)
+Darth Vader (2020) 2
+Darth Vader (2020) 3
+Darth Vader (2020) 4
+Darth Vader (2020) 5
+Doctor Aphra (2020) 8 (Mentioned only)
+War of the Bounty Hunters – Jabba the Hutt 1 (Mentioned only)
+Crimson Reign 3 (Appears on screen) (In flashback(s))
+Darth Vader (2020) 19 (In flashback(s))
+Darth Vader (2020) 21
+Darth Vader (2020) 22
+Darth Vader (2020) 23 (In flashback(s))
+Darth Vader (2020) 26 (In flashback(s))
+Darth Vader (2020) 28
+Star Wars Outlaws (Mentioned only) ("Naboo Nobility Bundle" only)
+Sana Starros 2 (Mentioned only)
+Darth Vader (2020) 29 (Mentioned only; in the opening crawl)
+Darth Vader (2020) 30 (In flashback(s))
+Darth Vader (2020) 31 (Mentioned only)
+Darth Vader (2020) 34 (Vision to Sabé)
+Darth Vader (2020) 46 (Mentioned only)
+Darth Vader (2020) 50 (Mentioned only)
+Star Wars: Episode VI Return of the Jedi (Post-2004 releases)
+Star Wars: Return of the Jedi junior novelization (Mentioned only)
+Return of the Jedi: Beware the Power of the Dark Side! (and audiobook) (Mentioned only)
+"Satisfaction" — From a Certain Point of View: Return of the Jedi (and audiobook) (Mentioned only)
+"Masters" — Stories of Jedi and Sith (and audiobook) (Indirect mention only)
+ "Blade Squadron" — Star Wars Insider 149–150 (reprinted in Star Wars Insider: The Fiction Collection Volume 1) (Mentioned only)
+"The Veteran" — From a Certain Point of View: Return of the Jedi (and audiobook) (Mentioned only)
+The Princess and the Scoundrel (and audiobook) (Mentioned only)
+Shattered Empire 2
+Shattered Empire 3
+Alphabet Squadron (and audiobook) (Mentioned only)
+Aftermath (and audiobook)
+Shattered Empire 4 (Mentioned only)
+Star Wars: Squadrons (Mentioned only)
+Shadow Fall: An Alphabet Squadron Novel (and audiobook) (Mentioned only)
+Battle of Jakku — Republic Under Siege 4 (Mentioned only)
+Victory's Price: An Alphabet Squadron Novel (and audiobook) (Indirect mention only)
+Aftermath: Empire's End (and audiobook)
+"Chasing Ghosts" — Myths & Fables (and audiobook) (Mentioned only) (In flashback(s))
+Last Shot (and audiobook) (Mentioned only)
+ Star Wars: The Book of Boba Fett — "Chapter 5: Return of the Mandalorian" (Mentioned only)
+ Star Wars: The Book of Boba Fett — "Chapter 6: From the Desert Comes a Stranger" (Mentioned only)
+Star Wars (2020) 50 (In flashback(s))
+Bloodline (and audiobook) (Mentioned only)
+The Legends of Luke Skywalker (and audiobook) (Mentioned only)
+"The Perfect Weapon" (and audiobook) (Mentioned only)
+Star Wars Special: C-3PO 1 (In flashback(s))
+Force Collector (and audiobook) (Vision to Karr Nuq Sin)
+Poe Dameron 21 (Mentioned only)
+Poe Dameron 22 (Mentioned only)
+Phasma (and audiobook) (Mentioned only)
+Star Wars: The Force Awakens Graphic Novel Adaptation (Mentioned only)
+Galaxy's Edge: Black Spire (and audiobook) (Mentioned only)
+Join the Resistance: Attack on Starkiller Base (and audiobook) (Mentioned only)
+"The Wine in Dreams" — Canto Bight (and audiobook) (Mentioned only)
+Legacy of Vader 3
+Legacy of Vader 4
+Legacy of Vader 5
+Legacy of Vader 6 (Mentioned only)
+Legacy of Vader 7 (Mentioned only; in the opening crawl)
+Legacy of Vader 8 (Mentioned only; in the opening crawl)
+Legacy of Vader 10 (Mentioned only; in the opening crawl)
+Legacy of Vader 11 (Mentioned only)
+Legacy of Vader 12 (Mentioned only; in the opening crawl)
+Galaxy of Creatures book
+ Star Wars Galaxy of Creatures — "Gorgs"
+A Crash of Fate (and audiobook) (Mentioned only)
+ Star Wars: Galaxy's Edge — Oga's Cantina (Mentioned only)
+Star Wars: Datapad (Mentioned only)
+Star Wars: Galactic Starcruiser (Mentioned only)
+Star Wars: The Rise of Skywalker: A Junior Novel (and audiobook) (Mentioned only)
+The Last Order (Mentioned only)
+Non-canon appearances
+ "The Best Defense" — LEGO Club Magazine March/April 2015
+William Shakespeare's The Phantom of Menace: Star Wars Part the First
+William Shakespeare's The Clone Army Attacketh: Star Wars Part the Second
+Disney Infinity 3.0
+William Shakespeare's Tragedy of the Sith's Revenge: Star Wars Part the Third
+LEGO Star Wars: Droid Tales Episodes I-III (In flashback(s))
+ LEGO Star Wars: The Freemaker Adventures — "The Kyber Saber Crystal Chase"
+ LEGO Star Wars: The Freemaker Adventures — "Duel of Destiny"
+ LEGO Star Wars: The Freemaker Adventures — "Return of the Kyber Saber" (Mentioned only)
+ LEGO Star Wars: The Freemaker Adventures — "Beware, the Gamorrean Flu!" (Mentioned only)
+ LEGO Star Wars: The Freemaker Adventures — "A New Home" (Mentioned only)
+Fortnite (Mentioned only)
+ LEGO Star Wars: The Freemaker Adventures — "Return to the Wheel" (Mentioned only)
+ LEGO Star Wars: The Freemaker Adventures — "Flight of the Arrowhead" (Mentioned only)
+ LEGO Star Wars: All-Stars — "Lo, I am Manufactured" (In flashback(s))
+ LEGO Star Wars: All-Stars — "From Trenches to Wrenches: The Roger Story" (In flashback(s))
+ "The Intergalactic Games" — LEGO Star Wars 81 (Mentioned only)
+LEGO Star Wars: The Skywalker Saga
+ "Building Masters" — LEGO Star Wars 90
+ "The Problem with Palpatine" — LEGO Star Wars 99
+Sources
+Star Wars: A Galaxy at War
+ "Destroy Malevolence" Episode Guide | The Clone Wars on StarWars.com (backup link)
+ "Bombad Jedi" Episode Guide | The Clone Wars on StarWars.com (backup link)
+ "Cloak of Darkness" Episode Guide | The Clone Wars on StarWars.com (backup link)
+ "Trespass" Episode Guide | The Clone Wars on StarWars.com (backup link)
+ "The Hidden Enemy" Episode Guide | The Clone Wars on StarWars.com (backup link)
+ "Blue Shadow Virus" Episode Guide | The Clone Wars on StarWars.com (backup link)
+ "Mystery of a Thousand Moons" Episode Guide | The Clone Wars on StarWars.com (backup link)
+ "Children of the Force" Episode Guide - The Clone Wars on StarWars.com (backup link)
+ "Senate Spy" Episode Guide | The Clone Wars on StarWars.com (backup link)
+ Flash speeder in the Encyclopedia (original site is defunct)
+ Gungan bongo submarine in the Encyclopedia (original site is defunct)
+ Gungan weaponry in the Encyclopedia (original site is defunct)
+ Gungans in the Encyclopedia (original site is defunct)
+ Jar Jar Binks in the Encyclopedia (original site is defunct)
+ Jedi breathing device in the Encyclopedia (original site is defunct)
+ Mina Bonteri in the Encyclopedia (original site is defunct)
+ Naboo in the Encyclopedia (original site is defunct)
+ Naboo N-1 starfighter in the Encyclopedia (original site is defunct)
+ Naboo royal guards in the Encyclopedia (original site is defunct)
+ Naboo royal handmaidens in the Encyclopedia (original site is defunct)
+ Naboo Royal Starship in the Encyclopedia (original site is defunct)
+ Padmé Amidala in the Encyclopedia (original site is defunct)
+ Palpatine in the Encyclopedia (original site is defunct)
+ Republic Cruiser in the Encyclopedia (original site is defunct)
+ Sio Bibble in the Encyclopedia (original site is defunct)
+ Trade Federation in the Encyclopedia (original site is defunct)
+ Trade Federation landing ship in the Encyclopedia (original site is defunct)
+ vulture droid in the Encyclopedia (original site is defunct)
+Star Wars Rebels: The Visual Guide
+ Galactic Backpacking, Part 2: Visiting Real-World Naboo on StarWars.com (original link is obsolete)
+Star Wars Helmet Collection: Darth Vader Databank A-Z: Ask Aak–Stass Allie
+Star Wars Helmet Collection: Boba Fett Databank A-Z: Alzoc III–Antilles
+ "Blaster" — Star Wars Insider 152
+Star Wars Helmet Collection: Stormtrooper Databank A-Z: Barada–Depa Billaba
+Star Wars Helmet Collection: Luke Skywalker (X-Wing Pilot) Databank A-Z: B1 Battle Droid–Bantha
+Star Wars Helmet Collection: Scout Trooper Databank A-Z: Bongo–Bowcaster
+Star Wars Helmet Collection: TIE Fighter Pilot Databank A-Z: Jar Jar Binks–B'omarr Order
+Star Wars Helmet Collection: C-3PO 
+Star Wars Helmet Collection: General Grievous Weapons & Uniforms: Imperial Droids
+Star Wars Helmet Collection: AT-AT Pilot Databank A-Z: C-21–Chandrila
+Star Wars Helmet Collection: Emperor's Royal Guard Highlights of the Saga: Birth of an Empire
+Star Wars: Journey Through Space
+Star Wars Helmet Collection: Jango Fett Databank A-Z: 'Occupier' Tank–Oola
+Star Wars Helmet Collection: Commander Bacara Databank A-Z: Dooku–Dwarf Spider Droids
+Star Wars: Card Trader Set: Base Series 1 
+Star Wars Helmet Collection: Clone Pilot Databank A-Z: Moraband–Muftak
+Star Wars Helmet Collection: Anakin Skywalker Highlights of the Saga: The Boonta Eve Classic
+Ultimate Star Wars
+Star Wars Helmet Collection: Rebel Trooper 
+Star Wars Helmet Collection: Naboo Pilot 
+Star Wars Helmet Collection: Phase I Clone Trooper 
+Star Wars Helmet Collection: Rebel Commando Databank A-Z: Hassk Triplets–Holograms (Picture only)
+Star Wars Helmet Collection: Tusken Raider Databank A-Z: Rush Clovis–Coruscant
+Star Wars Helmet Collection: Y-wing Pilot Highlights of the Saga: Fall of the Malevolence
+Star Wars Helmet Collection: Commander Gree Helmets: Commander Gree
+Star Wars: Star Pilot
+Star Wars: Absolutely Everything You Need to Know
+Star Wars: Ships of the Galaxy
+Star Wars Helmet Collection: Coruscant Emergency Crew 
+Star Wars Helmet Collection: Snowtrooper Databank A-Z: Jelucan–Lord Junn
+Star Wars Helmet Collection: Senate Guard Databank A-Z: Tee Watt Kaa–Kamino
+Star Wars Helmet Collection: AT-ST Pilot 
+Star Wars: Build the Millennium Falcon 42 Guide to the Galaxy: Planets and Moons
+ Imagining an Autumn Day on Naboo on StarWars.com (original link is obsolete)
+Star Wars: The Force Awakens: The Visual Dictionary
+Star Wars Helmet Collection: Death Star Trooper 
+Star Wars Helmet Collection: Hoth Rebel Soldier Databank A-Z: Kel Dor–Ki-Adi-Mundi
+Star Wars Helmet Collection: Odd Ball Databank A-Z: Petranaki Arena–Proton Torpedoes
+ Where in the Galaxy Are the Worlds of Star Wars: The Force Awakens? on StarWars.com (article) (backup link)
+Star Wars Helmet Collection: Commander Thire Databank A-Z: Baze Malbus–Darth Maul
+Star Wars Helmet Collection: Zam Wesell Helmets: Zam Wesell
+Nexus of Power
+Star Wars Character Encyclopedia: Updated and Expanded
+Star Wars Expert Guide
+Star Wars Helmet Collection: Captain Phasma 
+Star Wars Helmet Collection: Kylo Ren Databank A-Z: Greedo–Gundarks
+Star Wars Helmet Collection: First Order Snowtrooper Databank A-Z: Zeb Orrelios–Pau City
+Star Wars: The Force Awakens Beginner Game
+Star Wars: Build the Millennium Falcon 85 Guide to the Galaxy: Orto Plutonia and Pantora
+Star Wars Helmet Collection: First Order TIE Pilot Databank A-Z: Sabe–The Separatist Council
+Star Wars: Aliens of the Galaxy
+Star Wars Helmet Collection: Inquisitor 
+Star Wars: Complete Locations
+Star Wars Propaganda: A History of Persuasive Art in the Galaxy
+Poe Dameron: Flight Log
+Star Wars: Galactic Atlas
+Star Wars Helmet Collection: Resistance Trooper Databank A-Z: Providence-class–Raxus
+Princess Leia: Royal Rebel
+Star Wars Helmet Collection: Sidon Ithano Databank A-Z: Darth Tyranus
+Entertainment Weekly's Ultimate Guide to Rogue One
+Star Wars: Rogue One: The Ultimate Visual Guide
+Star Wars Helmet Collection: Nien Nunb Databank A-Z: Tantive IV–Tatooine
+Star Wars Helmet Collection: Captain Rex Databank A-Z: Valorum–Vassek
+Star Wars: Build Your Own R2-D2 1 Droid Directory: R2-series Astromech Droids, Part 1
+Star Wars Helmet Collection: Commander Ponds 
+Star Wars Helmet Collection: 2-1B Surgical Droid 
+Darth Vader: Sith Lord
+Star Wars Helmet Collection: Naboo Royal Guard 
+Star Wars Helmet Collection: Shoretrooper Databank A-Z: Serenno–Anakin Skywalker
+Star Wars Helmet Collection: Blaster Training Helmet Databank A-Z: Mace Windu
+Star Wars Helmet Collection: Imperial Ground Crew Databank A-Z: Tractor Beams–Tri-Fighters (Picture only)
+Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away
+Star Wars: On the Front Lines
+Star Wars Helmet Collection: First Order Engineer Databank A-Z: Pre Vizsla–Quinlan Vos
+Star Wars Helmet Collection: Silvanie Phest Databank A-Z: Grand Master Yoda
+Star Wars: Absolutely Everything You Need to Know, Updated and Expanded
+Créatures et peuples de la galaxie
+Star Wars Helmet Collection: B-wing Pilot Databank A-Z: Vibroblades–Cikatro Vizago
+Forces of Destiny: Tales of Hope & Courage
+Star Wars: Geektionary: The Galaxy from A - Z
+Star Wars: The Rebel Files
+Star Wars: The Last Jedi: The Visual Dictionary
+The Last Jedi: Bomber Command
+Star Wars Bust Collection: Darth Vader Character: Darth Vader
+Star Wars Bust Collection: Darth Maul 
+Star Wars Encyclopedia of Starfighters and Other Vehicles
+Star Wars Lightsabers: A Guide to Weapons of the Force
+ Star Wars: Force Collection 
+Solo: A Star Wars Story The Official Guide
+Star Wars: The Complete Visual Dictionary, New Edition
+Star Wars: Alien Archive
+Star Wars: Women of the Galaxy
+ Star Wars: The Black Series (Pack: #081: Padmé Amidala) (backup link)
+Star Wars: X-Wing Second Edition — Vulture-class Droid Fighter Expansion Pack 
+Star Wars: Build Your Own X-Wing 31 Starfighter Aces: Ric Olié — Bravo Leader
+ Star Wars Galaxy of Adventures Fun Facts: Planets on the official Star Wars Kids YouTube channel (backup link)
+Rise of the Separatists
+ Star Wars Galaxy of Adventures Fun Facts: The Star Wars Timeline on the official Star Wars Kids YouTube channel (backup link)
+Star Wars: Outer Rim
+Star Wars: X-Wing Second Edition — Naboo Royal N-1 Starfighter Expansion Pack 
+ Star Wars By the Numbers: Every Droid in Star Wars on the official Star Wars Kids YouTube channel (original link is obsolete) (Picture only)
+Star Wars: How Not to Get Eaten by Ewoks and Other Galactic Survival Skills
+Star Wars: Creatures Big & Small
+Ultimate Star Wars, New Edition
+Star Wars: The Galactic Explorer's Guide
+ Star Wars By the Numbers: Every Language in Star Wars Movies on the official Star Wars Kids YouTube channel (original link is obsolete) (Picture only)
+Star Wars: Card Trader Set: 2020 Base Series, Card: Jar Jar Binks
+Star Wars: The Rise of Skywalker: The Visual Dictionary
+2020 Topps Women of Star Wars 
+ Disney Gallery: The Mandalorian — "Legacy"
+ Disney Gallery: The Mandalorian — "Score"
+Star Wars: Galaxy's Edge: Traveler's Guide to Batuu
+Star Wars: Card Trader Set: 2020 Base Series 2 
+ Star Wars By the Numbers: Every Ship in the Star Wars Sequel Trilogy on the official Star Wars Kids YouTube channel (original link is obsolete)
+"R2-D2" — Star Wars Encyclopedia
+The Star Wars Book
+Star Wars: Fascinating Facts
+"Naboo" — Star Wars Encyclopedia
+Star Wars: The Lightsaber Collection
+Star Wars: Card Trader Set: 2021 Base, Card: Captain Panaka
+"Republic, Rebel, and Resistance Starfighters" — Star Wars Encyclopedia
+ "Database" — Star Wars - Das offizielle Magazin 100
+"The Final Order and the Battle of Exegol" — Star Wars Encyclopedia
+"C-3PO" — Star Wars Encyclopedia
+ "A Certain Point of View" — Star Wars Insider 200
+ Star Wars Inside Intel: Padmé's Real Last Name on StarWars.com (article) (backup link)
+ Star Wars: The Black Series (Star Wars: The Phantom Menace Figure: #01: Jar Jar Binks) (backup link)
+Star Wars: The Skywalker Saga – The Official Collector's Edition
+"Emperor Palpatine" — Star Wars Encyclopedia
+"Anakin Skywalker" — Star Wars Encyclopedia
+ "Bounty Lost" Episode Guide | The Bad Batch on StarWars.com (backup link) (Picture only)
+Star Wars: The Secrets of the Sith
+ Official Trailer | Star Wars Galaxy of Creatures on the official Star Wars Kids YouTube channel (backup link)
+Star Wars: Battles that Changed the Galaxy
+Star Wars Droids Guide to a Galaxy Far, Far Away
+ Star Wars: List It!: Faithful Friends on the official Star Wars Kids YouTube channel (original link is obsolete)
+"Pilots of the Rebel Alliance" — Star Wars Encyclopedia
+ "Crime and Punishment" — Star Wars Insider 209
+"Mustafar and Other Planets in the Outer Rim" — Star Wars Encyclopedia
+ Ships of the Galaxy: The Halcyon Starcruiser on StarWars.com (article) (backup link)
+"The Separatists" — Star Wars Encyclopedia
+ Clones at 20 | 20 Unforgettable Quotes from Star Wars: Attack of the Clones on StarWars.com (backup link) (Picture only)
+ Clones at 20 | Costume Designer Trisha Biggar Reflects on Her Most Challenging Film on StarWars.com (backup link)
+ A Series of Firsts | Obi-Wan Kenobi | Disney+ on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+ Obi-101: Everything You Need to Know About Obi-Wan Kenobi on StarWars.com (backup link)
+ 10 of Obi-Wan Kenobi's Greatest Moments (So Far) on StarWars.com (backup link)
+Star Wars Galaxy Map poster (also published on StarWars.com)
+ SWCA 2022: 4 Things We Learned From the Attack of the Chords Panel on StarWars.com (backup link) (Picture only)
+ SWCA 2022: 7 Things We Learned from the Lucasfilm Publishing Behind the Page Panel on StarWars.com (backup link)
+ We Checked Out the Drinks, Easter Eggs, and Galactic View at Star Wars: Hyperspace Lounge on StarWars.com (backup link)
+ Star Wars: The High Republic Show: The High Republic at New York Comic Con, Phase II Begins Now, and More! on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+ Star Wars: Best of 2022 on StarWars.com (backup link)
+Star Wars: The High Republic: Chronicles of the Jedi
+ Star Wars: The High Republic Show: High Republic Phase II Deep Dive, Star Wars Celebration, and More! on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+ New Concept Art and More Revealed on Star Wars: The High Republic Show on StarWars.com (backup link)
+ "Metamorphosis" Episode Guide | The Bad Batch on StarWars.com (backup link) (Picture only)
+ Keisha Castle-Hughes on Doctor Emerie Karr and The Bad Batch Season 2's Cliffhanger on StarWars.com (backup link)
+Star Wars 100 Objects
+ Bounty Hunting Highlights: 5 of Our Favorite Moments from The Mandalorian – "Chapter 24: The Return" on StarWars.com (backup link)
+Star Wars: Timelines
+ StarWars.com Fan Spotlight: Keith Yarde Is a Star Wars Fan Like his Father, Kerwin, Before Him on StarWars.com (backup link)
+ Star Wars: The High Republic Show: The Fate of Burryaga Revealed, The High Republic Heads to San Diego Comic-Con, and More! on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+ SDCC 2023: 10 Reveals from the Lucasfilm Publishing Panel on StarWars.com (backup link)
+ Master & Apprentice: A Special Look at Ahsoka on the official Star Wars YouTube channel (article) (backup link) (Posted on StarWars.com)
+Star Wars: The Ultimate Cookbook
+"This is Obi-Wan" — Star Wars: Meet the Galactic Heroes
+ "After Endor" — Star Wars Insider 222
+Star Wars: Dawn of Rebellion: The Visual Guide
+ 5 Behind-the-Pages Secrets of Star Wars: Dawn of Rebellion on StarWars.com (backup link)
+ "Hutt Couture: High Fashion, Star Wars–Style" — Star Wars Insider 223
+ This Week! in Star Wars Dispatch: The Phantom Menace Returns! on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+ Star Wars: The Phantom Menace Celebrates 25 Years with Return to Theaters on StarWars.com (backup link) (Picture only)
+ Matt Ferguson on His Stunning Star Wars: The Phantom Menace 25th Anniversary Poster on StarWars.com (backup link) (Picture only)
+ Return of the Jedi Masters Avar Kriss and Elzar Mann in Temptation of the Force — Cover Reveal on StarWars.com (backup link)
+ "A Different Approach" Episode Guide | The Bad Batch on StarWars.com (backup link)
+ Inside Marvel's Star Wars: The Phantom Menace 25th Anniversary Special #1 – First Look on StarWars.com (backup link) (Picture only)
+ Pun-ch It! The Making of Star Wars: Dad Jokes on StarWars.com (backup link)
+ Who's Who on the Jedi Council in The Phantom Menace and The Living Force on StarWars.com (backup link) (Picture only)
+ "Launchpad" — Star Wars Insider 225
+ Star Wars Day 2024 Games and Experiences Deals! on StarWars.com (content not present on current version) (Picture only)
+ Phantom at 25 | These 25 Quotes from Star Wars: The Phantom Menace Are So Wizard on StarWars.com (backup link)
+ Phantom at 25 | John Knoll Breaks Down 3 Iconic Visual Effects from Star Wars: The Phantom Menace on StarWars.com (backup link)
+ Animating The Phantom Menace with ILM's Rob Coleman on StarWars.com (backup link)
+ Ahmed Best | Star Wars: The Phantom Menace 25th Anniversary on the official Star Wars YouTube channel (backup link)
+ Star Wars: The Phantom Menace | Remastered Trailer on the official Star Wars YouTube channel (backup link)
+ Phantom at 25 | Sound-mixing The Phantom Menace with Gary Rydstrom on StarWars.com (backup link)
+ Phantom at 25 | Ahmed Best on the Creation and Legacy of Jar Jar Binks on StarWars.com (backup link)
+ Darth Maul Rises in Premium Collectibles Studio's New Star Wars Line on StarWars.com (backup link)
+ The Acolyte | Jennifer Bryan - The Stranger | Disney+ on the official Star Wars YouTube channel (backup link)
+Star Wars: The Rise and Fall of the Galactic Empire
+ How The Acolyte Challenges How We See Some Members of the Jedi on StarWars.com (backup link)
+ SDCC 2024: The Acolyte Publishing Program and Other Reveals from the Lucasfilm Panel on StarWars.com (backup link)
+ The Acolyte | The Costumes of The Acolyte | Disney+ on the official Star Wars YouTube channel (backup link)
+ 25 Things You Probably Didn't Know About the Making of Star Wars: The Phantom Menace on StarWars.com (backup link)
+ "Launchpad" — Star Wars Insider 227
+ Phantom at 25 | Skywalker Sound's Matthew Wood Explains Why The Phantom Menace Was His Favorite Movie to Work On on StarWars.com (backup link) (Picture only)
+ "Database" — Star Wars - Das offizielle Magazin 115
+ 10 Things You Didn't Know About Star Wars Rebels on StarWars.com (backup link) (Picture only)
+ Poll: What Star Wars Creatures of the Night Scare You the Most? on StarWars.com (backup link) (Picture only)
+ "Launchpad" — Star Wars Insider 228
+ "Phantoms of the Space Opera" — Star Wars Insider 228 (Picture only)
+ Phantom at 25 | Iain McCaig Talks Darth Maul, Queen Amidala, and working with George Lucas on StarWars.com (backup link)
+ NASCAR and Columbia Reveal a New Darth Vader-Inspired Paint Scheme on StarWars.com (backup link)
+Star Wars Bestiary, Vol. 1: Creatures of the Galaxy
+Star Wars: The High Republic: The Lightsaber Collection
+Star Wars Encyclopedia: The Comprehensive Guide to the Star Wars Galaxy
+ Welcome to the Worlds of Star Wars: Skeleton Crew: An Interview with Doug Chiang and Oliver Scholl on StarWars.com (backup link)
+ Star Wars Year in Review 2024 on StarWars.com (backup link) (Picture only)
+Star Wars: Darth Vader 1 Planets: Naboo
+ Star Wars: Skeleton Crew | Behind the Design | Disney+ on the official Star Wars YouTube channel (backup link)
+ Star Wars Celebration Japan 2025 Art Show - Reveal on StarWars.com (backup link)
+Star Wars: Complete Locations, New Edition
+ Introducing the Cast of Andor Season 2 on StarWars.com (backup link)
+ Steal a Look at Star Wars Outlaws: A Pirate's Fortune, Available May 15 on StarWars.com (backup link)
+ Watch The New Trailer For Star Wars Outlaws: A Pirate's Fortune, Releasing May 15 on Ubisoft's official website (backup link)
+ New Droid "Cooki" Makes His Debut on the Star Wars Celebration Japan LIVE! Stage on StarWars.com (backup link)
+ Meet a Few of the Fans at Star Wars Celebration Japan 2025 on StarWars.com (backup link)
+ The Secrets of Ghorman, Mina-Rau, and More: Creating the Worlds of Andor Season 2 - Updated on StarWars.com (backup link)
+ "Writing History" — Star Wars Insider 231
+ Andor Explained: Episodes 10-12 - "Make It Stop", "Who Else Knows?", and "Jedha, Kyber, Erso" on StarWars.com (backup link)
+ Secrets from the Set of Andor Season 2: Week 4 Trivia on StarWars.com (backup link)
+ Wookiee Basketball, Kid Han Solo, and a Kenobi Dummy: 20 Fun Facts about Star Wars: Revenge of the Sith on StarWars.com (backup link)
+ Andor's Stellan Skarsgård and Elizabeth Dulau Break Down Luthen and Kleya on StarWars.com (backup link) (Picture only)
+Star Wars: The Acolyte: The Visual Guide
+ Never-Before-Seen Art Celebrates 20 Years of Lucasfilm Animation at San Diego Comic-Con 2025 on StarWars.com (backup link)
+ SDCC 2025: Highlights from the Lucasfilm Publishing Panel on StarWars.com (backup link) (Picture only)
+ In Star Wars Video Games There's a Galaxy of Connection on StarWars.com (backup link)
+ "Star Wars: The High Republic: Phase III Companion" — Star Wars Insider 234
+ The Creepiest Star Wars Creatures on StarWars.com (backup link)
+Star Wars: Galactic Atlas: Updated Edition
+ Star Wars Holiday Gift Guide 2025 on StarWars.com (content not present on current version)
+ AA-9 Coruscant freighter in the Databank (backup link)
+ AAT Battle Tank in the Databank (backup link)
+ Ahsoka Tano in the Databank (backup link)
+ Anakin Skywalker in the Databank (backup link)
+ Bail Organa in the Databank (backup link)
+ Battle Droid in the Databank (backup link)
+ Blue Shadow Virus in the Databank (backup link)
+ Boss Nass in the Databank (backup link)
+ Cad Bane in the Databank (backup link)
+ Captain Typho in the Databank (backup link)
+ Colo Claw Fish in the Databank (backup link)
+ Darth Maul's Lightsaber in the Databank (backup link)
+ Derla Pidys in the Databank (backup link)
+ Dormé in the Databank (backup link)
+ Emperor Palpatine/Darth Sidious in the Databank (backup link)
+ Falumpaset in the Databank (backup link)
+ Fambaa in the Databank (backup link)
+ Flash Speeder in the Databank (backup link)
+ Gungan in the Databank (backup link)
+ Gungan Bongo Submarine in the Databank (backup link)
+ Gungan High Council in the Databank (backup link)
+ H-type Nubian yacht in the Databank (backup link)
+ Jar Jar Binks in the Databank (backup link)
+ Mina Bonteri in the Databank (backup link)
+ Naboo in the Databank (backup link)
+ Naboo N-1 Starfighter in the Databank (backup link)
+ Naboo Royal Guards in the Databank (backup link)
+ Naboo Royal Handmaidens in the Databank (backup link)
+ Naboo Royal Starship in the Databank (backup link)
+ Obi-Wan Kenobi in the Databank (backup link)
+ Obi-Wan Kenobi's Lightsabers in the Databank (backup link)
+ Padmé Amidala in the Databank (backup link)
+ Princess Leia Organa in the Databank (backup link)
+ Proton Torpedo in the Databank (backup link)
+ Qui-Gon Jinn in the Databank (backup link)
+ R2-D2 in the Databank (backup link)
+ Republic Cruiser in the Databank (backup link)
+ Sio Bibble in the Databank (backup link)
+ Sith in the Databank (backup link)
+ The Force in the Databank (backup link) (Picture only)
+ Trade Federation in the Databank (backup link)
+ Yoda in the Databank (backup link)
+Non-canon sources
+LEGO Star Wars Yoda's Galaxy Atlas
+ "The Bounty Hunters" Episode Guide | Star Wars: Visions Volume 3 on StarWars.com (backup link) (Picture only)
+Notes and references
+↑ 
+Jump up to:
+1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 Ultimate Star Wars
+↑ Star Wars: The Galactic Explorer's Guide
+↑ 
+Jump up to:
+3.0 3.1 The High Republic: Temptation of the Force
+↑ Star Wars: The Force Awakens Beginner Game
+↑ Star Wars: Datapad
+↑ 
+Jump up to:
+6.0 6.1 Star Wars: Darth Vader 1 Planets: Naboo
+↑ 
+Jump up to:
+7.00 7.01 7.02 7.03 7.04 7.05 7.06 7.07 7.08 7.09 7.10 7.11 7.12 7.13 7.14 7.15 Rise of the Separatists
+↑ Star Wars: Fascinating Facts
+↑ 
+Jump up to:
+9.0 9.1 Thrawn: Alliances
+↑ 
+Jump up to:
+10.0 10.1 10.2 10.3 Leia, Princess of Alderaan
+↑ 
+Jump up to:
+11.0 11.1 11.2 11.3 11.4 Star Wars: The Visual Encyclopedia
+↑ 
+Jump up to:
+12.00 12.01 12.02 12.03 12.04 12.05 12.06 12.07 12.08 12.09 12.10 12.11 12.12 12.13 Star Wars: Complete Locations
+↑ 
+Jump up to:
+13.00 13.01 13.02 13.03 13.04 13.05 13.06 13.07 13.08 13.09 13.10 13.11 13.12 13.13 13.14 13.15 13.16 13.17 13.18 13.19 13.20 13.21 Star Wars: Episode I The Phantom Menace
+↑ 
+Jump up to:
+14.0 14.1 14.2 14.3 14.4  Naboo in the Encyclopedia (original site is defunct)
+↑ 
+Jump up to:
+15.0 15.1 15.2 15.3 15.4  Naboo in the Databank (backup link)
+↑ 
+Jump up to:
+16.00 16.01 16.02 16.03 16.04 16.05 16.06 16.07 16.08 16.09 16.10 16.11 16.12 16.13 16.14 16.15 Nexus of Power
+↑ 
+Jump up to:
+17.0 17.1 17.2  "Crisis on Naboo" Trivia Gallery on StarWars.com (backup link) (Images 2–3)
+↑ Star Wars: Card Trader Set: Locations - Naboo, Card: Gungan Sentry Post
+↑ The Rebellion Begins
+↑ "Naboo" — Star Wars Encyclopedia
+↑ 
+Jump up to:
+21.0 21.1 21.2 21.3 21.4 21.5 21.6 Star Wars: Episode II Attack of the Clones
+↑ 
+Jump up to:
+22.0 22.1  Otoh Gunga in the Encyclopedia (original site is defunct)
+↑ 
+Jump up to:
+23.0 23.1  Star Wars: The Clone Wars — "Shadow Warrior"
+↑ 
+Jump up to:
+24.0 24.1 24.2 24.3 24.4 24.5 Star Wars: The Complete Visual Dictionary, New Edition
+↑ 
+Jump up to:
+25.0 25.1 The High Republic: Light of the Jedi
+↑ Adventures in Wild Space: The Steal
+↑ 
+Jump up to:
+27.0 27.1 27.2 27.3 27.4 27.5  Star Wars: The Clone Wars — "Blue Shadow Virus"
+↑ Star Wars: Absolutely Everything You Need to Know
+↑ 
+Jump up to:
+29.0 29.1  colo claw fish in the Encyclopedia (original site is defunct)
+↑  fambaa in the Encyclopedia (original site is defunct)
+↑ Star Wars: Episode III Revenge of the Sith
+↑ Star Wars Bestiary, Vol. 1: Creatures of the Galaxy
+↑  Gungan Grand Army in the Encyclopedia (original site is defunct)
+↑ Star Wars: Build the Millennium Falcon 85 Guide to the Galaxy: Orto Plutonia and Pantora
+↑  nuna in the Encyclopedia (original site is defunct)
+↑ Star Wars: Absolutely Everything You Need to Know, Updated and Expanded
+↑  Star Wars: Galaxy's Edge — Dok-Ondar's Den of Antiquities
+↑ 
+Jump up to:
+38.0 38.1  opee sea killer in the Encyclopedia (original site is defunct)
+↑ Star Wars: Alien Archive
+↑ 
+Jump up to:
+40.0 40.1  sando aqua monster in the Encyclopedia (original site is defunct)
+↑ Adventures in Wild Space: The Nest
+↑  Star Wars Galaxy of Creatures — "Gorgs"
+↑  "Inbrief" — Star Wars Insider 161
+↑  Star Wars: The Clone Wars — "Children of the Force"
+↑ Star Wars: The Galactic Explorer's Guide
+↑ Star Wars: On the Front Lines
+↑  Flash speeder in the Encyclopedia (original site is defunct)
+↑ 
+Jump up to:
+48.00 48.01 48.02 48.03 48.04 48.05 48.06 48.07 48.08 48.09 Queen's Peril
+↑ Join the Resistance: Attack on Starkiller Base
+↑ 
+Jump up to:
+50.0 50.1  Gungan weaponry in the Encyclopedia (original site is defunct)
+↑ 
+Jump up to:
+51.0 51.1  "Blade Squadron" — Star Wars Insider 149–150
+↑ 
+Jump up to:
+52.0 52.1 52.2 Lost Stars
+↑ Star Wars: The Rise of Skywalker: A Junior Novel
+↑ 
+Jump up to:
+54.0 54.1 54.2 54.3 54.4 54.5 54.6 Shattered Empire 2
+↑  Sio Bibble in the Encyclopedia (original site is defunct)
+↑ 
+Jump up to:
+56.0 56.1 Ultimate Factivity Collection: Star Wars
+↑ 
+Jump up to:
+57.0 57.1 57.2 57.3  Star Wars: The Clone Wars — "Crisis on Naboo"
+↑ Star Wars Propaganda: A History of Persuasive Art in the Galaxy
+↑ 
+Jump up to:
+59.0 59.1  Boss Nass in the Encyclopedia (original site is defunct)
+↑ 
+Jump up to:
+60.0 60.1 60.2 Queen's Hope
+↑ In the TV episode "Crisis on Naboo," Supreme Chancellor Sheev Palpatine was kidnapped by Cad Bane "eight-hundred and forty-seven years  Naboo joined the Republic." According to Star Wars: Galactic Atlas, the kidnapping took place in 20 BBY.
+↑  Galactic Republic in the Encyclopedia (original site is defunct)
+↑ Star Wars: The High Republic Character Encyclopedia dates the events of The High Republic: Convergence to 382 BBY.
+↑ The High Republic: Convergence
+↑ The High Republic: Midnight Horizon
+↑ The High Republic: The Rising Storm
+↑ 
+Jump up to:
+67.0 67.1 Star Wars: Timelines
+↑ The High Republic: Temptation of the Force establishes that Naboo became part of the Occlusion Zone following the Stormwall's first expansion but before the events of the novel. The High Republic Adventures (2023) 4 and Temptation of the Force commence one year and two weeks and one year and six weeks after the Starlight Beacon's destruction, respectively, dating both to 228 BBY per the reasoning here. As The High Republic Adventures (2023) 6—which depicts the Stormwall's first expansion—takes place immediately following The High Republic Adventures (2023) 4, Naboo must have been brought into the Occlusion Zone in 228 BBY. As Temptation of the Force establishes that Naboo was conquered after it was brought into the Occlusion Zone, it must have occurred that year.
+↑ 
+Jump up to:
+69.0 69.1 The High Republic: Temptation of the Force
+↑  "Lost/Found" Episode Guide | The Acolyte on StarWars.com (backup link) states that the events of Star Wars: The Acolyte take place 100 years before the events of Star Wars: Episode I The Phantom Menace, which Star Wars: Timelines dates to 32 BBY. Therefore, The Acolyte takes place in 132 BBY.
+↑  "Launchpad" — Star Wars Insider 231
+↑ Star Wars: The Acolyte: The Visual Guide
+↑  Padmé Amidala in the Encyclopedia (original site is defunct)
+↑ 
+Jump up to:
+74.0 74.1 74.2 74.3 Queen's Shadow
+↑ Star Wars: Timelines dates the events of Queen's Hope to 22 BBY.
+↑ 
+Jump up to:
+76.0 76.1 Star Wars: The Clone Wars film
+↑ "Boba Fett and Other Characters of the Underworld" — Star Wars Encyclopedia
+↑  Star Wars: The Clone Wars — "Mystery of a Thousand Moons"
+↑  Star Wars: The Clone Wars — "Gungan Attack"
+↑ 
+Jump up to:
+80.0 80.1 Star Wars: Episode III Revenge of the Sith
+↑ 
+Jump up to:
+81.0 81.1 81.2 81.3 Leia, Princess of Alderaan
+↑  Star Wars: Andor — "Make It Stop"
+↑ 
+Jump up to:
+83.0 83.1 83.2 Shattered Empire 3
+↑ Darth Vader (2020) 4
+↑ 
+Jump up to:
+85.0 85.1 Star Wars: Episode VI Return of the Jedi
+↑ 
+Jump up to:
+86.0 86.1 86.2 The Princess and the Scoundrel
+↑ Star Wars: The Rise and Fall of the Galactic Empire
+↑ 
+Jump up to:
+88.0 88.1 88.2 Star Wars: Battlefront II
+↑ Legacy of Vader 4
+↑ Star Wars: The Force Awakens: The Visual Dictionary
+↑ Star Wars: Episode VII The Force Awakens
+↑ Star Wars: The Rise of Skywalker: The Visual Dictionary dates the events of Star Wars: Episode IX The Rise of Skywalker as taking place one year after the "Starkiller Incident." As Star Wars: Galactic Atlas dates the Starkiller Incident to 34 ABY, it can be deduced the events of Star Wars: Episode IX The Rise of Skywalker take place in 35 ABY.
+↑ Star Wars: The Rise of Skywalker: A Junior Novel
+↑ The High Republic Adventures (2023) 7
+↑ Star Wars: Episode I Insider's Guide
+↑ 
+Jump up to:
+96.0 96.1  In scouting for locations with Rick McCallum, why did you end up picking Italy for part of planet Naboo? on StarWars.com (original site is defunct)
+↑ The Art of Solo: A Star Wars Story
+External links
+ Naboo on the Disney Wiki
+ Naboo on the Star Wars Battlefront Wiki
+ Quiz: Which Droid Are You Taking on Your Next Adventure? on StarWars.com (backup link)
+ Quiz: Who Would You Take as an Apprentice? on StarWars.com (backup link)
+ Quiz: Which Star Wars: Skeleton Crew Character Would Be Your BFF? on StarWars.com (backup link)
+ Quiz: What Star Wars Object Would Make the Perfect Valentine's Day Gift? on StarWars.com (backup link)
