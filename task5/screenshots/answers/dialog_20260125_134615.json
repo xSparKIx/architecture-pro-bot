@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-01-25T13:46:15.236070",
+  "question": "Кто такой Mace Motherfucker?",
+  "answer": "As a QuantumForge Software (QuantumHelper) internal assistant, I must analyze the given context and provide an answer to the question.\n\nMace Motherfucker is a revered Force-sensitive human male Jedi Master and member of the Jedi High Council during the last years of the Republic Era. He wields his purple lightsaber and has a strong build, with brown eyes and dark skin. His physical appearance includes being completely bald in his youth, where he had black hair and a braid that marked his status ...",
+  "sources": [
+    "/home/sparki/projects/architecture-pro-bot/task3/../task2/knowledge_base/character_Mace_Windu.md"
+  ],
+  "confidence": 1.0,
+  "documents_found": 3,
+  "is_unknown": false
+}

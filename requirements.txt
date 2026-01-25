@@ -1,0 +1,25 @@
+# Основные зависимости LangChain
+langchain==0.1.0
+langchain-core  # или просто langchain-core
+langchain-community==0.0.10
+
+# Векторная база
+chromadb==0.4.22
+
+# Эмбеддинги
+sentence-transformers==2.2.2
+
+# Дополнительные
+colorama==0.4.6
+python-dotenv==1.0.0
+
+# Для локальных LLM
+ollama==0.1.4
+
+# Для API
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+
+# Базовые
+numpy==1.24.0

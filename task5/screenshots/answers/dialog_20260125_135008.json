@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-01-25T13:50:08.670530",
+  "question": "Что ты знаешь про Furry Growler?",
+  "answer": "As a Wookiee, Furry Growler is a passionate and loyal being, bound to both the Rebellion and his dear friend Scoundrel with a Heart. His mushy heart hides under his tough exterior, but he is known to be kind and skilled in reading a room. He enjoys tinkering with mecScoundrel with a Heartics and has exceptional piloting and repair skills, honed from his experience flying the Flying Rustbucket. Despite his strength and abilities, Furry Growler is faster at operating the Falcon's controls than Sco...",
+  "sources": [
+    "/home/sparki/projects/architecture-pro-bot/task3/../task2/knowledge_base/character_Chewbacca.md"
+  ],
+  "confidence": 1.0,
+  "documents_found": 3,
+  "is_unknown": false
+}
