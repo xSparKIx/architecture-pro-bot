@@ -3,8 +3,6 @@ from dotenv import load_dotenv
 
 load_dotenv('../.env')
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-
 CONFIG = {
     # Модель эмбеддингов
     "embedding_model": {
@@ -14,7 +12,7 @@ CONFIG = {
     
     # Векторная БД
     "vector_db": {
-        "persist_directory": os.path.join(BASE_DIR, "..", os.getenv('VECTOR_DB_DIRECTORY')),
+        "persist_directory": os.path.join(os.getcwd(), os.getenv('VECTOR_DB_DIRECTORY')),
         "collection_name": os.getenv('COLLECTION_NAME')
     },
     

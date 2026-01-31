@@ -136,8 +136,6 @@ class LangChainRAGPipeline:
 
             # Используем invoke вместо прямого вызова
             result = self.qa_chain.invoke({"query": question})
-            
-            print(f"result: {result}")
 
             # Извлекаем результат
             answer = result.get("result", "Нет ответа")
@@ -209,7 +207,28 @@ class LangChainRAGPipeline:
             base_confidence += min(doc_count * 0.1, 0.3)
         
         # Уменьшаем если есть слова сомнения
-        doubt_words = ['возможно', 'вероятно', 'может быть', 'не уверен', 'предполагаю']
+        doubt_words = [
+            'возможно',
+            'вероятно',
+            'может быть',
+            'не уверен',
+            'предполагаю',
+            'definitive answer',
+            'cannot provide',
+            'additional context',
+            'provide more information',
+            'accurate answer',
+            'I don\'t know',
+            'no information',
+            'without providing',
+            'I must analyze',
+            'I must provide an answer based on',
+            'maybe',
+            'perhaps',
+            'probably',
+            'not sure',
+            "don't know",
+        ]
         if any(word in answer.lower() for word in doubt_words):
             base_confidence *= 0.7
         

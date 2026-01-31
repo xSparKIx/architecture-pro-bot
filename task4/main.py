@@ -31,9 +31,9 @@ class QuantumHelperCLI:
         
         # Предустановленные вопросы для тестирования
         test_questions = [
-            "Who is it Furry Growler?",
-            "What do you know about Ice Cube Planet?",
-            "Where ara from Motherfucker?",
+            "Кто такой Furry Growler?",
+            "Что ты знаешь о Ice Cube Planet?",
+            "От куда родом Motherfucker?",
         ]
         
         print(Fore.MAGENTA + "📋 Примеры вопросов для тестирования:")
@@ -91,14 +91,16 @@ class QuantumHelperCLI:
             "timestamp": datetime.now().isoformat(),
             "question": question,
             "answer": response["answer"][:500] + "..." if len(response["answer"]) > 500 else response["answer"],
+            "answer_len": len(response["answer"]),
             "sources": response.get("sources", []),
             "confidence": response["confidence"],
             "documents_found": response["documents_found"],
-            "is_unknown": response.get("is_unknown", False)
+            "is_correct": not response.get("is_unknown", False)
         }
         
         # Сохраняем в файл
         filename = f"screenshots/dialog_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(dialog, f, indent=2, ensure_ascii=False)
         

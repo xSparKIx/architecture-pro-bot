@@ -1,0 +1,54 @@
+@startuml
+
+title Автоматическое ежедневное обновление базы знаний RAG-бота
+
+package "Источники данных" {
+    [Локальная папка (knowledge_base)] as LOCAL
+}
+
+[Планировщик (cron)] as CRON
+
+package "Скрипт обновления (update_index.py)" as SCRIPT {
+    [Сканирование новых/изменённых/удаленных файлов] as SCAN
+    [Парсинг и чанкирование] as CHUNK
+    [Генерация эмбеддингов] as EMBED
+    [Обновление векторной БД] as UPDATE
+}
+
+database "Хранилище эмбеддингов (ChromaDB)" as CHROMA {
+    [Векторный индекс] as INDEX
+}
+
+file "Логирование" as LOGS {
+    [JSON] as LOGFILE
+}
+
+[Файловая система\n(состояние обработанных файлов)] as CACHE
+
+' Связи
+CRON --> SCRIPT
+
+SCRIPT --> SCAN
+SCAN --> CHUNK
+CHUNK --> EMBED
+EMBED --> UPDATE
+UPDATE --> INDEX
+
+SCAN --> CACHE : "Сравнение с хэшами"
+CACHE --> SCAN : "Список изменений"
+
+LOCAL --> SCAN
+
+SCRIPT --> LOGS : "Запись логов\n(время, файлы, ошибки)"
+UPDATE --> LOGS : "Логи обновлений"
+
+' Стилизация
+note top of CRON : **Расписание**: каждый день в 24:00\n**При ошибке**: повтор через 5 мин (Максимум 5 попыток)
+
+note right of SCAN : **Проверка изменений**:\n- Сравнение хешей и дат модификации\n- Отслеживание новых файлов
+
+note right of EMBED : **Модель эмбеддингов**:\nsentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+
+note right of UPDATE : **Операции**:\n- Удаление устаревших\n- Добавление новых векторов
+
+@enduml

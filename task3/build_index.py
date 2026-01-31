@@ -14,7 +14,6 @@ from vector_store import VectorStoreManager
 load_dotenv('../.env')
 
 # Конфигурация
-# @todo Выбрать тут модель
 CONFIG = {
     # Модель эмбеддингов (выбор из задания 1)
     "embedding_model": {
