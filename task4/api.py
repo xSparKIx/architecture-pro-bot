@@ -26,8 +26,7 @@ class QueryResponse(BaseModel):
     sources: List[str]
     reasoning: str
     confidence: float
-    processing_time: float
-    relevant_chunks: int
+    documents_found: int
 
 class HealthResponse(BaseModel):
     status: str
@@ -55,15 +54,14 @@ async def process_query(request: QueryRequest):
     """Обработка запроса пользователя"""
     try:
         # Обработка через RAG пайплайн
-        response = rag_pipeline.process_query(request.question)
+        response = rag_pipeline.query(request.question)
         
         return QueryResponse(
             answer=response["answer"],
             sources=response["sources"],
             reasoning=response["reasoning"],
             confidence=response["confidence"],
-            processing_time=0.0,  # Можно добавить реальное время
-            relevant_chunks=response["relevant_chunks"]
+            documents_found=response["documents_found"]
         )
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

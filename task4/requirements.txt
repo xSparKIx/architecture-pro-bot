@@ -1,0 +1,19 @@
+langchain
+langchain-community
+
+# Векторная база
+chromadb
+
+# Эмбеддинги - можно использовать более новую версию
+sentence-transformers
+
+# Для работы с файлами
+python-dotenv
+
+# Для API и веб
+fastapi
+uvicorn
+pydantic
+
+# Цветной вывод
+colorama
