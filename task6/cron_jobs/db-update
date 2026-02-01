@@ -1,0 +1,1 @@
+* * * * * . /etc/environment && cd /app && /usr/local/bin/python update_index.py >> /var/log/cron.log 2>&1

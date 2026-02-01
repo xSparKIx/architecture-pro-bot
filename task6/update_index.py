@@ -17,16 +17,16 @@ load_dotenv('../.env')
 
 # Конфигурация
 CONFIG = {
-    "source_folder": os.path.join(os.getcwd(), "task2/knowledge_base"),                     # Папка с документами
+    "source_folder": os.path.join(os.getcwd(), os.getenv('KNOWLEDGE_BASE')),                # Папка с документами
     "persist_directory": os.path.join(os.getcwd(), os.getenv("VECTOR_DB_DIRECTORY")),       # Папка с документами
-    "state_file": os.path.join(os.getcwd(), "task6/update_state.json"),                     # Файл состояния
-    "log_file": os.path.join(os.getcwd(), "task6/update_log.txt"),                          # Файл логов
+    "state_file": os.path.join(os.getcwd(), "update_state.json"),                     # Файл состояния
+    "log_file": os.path.join(os.getcwd(), "update_log.txt"),                          # Файл логов
     "check_interval": int(os.getenv("CHECK_INTERVAL", '86400')),                            # Интервал актуализации логов
     "collection_name": os.getenv("COLLECTION_NAME"),                                        # Имя коллекции в ChromaDB
     "embedding_model": os.getenv("EMBEDDING_MODEL"),                                        # Модель эмбеддингов
-    "chunk_size": int(os.getenv("CHUNK_SIZE")),                                                  # Размер чанка
-    "chunk_overlap": int(os.getenv("CHUNK_OVERLAP")),                                            # Перекрытие чанков
-    "summary_file": os.path.join(os.getcwd(), "task6/update_summary.json"),
+    "chunk_size": int(os.getenv("CHUNK_SIZE")),                                             # Размер чанка
+    "chunk_overlap": int(os.getenv("CHUNK_OVERLAP")),                                       # Перекрытие чанков
+    "summary_file": os.path.join(os.getcwd(), "update_summary.json"),
     "device": os.getenv("EMBEDDING_DEVICE"),
     "vector_db_type": os.getenv('VECTOR_DB'),
 }

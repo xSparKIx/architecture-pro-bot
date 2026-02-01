@@ -1,6 +1,7 @@
 # Обновленные версии для совместимости
 langchain
 langchain-community
+langchain_text_splitters
 
 # Векторная база
 chromadb
@@ -10,11 +11,6 @@ sentence-transformers
 
 # Для работы с файлами
 python-dotenv
-
-# Для API и веб
-fastapi
-uvicorn
-pydantic
 
 # Базовые научные библиотеки
 numpy

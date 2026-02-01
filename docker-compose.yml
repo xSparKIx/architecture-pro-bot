@@ -32,22 +32,30 @@ services:
       - .env
 
   # Сервис для обновления БД по cron (task6)
-  # db_updater:
-  #   build: ./task6
-  #   container_name: db_updater
-  #   volumes:
-  #     - ./task3/index/chroma_db:/app/chroma_data  # общая папка для БД
-  #     - ./task6/cron_jobs:/etc/cron.d/cron_jobs
-  #   command: cron -f
-  #   restart: unless-stopped
-  #   environment:
-  #     - VECTOR_DB_DIRECTORY=/app/chroma_data
-  #   env_file:
-  #     - .env
+  db_updater:
+    build: ./task6
+    container_name: db_updater
+    volumes:
+      - ./task2/knowledge_base:/app/knowledge_base
+      - ./task3/index/chroma_db:/app/chroma_data
+      # Монтируем папку с cron файлами, если хотим менять расписание без пересборки
+      - ./task6/cron_jobs:/etc/cron.d/
+    restart: unless-stopped
+    environment:
+      - VECTOR_DB_DIRECTORY=/app/chroma_data
+      - KNOWLEDGE_BASE=/app/knowledge_base
+      # Для отладки
+      - PYTHONUNBUFFERED=1
+    env_file:
+      - .env
+    # Для просмотра логов cron
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
 
   # Сервис ollama
-  # @todo https://docs.ollama.com/docker
-  # Установил драйверы и тулзы согласно инструкции выше
   ollama:
     image: ollama/ollama:latest
     container_name: ollama
@@ -58,6 +66,10 @@ services:
       - ./etc/ollama/entrypoint.sh:/entrypoint.sh
     restart: unless-stopped
     entrypoint: ["bash", "entrypoint.sh"]
+    gpus: all
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility
 
 volumes:
   chroma_data:
@@ -66,4 +78,10 @@ volumes:
       type: none
       o: bind
       device: ./task3/index/chroma_db
+  knowledge_base:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ./task2/knowledge_base
   ollama_data:
