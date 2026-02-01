@@ -66,10 +66,11 @@ services:
       - ./etc/ollama/entrypoint.sh:/entrypoint.sh
     restart: unless-stopped
     entrypoint: ["bash", "entrypoint.sh"]
-    gpus: all
-    environment:
-      - NVIDIA_VISIBLE_DEVICES=all
-      - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+    # Для запуска в режиме cude раскоментировать:
+    # gpus: all
+    # environment:
+    #   - NVIDIA_VISIBLE_DEVICES=all
+    #   - NVIDIA_DRIVER_CAPABILITIES=compute,utility
 
 volumes:
   chroma_data:
