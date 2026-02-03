@@ -1,0 +1,68 @@
+[
+    {
+        "question": "Кто такой Mace Motherfucker?",
+        "answer": "Mace Motherfucker — это Jedi Master и член Совета джедаев",
+        "keywords": ["мастер джедаев", "совет джедаев", "фиолетовый", "джедай"],
+        "expected_sources": ["character_Mace_Windu.md"]
+    },
+    {
+        "question": "Что ты знаешь про Furry Growler?",
+        "answer": "Furry Growler — это могучий и добрый вуки",
+        "keywords": ["вуки", "кашиик", "мохнатый", "growler", "wookiee"],
+        "expected_sources": ["character_Chewbacca.md"]
+    },
+    {
+        "question": "Кто такие вуки?",
+        "answer": "Вуки — древняя раса, представители которой живут на планете Кашиик",
+        "keywords": ["раса", "кашиик", "культура", "кодекс чести", "wookiee"],
+        "expected_sources": ["character_Chewbacca.md"]
+    },
+    {
+        "question": "Что ты знаешь про Beeping Trashcan?",
+        "answer": "Beeping Trashcan — это робот",
+        "keywords": ["робот", "астромеханик", "beeping", "дроид", "droid"],
+        "expected_sources": ["character_R2-D2.md"]
+    },
+    {
+        "question": "Как Furry Growler познакомился с Scoundrel with a Heart?",
+        "answer": "Furry Growler познакомился с Scoundrel with a Heart в рабском лагере империи",
+        "keywords": ["рабский лагерь", "освобождение", "знакомство", "встреча"],
+        "expected_sources": ["character_Han_Solo.md"]
+    },
+    {
+        "question": "Кто такой Green Grammar Master?",
+        "answer": "Green Grammar Master - это мощнейший джедай своего времени",
+        "keywords": ["мастер джедаев", "мудрость", "зеленый", "грамматика"],
+        "expected_sources": ["character_Yoda.md"]
+    },
+    {
+        "question": "Что ты знаешь про Ice Cube Planet?",
+        "answer": "Ice Cube Planet — это планета",
+        "keywords": ["ледяная", "планета", "ice", "ледник"],
+        "expected_sources": ["place_Hoth.md"]
+    },
+    {
+        "question": "Что ты знаешь про Pajama Emperor?",
+        "answer": "Pajama Emperor - это верховный лидер ситхов",
+        "keywords": ["ситх", "император", "верховный", "пальпатин", "palpatine", "сидиус"],
+        "expected_sources": ["character_Darth_Sidious.md"]
+    },
+    {
+        "question": "Что ты знаешь про Emo Redemption Arc?",
+        "answer": "Emo Redemption Arc - джедай, ставший командующим Первого Ордена под влиянием тёмной стороны",
+        "keywords": ["кайло рен", "искупление", "темная сторона", "первый орден"],
+        "expected_sources": ["character_Ben_Solo.md"]
+    },
+    {
+        "question": "Что ты знаешь про Lava Bath Planet?",
+        "answer": "Lava Bath Planet — лавовая планета",
+        "keywords": ["лавовая", "планета", "лава"],
+        "expected_sources": ["place_Mustafar.md"]
+    },
+    {
+        "question": "Где Skycleaner стал в Breathing Heavy Dad?",
+        "answer": "Lava Bath Planet",
+        "keywords": ["lava", "planet", "Breathing Heavy Dad", "превращение", "Troublemaker", "стал"],
+        "expected_sources": ["place_Mustafar.md", "character_Anakin_Skywalker.md"]
+    }
+]

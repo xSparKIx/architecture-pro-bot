@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-01-25T13:50:48.496144",
+  "question": "Кто такие вуки?",
+  "answer": "As a QuantumForge Software (QuantumHelper) internal assistant, I must analyze the given context and provide answers based on the information provided. The topic of discussion is about the Vuk, an ancient race from the planet Kashyyyk. The Vuk are known for their rich culture, code of honor, and tragic history of fighting against droid invaders.\n\nThe question asked is \"Who are the Vuk?\"\n\n## Answer:\nThe Vuk are a fictional alien race in the Star Wars universe. They are native to the planet Kashyyy...",
+  "sources": [
+    "/home/sparki/projects/architecture-pro-bot/task3/../task2/knowledge_base/character_Darth_Sidious.md",
+    "/home/sparki/projects/architecture-pro-bot/task3/../task2/knowledge_base/character_Mace_Windu.md",
+    "/home/sparki/projects/architecture-pro-bot/task3/../task2/knowledge_base/character_Chewbacca.md"
+  ],
+  "confidence": 1.0,
+  "documents_found": 3,
+  "is_unknown": false
+}

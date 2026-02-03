@@ -1,0 +1,88 @@
+services:
+  telegram_bot:
+      build: ./etc/tg_bot
+      container_name: telegram_bot
+      restart: unless-stopped
+      depends_on:
+        - rag_bot
+      ports:
+        - "3302:8000"
+      environment:
+        - RAG_SERVICE_URL=http://rag_bot:8000
+        - PYTHONUNBUFFERED=1
+        - PYTHONPATH=/app
+      env_file:
+        - ./etc/tg_bot/.env
+
+  # Сервис для бота (task4)
+  rag_bot:
+    build: ./task4
+    container_name: rag_bot
+    volumes:
+      - ./task3/index/chroma_db:/app/chroma_data  # общая папка для БД
+    restart: unless-stopped
+    ports:
+      - "3301:8000"
+    depends_on:
+      - ollama
+    environment:
+      - VECTOR_DB_DIRECTORY=/app/chroma_data
+      - OLLAMA_URL=http://ollama:11434
+    env_file:
+      - .env
+
+  # Сервис для обновления БД по cron (task6)
+  db_updater:
+    build: ./task6
+    container_name: db_updater
+    volumes:
+      - ./task2/knowledge_base:/app/knowledge_base
+      - ./task3/index/chroma_db:/app/chroma_data
+      # Монтируем папку с cron файлами, если хотим менять расписание без пересборки
+      - ./task6/cron_jobs:/etc/cron.d/
+    restart: unless-stopped
+    environment:
+      - VECTOR_DB_DIRECTORY=/app/chroma_data
+      - KNOWLEDGE_BASE=/app/knowledge_base
+      # Для отладки
+      - PYTHONUNBUFFERED=1
+    env_file:
+      - .env
+    # Для просмотра логов cron
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  # Сервис ollama
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - "3300:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+      - ./etc/ollama/entrypoint.sh:/entrypoint.sh
+    restart: unless-stopped
+    entrypoint: ["bash", "entrypoint.sh"]
+    # Для запуска в режиме cude раскоментировать:
+    # gpus: all
+    # environment:
+    #   - NVIDIA_VISIBLE_DEVICES=all
+    #   - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+
+volumes:
+  chroma_data:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ./task3/index/chroma_db
+  knowledge_base:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ./task2/knowledge_base
+  ollama_data:

@@ -1,0 +1,45 @@
+[2026-02-03 03:05:08] [INFO] ==================================================
+[2026-02-03 03:05:08] [INFO] АВТОМАТИЧЕСКОЕ ОБНОВЛЕНИЕ БАЗЫ ЗНАНИЙ
+[2026-02-03 03:05:08] [INFO] ==================================================
+[2026-02-03 03:05:08] [INFO] Последнее обновление: None
+[2026-02-03 03:05:08] [INFO] Файлов отслеживается: 0
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для place_Hoth.md: None -> 871064ea51d9540fb59bcce34d89e004
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для event_Duel_on_Mustafar.md: None -> 5c144da88a7c0c47d0fa8f6f0a49e737
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для transport_Millennium_Falcon.md: None -> c176800c9d3a1878e527d8875258cb1d
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_Obi-Wan_Kenobi.md: None -> c49ab87e76bd31f1214ab2033bac50d3
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_Ben_Solo.md: None -> 05d911adf89067536577f509740e3c6a
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для transport_Naboo_Royal_Starship.md: None -> 73e877c21be4f57122895ea26e83fbfa
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_Anakin_Skywalker.md: None -> 291739984e86b282679554d4b7c74a16
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для place_Christophsis.md: None -> 75435b324f4f6da488bd458876a4b198
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для event_Battle_of_Endor.md: None -> a3b278d8a5107788b0f4d8cf23043cd3
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_Leia_Skywalker_Organa_Solo.md: None -> 6d2b27b0089ad59eed17235e7299be9a
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_Mace_Windu.md: None -> 94ed941132b28544cb9f28d149c4f938
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_Wilhuff_Tarkin.md: None -> c49f0a546921eddefd37e96cea4c442e
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для corrupted.md: None -> c0c146352d1e7e7fc4ec40cc9229ab10
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_Han_Solo.md: None -> 36b1383efd25809eb6a4ea6f8f40057b
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_Ahsoka_Tano.md: None -> 7afbef71d66edbd3656327736cac3b33
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для event_Order_66.md: None -> 45bd2434c9c313075fc48541e377da13
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для place_Naboo.md: None -> 5d3dce270819f50ce85e4476e3a077e0
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_C-3PO.md: None -> ac2fd6bbebecaff3362fce712f52aa2d
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для transport_Gozanti-class_cruiser.md: None -> dddb31118ce0d1b124cdd78b05111263
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_R2-D2.md: None -> a74a76d8a0d1de55c424f8f2d450135a
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для place_Corellia.md: None -> cad10a8f576f374dfc918b995c6ad200
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_Darth_Sidious.md: None -> b74a63ffc6c20e2c38a7035b98ba989d
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_Boba_Fett.md: None -> f4d20741f33d77c0126a4f831691e513
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для event_Duel_in_Palpatines_office.md: None -> b923c04a6cf5cef2139d17ecd8901746
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_Yoda.md: None -> 1854ff539271e9047556f3dca76e3e45
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для transport_T-65B_X-wing_starfighter.md: None -> d89bf5181b8cb97df139e9d4e3ad389a
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_Luke_Skywalker.md: None -> 54af570fb3e53ac9964f4365e1d5a872
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_Chewbacca.md: None -> 189f184d44634d90869a68dbf9a2fc7d
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для place_DS-1_Orbital_Battle_Station.md: None -> bce2de46c6f1768ec584d5156db11d23
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для place_Mustafar.md: None -> 5b907d6feb95c03e4546e8874d567944
+[2026-02-03 03:05:08] [DEBUG] Хеш обновлен для character_Landonis_Balthazar_Calrissian.md: None -> 0376e7bc31ecc1ce264fc04abbceaa41
+[2026-02-03 03:05:08] [INFO] Найдено измененных файлов: 31
+[2026-02-03 03:05:08] [INFO] Найдено файлов для удаления: 0
+[2026-02-03 03:05:49] [INFO] ==================================================
+[2026-02-03 03:05:49] [INFO] ИТОГИ ОБНОВЛЕНИЯ:
+[2026-02-03 03:05:49] [INFO]   Время выполнения: 40.95 сек
+[2026-02-03 03:05:49] [INFO]   Всего чанков в базе: 18551
+[2026-02-03 03:05:49] [INFO]   Файлов отслеживается: 31
+[2026-02-03 03:05:49] [INFO] ==================================================
+[2026-02-03 03:05:49] [INFO] Сводка сохранена в update_summary.json

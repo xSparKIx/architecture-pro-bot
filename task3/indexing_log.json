@@ -1,0 +1,15 @@
+{
+  "start_time": "2026-01-25T13:36:37.341302",
+  "total_chunks": 18574,
+  "total_documents": 31,
+  "processing_time": 34.333107233047485,
+  "model_info": {
+    "name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "dimension": "384",
+    "max_length": 512,
+    "device": "cuda",
+    "vocab_size": "unknown"
+  },
+  "embedding_time": 19.97696280479431,
+  "end_time": "2026-01-25T13:37:11.967161"
+}
