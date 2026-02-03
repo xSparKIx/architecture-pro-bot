@@ -1,0 +1,195 @@
+{
+  "timestamp": "2026-02-03T03:05:49.028874",
+  "files_processed": 31,
+  "chunks_created": 18551,
+  "duration_seconds": 40.95,
+  "tracked_files_count": 31,
+  "file_list": [
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/place_Hoth.md",
+      "status": "new",
+      "hash": "871064ea51d9540fb59bcce34d89e004",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/event_Duel_on_Mustafar.md",
+      "status": "new",
+      "hash": "5c144da88a7c0c47d0fa8f6f0a49e737",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/transport_Millennium_Falcon.md",
+      "status": "new",
+      "hash": "c176800c9d3a1878e527d8875258cb1d",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_Obi-Wan_Kenobi.md",
+      "status": "new",
+      "hash": "c49ab87e76bd31f1214ab2033bac50d3",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_Ben_Solo.md",
+      "status": "new",
+      "hash": "05d911adf89067536577f509740e3c6a",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/transport_Naboo_Royal_Starship.md",
+      "status": "new",
+      "hash": "73e877c21be4f57122895ea26e83fbfa",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_Anakin_Skywalker.md",
+      "status": "new",
+      "hash": "291739984e86b282679554d4b7c74a16",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/place_Christophsis.md",
+      "status": "new",
+      "hash": "75435b324f4f6da488bd458876a4b198",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/event_Battle_of_Endor.md",
+      "status": "new",
+      "hash": "a3b278d8a5107788b0f4d8cf23043cd3",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_Leia_Skywalker_Organa_Solo.md",
+      "status": "new",
+      "hash": "6d2b27b0089ad59eed17235e7299be9a",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_Mace_Windu.md",
+      "status": "new",
+      "hash": "94ed941132b28544cb9f28d149c4f938",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_Wilhuff_Tarkin.md",
+      "status": "new",
+      "hash": "c49f0a546921eddefd37e96cea4c442e",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/corrupted.md",
+      "status": "new",
+      "hash": "c0c146352d1e7e7fc4ec40cc9229ab10",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_Han_Solo.md",
+      "status": "new",
+      "hash": "36b1383efd25809eb6a4ea6f8f40057b",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_Ahsoka_Tano.md",
+      "status": "new",
+      "hash": "7afbef71d66edbd3656327736cac3b33",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/event_Order_66.md",
+      "status": "new",
+      "hash": "45bd2434c9c313075fc48541e377da13",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/place_Naboo.md",
+      "status": "new",
+      "hash": "5d3dce270819f50ce85e4476e3a077e0",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_C-3PO.md",
+      "status": "new",
+      "hash": "ac2fd6bbebecaff3362fce712f52aa2d",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/transport_Gozanti-class_cruiser.md",
+      "status": "new",
+      "hash": "dddb31118ce0d1b124cdd78b05111263",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_R2-D2.md",
+      "status": "new",
+      "hash": "a74a76d8a0d1de55c424f8f2d450135a",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/place_Corellia.md",
+      "status": "new",
+      "hash": "cad10a8f576f374dfc918b995c6ad200",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_Darth_Sidious.md",
+      "status": "new",
+      "hash": "b74a63ffc6c20e2c38a7035b98ba989d",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_Boba_Fett.md",
+      "status": "new",
+      "hash": "f4d20741f33d77c0126a4f831691e513",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/event_Duel_in_Palpatines_office.md",
+      "status": "new",
+      "hash": "b923c04a6cf5cef2139d17ecd8901746",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_Yoda.md",
+      "status": "new",
+      "hash": "1854ff539271e9047556f3dca76e3e45",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/transport_T-65B_X-wing_starfighter.md",
+      "status": "new",
+      "hash": "d89bf5181b8cb97df139e9d4e3ad389a",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_Luke_Skywalker.md",
+      "status": "new",
+      "hash": "54af570fb3e53ac9964f4365e1d5a872",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_Chewbacca.md",
+      "status": "new",
+      "hash": "189f184d44634d90869a68dbf9a2fc7d",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/place_DS-1_Orbital_Battle_Station.md",
+      "status": "new",
+      "hash": "bce2de46c6f1768ec584d5156db11d23",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/place_Mustafar.md",
+      "status": "new",
+      "hash": "5b907d6feb95c03e4546e8874d567944",
+      "old_hash": null
+    },
+    {
+      "path": "/home/sparki/projects/architecture-pro-bot/task2/knowledge_base/character_Landonis_Balthazar_Calrissian.md",
+      "status": "new",
+      "hash": "0376e7bc31ecc1ce264fc04abbceaa41",
+      "old_hash": null
+    }
+  ]
+}

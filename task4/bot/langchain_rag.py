@@ -8,6 +8,7 @@ from langchain_community.llms import Ollama
 from langchain_community.chat_models import ChatOpenAI
 from bot.prompt_templates import get_cot_few_shot_prompt_template
 from dotenv import load_dotenv
+from chromadb.config import Settings
 import re
 import json
 
@@ -38,7 +39,22 @@ class LangChainRAGPipeline:
         
         # Загружаем векторную БД
         try:
+
+            # Создаем изолированный клиент для этого инстанса
+            import chromadb
+            client = chromadb.PersistentClient(
+                path=vector_store_config['persist_directory'],
+                settings=Settings(
+                    anonymized_telemetry=False,
+                    allow_reset=True
+                )
+            )
+            
+            # Проверяем существование директории
+            os.makedirs(vector_store_config['persist_directory'], exist_ok=True)
+
             vector_store = Chroma(
+                client=client,
                 persist_directory=vector_store_config['persist_directory'],
                 collection_name=vector_store_config['collection_name'],
                 embedding_function=embeddings
